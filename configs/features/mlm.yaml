@@ -1,0 +1,35 @@
+group_name: mlm
+enabled: true
+
+columns_expected:
+  - mlm_log_prob
+  - mlm_rank
+  - mlm_entropy
+
+target_word_column: en_target_word
+context_column: L1_context
+clue_column: en_target_clue
+output_prefix: mlm
+
+compute_mode: always_compute
+
+model:
+  name: bert-base-multilingual-cased
+  max_length: 256
+  device: cpu
+
+preprocessing:
+  fillna:
+    mlm_log_prob: 0.0
+    mlm_rank: 0
+    mlm_entropy: 0.0
+  cast:
+    mlm_log_prob: float
+    mlm_rank: int
+    mlm_entropy: float
+
+validation:
+  clip_rank_min: 1
+  forbid_negative_values:
+    - mlm_rank
+    - mlm_entropy

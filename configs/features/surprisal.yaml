@@ -1,0 +1,55 @@
+group_name: surprisal
+enabled: true
+
+columns_expected:
+  - surprisal_masked
+  - surprisal_pll
+  - surprisal_subword_mean
+  - surprisal_subword_sum
+
+target_word_column: en_target_word
+context_column: L1_context
+output_prefix: surprisal
+
+# Options:
+# - always_compute
+# - compute_if_missing
+# - use_existing_only
+compute_mode: always_compute
+
+compute_masked: true
+compute_pll: true
+
+# Options:
+# - mean
+# - sum
+aggregate_subwords: mean
+
+model:
+  # Default mBERT
+  name: bert-base-multilingual-cased
+
+  # Alternative
+  # name: xlm-roberta-base
+
+  max_length: 256
+  device: cpu
+
+preprocessing:
+  fillna:
+    surprisal_masked: 0.0
+    surprisal_pll: 0.0
+    surprisal_subword_mean: 0.0
+    surprisal_subword_sum: 0.0
+  cast:
+    surprisal_masked: float
+    surprisal_pll: float
+    surprisal_subword_mean: float
+    surprisal_subword_sum: float
+
+validation:
+  forbid_negative_values:
+    - surprisal_masked
+    - surprisal_pll
+    - surprisal_subword_mean
+    - surprisal_subword_sum

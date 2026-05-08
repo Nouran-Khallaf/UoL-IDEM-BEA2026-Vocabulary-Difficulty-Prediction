@@ -1,0 +1,50 @@
+group_name: semantic
+enabled: true
+
+columns_expected:
+  - semantic_usas_domain_match
+  - semantic_usas_entropy_unweighted
+  - semantic_usas_entropy_weighted
+  - semantic_semantic_shift
+  - L1_source_word_has_alternative
+  - L1_source_word_alternative_count
+  - L1_source_word_has_excluded_word
+
+source_word_column: L1_source_word
+target_word_column: en_target_word
+clue_column: en_target_clue
+context_column: L1_context
+
+
+
+output_prefix: semantic
+
+# Options:
+# - always_compute
+# - compute_if_missing
+# - use_existing_only
+compute_mode: always_compute
+
+# Important for German / missing USAS cases
+fallback_when_domains_missing: true
+
+preprocessing:
+  fillna:
+    semantic_usas_domain_match: 0.0
+    semantic_usas_entropy_unweighted: 0.0
+    semantic_usas_entropy_weighted: 0.0
+    semantic_semantic_shift: 0.0
+  cast:
+    semantic_usas_domain_match: float
+    semantic_usas_entropy_unweighted: float
+    semantic_usas_entropy_weighted: float
+    semantic_semantic_shift: float
+
+validation:
+  clip_similarity_to_unit_interval: true
+  entropy_base: 2.718281828
+  forbid_negative_values:
+    - semantic_usas_domain_match
+    - semantic_usas_entropy_unweighted
+    - semantic_usas_entropy_weighted
+    - semantic_semantic_shift

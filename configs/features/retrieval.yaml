@@ -1,0 +1,41 @@
+group_name: retrieval
+enabled: true
+
+columns_expected:
+  - retrieval_target_in_clue
+  - retrieval_target_in_context
+  - retrieval_candidate_count
+  - retrieval_target_prior
+
+target_word_column: en_target_word
+clue_column: en_target_clue
+context_column: L1_context
+
+# Optional if you later precompute/store candidate counts
+# candidate_count_column: cand_count
+
+output_prefix: retrieval
+
+# Options:
+# - always_compute
+# - compute_if_missing
+# - use_existing_only
+compute_mode: always_compute
+
+preprocessing:
+  fillna:
+    retrieval_target_in_clue: 0
+    retrieval_target_in_context: 0
+    retrieval_candidate_count: 0
+    retrieval_target_prior: 0.0
+  cast:
+    retrieval_target_in_clue: int
+    retrieval_target_in_context: int
+    retrieval_candidate_count: int
+    retrieval_target_prior: float
+
+validation:
+  clip_probability_to_unit_interval: true
+  forbid_negative_values:
+    - retrieval_candidate_count
+    - retrieval_target_prior

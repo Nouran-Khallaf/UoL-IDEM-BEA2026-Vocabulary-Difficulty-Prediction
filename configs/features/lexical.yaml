@@ -1,0 +1,179 @@
+group_name: lexical
+group_description: "Surface and lexical-difficulty features derived from the English target and L1 source fields."
+enabled: true
+
+scope:
+  applicable_languages:
+    - de
+    - es
+    - cn
+  closed_track_ok: true
+  requires_external_resources: true
+  notes: "Uses public lexical resources such as frequency lists and syllable tools."
+
+features:
+  active:
+    - freq_en
+    - freq_percentile
+    - target_len
+    - source_len
+    - syllables
+    - pos_encoded
+    - clue_ratio
+
+  optional:
+    - clue_length
+    - clue_initial_match
+    - target_vowel_ratio
+    - target_consonant_ratio
+    - source_char_len_norm
+    - target_char_len_norm
+
+column_map:
+  freq_en: freq_en
+  freq_percentile: freq_percentile
+  target_len: target_len
+  source_len: source_len
+  syllables: syllables
+  pos_encoded: pos_encoded
+  clue_ratio: clue_ratio
+  clue_length: clue_length
+  clue_initial_match: clue_initial_match
+  target_vowel_ratio: target_vowel_ratio
+  target_consonant_ratio: target_consonant_ratio
+  source_char_len_norm: source_char_len_norm
+  target_char_len_norm: target_char_len_norm
+
+dependencies:
+  required_input_columns:
+    - en_target_word
+    - en_target_pos
+    - en_target_clue
+    - L1_source_word
+  optional_input_columns: []
+
+resources:
+  frequency:
+    enabled: true
+    source_name: null
+    source_path: null
+    log_transform: false
+    percentile_from_training_only: true
+    lowercase_lookup: true
+    fallback_value: 0.0
+
+  syllables:
+    enabled: true
+    method: heuristic
+    language: en
+    fallback_value: 0
+
+  pos:
+    enabled: true
+    encoding: label
+    unknown_value: -1
+    fit_on_training_only: true
+
+  clue:
+    enabled: true
+    ratio_formula: "len(clue_without_underscores) / max(len(target_word), 1)"
+    strip_spaces: true
+    strip_underscores: true
+    lowercase_compare: true
+
+preprocessing:
+  fillna:
+    freq_en: 0.0
+    freq_percentile: 0.0
+    target_len: 0
+    source_len: 0
+    syllables: 0
+    pos_encoded: -1
+    clue_ratio: 0.0
+    clue_length: 0
+    clue_initial_match: 0
+    target_vowel_ratio: 0.0
+    target_consonant_ratio: 0.0
+    source_char_len_norm: 0.0
+    target_char_len_norm: 0.0
+
+  cast:
+    freq_en: float
+    freq_percentile: float
+    target_len: int
+    source_len: int
+    syllables: int
+    pos_encoded: int
+    clue_ratio: float
+    clue_length: int
+    clue_initial_match: int
+    target_vowel_ratio: float
+    target_consonant_ratio: float
+    source_char_len_norm: float
+    target_char_len_norm: float
+
+  clipping:
+    enabled: false
+    lower: null
+    upper: null
+
+  scaling_hints:
+    suggested_for_linear_models:
+      - freq_en
+      - freq_percentile
+      - target_len
+      - source_len
+      - syllables
+      - clue_ratio
+    suggested_unscaled_for_tree_models:
+      - freq_en
+      - freq_percentile
+      - target_len
+      - source_len
+      - syllables
+      - pos_encoded
+      - clue_ratio
+
+validation:
+  require_all_active_features_declared: true
+  fail_on_missing_required_input_columns: true
+  fail_on_missing_active_output_columns: true
+  fail_on_inf_values: true
+  warn_on_constant_columns: true
+  warn_on_high_missingness: true
+  high_missingness_threshold: 0.3
+
+  forbid_negative_values:
+    - target_len
+    - source_len
+    - syllables
+    - clue_length
+
+  range_checks:
+    freq_percentile:
+      min: 0.0
+      max: 1.0
+    clue_ratio:
+      min: 0.0
+      max: 1.0
+    target_vowel_ratio:
+      min: 0.0
+      max: 1.0
+    target_consonant_ratio:
+      min: 0.0
+      max: 1.0
+
+diagnostics:
+  save_summary: true
+  report:
+    - rows_total
+    - rows_success
+    - rows_failed
+    - missing_rate_per_feature
+    - constant_features
+    - warnings
+
+future_switches:
+  enable_subword_length: false
+  enable_morphological_features: false
+  enable_cefr_lexicon_lookup: false

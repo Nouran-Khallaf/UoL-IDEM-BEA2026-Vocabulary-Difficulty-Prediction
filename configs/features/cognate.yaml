@@ -1,0 +1,70 @@
+group_name: cognate
+enabled: true
+
+columns_expected:
+  - cognet_exact_pair
+  - cognet_shared_concept
+  - cognet_intersection_count
+  - weighted_levenshtein_sim
+  - cognate_sim
+  - cognate_source_has_alternative
+  - cognate_source_alternative_count
+  - cognate_source_has_excluded_word
+
+source_word_column: L1_source_word
+target_word_column: en_target_word
+output_column: cognate_sim
+weighted_levenshtein_column: weighted_levenshtein_sim
+
+source_has_alternative_column: L1_source_word_has_alternative
+source_alternative_count_column: L1_source_word_alternative_count
+source_has_excluded_word_column: L1_source_word_has_excluded_word
+
+output_source_has_alternative_column: cognate_source_has_alternative
+output_source_alternative_count_column: cognate_source_alternative_count
+output_source_has_excluded_word_column: cognate_source_has_excluded_word
+
+compute_mode: always_compute
+use_cognet_columns_if_available: true
+cognet_exact_pair_column: cognet_exact_pair
+cognet_shared_concept_column: cognet_shared_concept
+cognet_source_found_column: cognet_source_found
+cognet_target_found_column: cognet_target_found
+cognet_intersection_count_column: cognet_intersection_count
+
+weight_char_similarity: 0.35
+weight_weighted_levenshtein: 0.35
+weight_cognet_signal: 0.30
+
+preprocessing:
+  fillna:
+    cognet_exact_pair: 0
+    cognet_shared_concept: 0
+    cognet_intersection_count: 0
+    weighted_levenshtein_sim: 0.0
+    cognate_sim: 0.0
+    cognate_source_has_alternative: 0
+    cognate_source_alternative_count: 0
+    cognate_source_has_excluded_word: 0
+  cast:
+    cognet_exact_pair: int
+    cognet_shared_concept: int
+    cognet_intersection_count: int
+    weighted_levenshtein_sim: float
+    cognate_sim: float
+    cognate_source_has_alternative: int
+    cognate_source_alternative_count: int
+    cognate_source_has_excluded_word: int
+
+validation:
+  clip_to_unit_interval: true
+  min_token_length: 1
+  forbid_negative_values:
+    - cognet_exact_pair
+    - cognet_shared_concept
+    - cognet_intersection_count
+    - weighted_levenshtein_sim
+    - cognate_sim
+    - cognate_source_has_alternative
+    - cognate_source_alternative_count
+    - cognate_source_has_excluded_word

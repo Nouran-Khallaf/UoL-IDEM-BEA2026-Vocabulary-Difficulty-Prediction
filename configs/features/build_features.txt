@@ -1,0 +1,1 @@
+python -m src.cli.build_features_cli --config configs/experiments/de_all_features_ridge_v1.yaml --split all --save-resolved-config --print-summary
