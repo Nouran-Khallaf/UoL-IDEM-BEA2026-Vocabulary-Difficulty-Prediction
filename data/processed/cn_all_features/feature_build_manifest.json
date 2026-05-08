@@ -1,0 +1,32 @@
+{
+  "experiment_name": "cn_all_features",
+  "feature_groups": [
+    "frequency",
+    "lexical",
+    "mlm",
+    "surprisal",
+    "retrieval",
+    "cognate",
+    "semantic",
+    "mlm_predicted_word",
+    "baseline_meta"
+  ],
+  "splits": {
+    "test": {
+      "n_rows": 748,
+      "n_columns": 118,
+      "n_feature_columns": 78,
+      "feature_groups_applied": [
+        "frequency",
+        "lexical",
+        "mlm",
+        "surprisal",
+        "retrieval",
+        "cognate",
+        "semantic",
+        "mlm_predicted_word",
+        "baseline_meta"
+      ]
+    }
+  }
+}

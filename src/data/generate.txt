@@ -1,0 +1,6 @@
+python -m src.data.enrich_with_cognet \
+  --input data/raw/de_train.csv \
+  --output data/processed/de_features_v1/de_train_features_with_cognet.csv \
+  --matches-output data/processed/de_features_v1/de_train_cognet_matches.csv \
+  --stats-output data/processed/de_features_v1/de_train_cognet_stats.json \
+  --cognet-path data/interim/cognet/cognet_bea_subset.parquet

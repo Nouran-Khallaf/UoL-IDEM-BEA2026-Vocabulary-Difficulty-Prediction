@@ -1,0 +1,20 @@
+{
+  "cognet_path": "data/external/CogNet-v2.0.tsv",
+  "n_chunks": 41,
+  "n_rows_seen": 8117982,
+  "n_rows_kept": 69050,
+  "n_bad_lines_skipped": 0,
+  "source_langs_kept": [
+    "cmn",
+    "deu",
+    "spa",
+    "zho"
+  ],
+  "target_lang_kept": "eng",
+  "rows_by_lang_pair": {
+    "eng->cmn": 887,
+    "eng->deu": 26533,
+    "eng->spa": 41400,
+    "eng->zho": 230
+  }
+}

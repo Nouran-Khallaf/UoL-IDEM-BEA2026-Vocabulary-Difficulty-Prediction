@@ -1,0 +1,104 @@
+language: es
+language_name: Spanish
+task_type: regression
+track: closed
+
+files:
+  
+  train: data/processed/es/es_train_cognet_semantics.csv
+  dev: data/processed/es/es_dev_cognet_semantics.csv
+  test: data/processed/es/es_test_cognet_semantics.csv
+
+
+
+columns:
+  context: L1_context
+  source_word: L1_source_word
+  en_word: en_target_word
+  en_pos: en_target_pos
+  clue: en_target_clue
+
+schema:
+  id_column: item_id
+  l1_column: L1
+  target_column: GLMM_score
+  text_columns:
+    context: L1_context
+    source_word: L1_source_word
+    en_word: en_target_word
+    en_pos: en_target_pos
+    clue: en_target_clue
+
+required_columns:
+  train:
+    - item_id
+    - L1
+    - GLMM_score
+    - L1_context
+    - L1_source_word
+    - en_target_word
+    - en_target_pos
+    - en_target_clue
+  dev:
+    - item_id
+    - L1
+    - GLMM_score
+    - L1_context
+    - L1_source_word
+    - en_target_word
+    - en_target_pos
+    - en_target_clue
+  test: []
+
+optional_columns: []
+
+availability:
+  train_required: true
+  dev_required: true
+  test_required: false
+
+validation:
+  allowed_l1_values:
+    - es
+  enforce_single_l1: true
+  require_nonempty_text_columns: true
+  require_unique_item_id_within_file: true
+  require_target_in_train: true
+  require_target_in_dev: true
+  require_target_in_test: false
+  allow_parallel_item_ids_across_languages: true
+  forbid_blank_strings_in:
+    - L1_context
+    - L1_source_word
+    - en_target_word
+    - en_target_pos
+    - en_target_clue
+
+typing:
+  cast_columns:
+    item_id: int
+    L1: str
+    GLMM_score: float
+    L1_context: str
+    L1_source_word: str
+    en_target_word: str
+    en_target_pos: str
+    en_target_clue: str
+
+filters:
+  keep_only_l1: es
+  strip_whitespace: true
+  normalize_unicode: true
+
+split_policy:
+  train_uses: train
+  validation_uses: dev
+  test_uses: test
+  allow_train_dev_merge_for_feature_bank: false
+  allow_train_dev_merge_for_supervised_fit: false
+
+closed_track_constraints:
+  use_only_this_l1_for_supervised_training: true
+  allow_public_pretrained_models: true
+  allow_public_lexical_resources: true
+  allow_predictions_from_other_l1_models: false

@@ -1,0 +1,678 @@
+item_id,L1,GLMM_score,joined_text
+6092,de,-3.015031153,seltsam [SEP] Ihr seltsames Verhalten irritierte mich. Ich konnte es mir nicht erklären. [SEP] b______ [SEP] bizarre
+6093,de,-0.629398506,Beweis [SEP] Die Polizei hat nach wie vor keinen Beweis für ihre Unschuld. [SEP] p____ [SEP] proof
+6094,de,0.077224807,"kürzlich [SEP] Eine kürzliche Studie konnte nachweisen, dass Hunde und Menschen sehr ähnliche Emotionen empfinden können. [SEP] r_____ [SEP] recent"
+6095,de,-0.617876021,Assistent [SEP] Sie arbeitet als persönliche Assistentin. [SEP] a________ [SEP] assistant
+6096,de,2.528110808,Frühling [SEP] Im kommenden Frühling möchten sie wieder mit dem Laufen beginnen. [SEP] s_____ [SEP] spring
+6097,de,-0.241997295,Ernährung [SEP] Eine gesunde und ausgewogene Ernährung ist für Kinder wichtig. [SEP] n________ [SEP] nutrition
+6098,de,3.032813697,Milch [SEP] Der Junge trinkt ein Glas Milch. [SEP] m___ [SEP] milk
+6099,de,-1.630427004,versucht [SEP] Er ist wegen versuchten Betrugs angeklagt. [SEP] a________ [SEP] attempted
+6100,de,1.842056642,Boden [SEP] Der Boden ist aus Holz. [SEP] f____ [SEP] floor
+6101,de,0.486773429,Weichheit [SEP] Dieser Stoff zeichnet sich besonders durch seine Weichheit aus. [SEP] s_______ [SEP] softness
+6102,de,-0.754780729,Baumstamm [SEP] Ein großer Baumstamm versperrt die Straße. [SEP] l__ [SEP] log
+6103,de,-1.888262124,"spritzen [SEP] Als er ohnmächtig am Boden liegt, spritzen wir etwas kaltes Wasser in sein Gesicht. [SEP] s_____ [SEP] splash"
+6104,de,-1.207371634,bewusstlos [SEP] Sie fanden ihn bewusstlos auf dem Teppich. [SEP] u__________ [SEP] unconscious
+6105,de,-0.06329971,Botschaft [SEP] Ich habe meinen Pass während der Reise verloren und musste deshalb die österreichische Botschaft in Thailand aufsuchen. [SEP] e______ [SEP] embassy
+6106,de,1.756210897,anordnen [SEP] Der Präsident ordnete eine Sitzung an. [SEP] o____ [SEP] order
+6107,de,1.930955234,schön [SEP] Dein Kleid schaut schön aus. [SEP] n___ [SEP] nice
+6108,de,0.0748343,Scheinen [SEP] Das Scheinen der Straßenlaternen schimmerte in der Dunkelheit. [SEP] g___ [SEP] glow
+6109,de,-1.62726735,beseitigen [SEP] Eine Computer-Rechtschreibüberprüfung könnte die meisten Tippfehler beseitigen. [SEP] e________ [SEP] eliminate
+6110,de,-0.596473273,tragisch [SEP] Ihr Mann starb vor zwei Jahren bei einem tragischen Unfall. [SEP] t_____ [SEP] tragic
+6111,de,0.109311141,Feuerwerk [SEP] Das Silvesterfeuerwerk war traumhaft schön. [SEP] f________ [SEP] fireworks
+6112,de,-0.674202136,Regierungs [SEP] Es handelt sich dabei um eine internationale Regierungsorganisation. [SEP] g___________ [SEP] governmental
+6113,de,2.339807677,Ferienlager [SEP] Meine Kinder gehen jeden Summer ins Ferienlager. [SEP] c___ [SEP] camp
+6114,de,-0.037010624,festgelegt [SEP] Alle involvierten Mitarbeiter geben alles für das Projekt während der festgelegten Zeitspanne. [SEP] g____ [SEP] given
+6115,de,-0.043111391,schriftlich [SEP] Die schriftlichen Prüfungen waren ziemlich schwer. [SEP] w______ [SEP] written
+6116,de,3.419266769,Export [SEP] Die Ersatzteile sind für den Export produziert worden. [SEP] e_____ [SEP] export
+6117,de,2.388758385,Woche [SEP] Es hat die ganze Woche geschneit. [SEP] w___ [SEP] week
+6118,de,-2.127896602,Steuer [SEP] Ich muss mein Einkommen bei der Steuerbehörde angeben. [SEP] f_____ [SEP] fiscal
+6119,de,0.256430817,Ernährung [SEP] Eine gesunde und ausgewogene Ernährung ist wichtig für Kinder. [SEP] d___ [SEP] diet
+6120,de,0.022678606,abonnieren [SEP] Sie können den Newsletter über den folgenden Link abonnieren. [SEP] s________ [SEP] subscribe
+6121,de,-1.533975062,Handel [SEP] Die Firma betreibt Handel mit China. [SEP] c_______ [SEP] commerce
+6122,de,0.110833506,misshandeln [SEP] Er hat seine Macht klar zu seinem Vorteil missbraucht. [SEP] a____ [SEP] abuse
+6123,de,1.650137085,in [SEP] Die Fußballspieler liefen ins Stadion. [SEP] i___ [SEP] into
+6124,de,-0.935796992,fortgeschrittener [SEP] Es werden Sprachkurse für fortgeschrittene Anfänger angeboten. [SEP] i___________ [SEP] intermediate
+6125,de,0.708114528,Niere [SEP] Ihm musste eine Niere operativ entfernt werden. [SEP] k_____ [SEP] kidney
+6126,de,-5.535934118,blockieren [SEP] Das neue Gesetz verbietet den Export von Alkohol. [SEP] b__ [SEP] bar
+6127,de,-2.58847768,Änderung [SEP] Mit einigen kleinen Änderungen kann dieser Text veröffentlicht werden. [SEP] r_______ [SEP] revision
+6128,de,-0.698973603,Werbespot [SEP] Was ist dein Lieblingswerbespot im Fernsehen? [SEP] c_________ [SEP] commercial
+6129,de,-0.790965216,entschlüsseln [SEP] Er konnte die geheime Nachricht entschlüsseln. [SEP] d_____ [SEP] decode
+6130,de,2.283707471,"Kontext [SEP] Viele Aspekte werden falsch interpretiert, wenn man den historischen Kontext nicht betrachtet. [SEP] c______ [SEP] context"
+6131,de,2.356921617,Panik [SEP] Nach einem Schuss breitete sich Panik in der Menschenmenge aus. [SEP] p____ [SEP] panic
+6132,de,-2.074253515,"letztere [SEP] Wenn ich mich zwischen Kaffee und Tee entscheiden muss, wähle ich immer Letzteres. [SEP] l_____ [SEP] latter"
+6133,de,-3.418413247,im [SEP] Er hatte sich geirrt und war im Unrecht. [SEP] m_______ [SEP] mistaken
+6134,de,-2.381898322,passend [SEP] Sie ist passend gekleidet. [SEP] a____________ [SEP] appropriately
+6135,de,-2.964902516,ungeeignet [SEP] Dieser Mitarbeiter ist wirklich ungeeignet für diese Position. [SEP] i__________ [SEP] incompetent
+6136,de,-0.92988897,wörtlich [SEP] Die wörtliche Bedeutung ist eine andere. [SEP] l______ [SEP] literal
+6137,de,2.200259671,Komödie [SEP] Meine Lieblingsfilme sind Komödien. [SEP] c_____ [SEP] comedy
+6138,de,0.698805841,Prüfung [SEP] Es sind viele durch die Prüfung gefallen. [SEP] e__________ [SEP] examination
+6139,de,-0.176988979,aktualisieren [SEP] Für die neue Ausgabe müssen wir alles aktualisieren. [SEP] u_____ [SEP] update
+6140,de,-1.18201175,im [SEP] Ich danke Ihnen im Namen meines Sohnes. [SEP] b_____ [SEP] behalf
+6141,de,-3.257333851,angeben [SEP] Sie müssen für die Versicherung das Datum und den Ort des Unfalls angeben. [SEP] s______ [SEP] specify
+6142,de,-3.501338456,Leitlinien [SEP] Wir müssen innerhalb unserer Leitlinien handeln. [SEP] p________ [SEP] parameter
+6143,de,0.905569895,Artikel [SEP] Er hat mehrere Artikel für die Zeitschrift verfasst. [SEP] a______ [SEP] article
+6144,de,0.204855495,bezweifeln [SEP] Das bezweifle ich sehr. [SEP] d____ [SEP] doubt
+6145,de,2.138670114,"jemand [SEP] Jemand hat vergessen, die Tür zu versperren. [SEP] s______ [SEP] someone"
+6146,de,-1.170300276,Flutwelle [SEP] Die Flutwelle hatte verheerende Auswirkungen auf die Inselwelt. [SEP] t______ [SEP] tsunami
+6147,de,2.255173038,Telefon [SEP] Kann ich bitte Ihr Telefon benutzen? [SEP] p____ [SEP] phone
+6148,de,-0.874846771,echt [SEP] Die Jacke ist aus echtem Leder. [SEP] g______ [SEP] genuine
+6149,de,0.828503216,individuell [SEP] Im Unterricht wird auf die individuellen Bedürfnisse der Schüler eingegangen. [SEP] i_________ [SEP] individual
+6150,de,-4.478125672,konsequent [SEP] Der Student verfolgt konsequent seine Ziele. [SEP] c___________ [SEP] consistently
+6151,de,0.059742207,Blatt [SEP] Nehmt bitte ein Blatt Papier und faltet es einmal in der Mitte. [SEP] s____ [SEP] sheet
+6152,de,2.311125502,Abend [SEP] Wir treffen uns morgen Abend um acht Uhr. [SEP] e______ [SEP] evening
+6153,de,2.024433603,endlich [SEP] Endlich kam sie nach Hause. [SEP] f______ [SEP] finally
+6154,de,-0.062538081,Hals [SEP] Die Antwort blieb mir im Halse stecken. [SEP] t_____ [SEP] throat
+6155,de,-1.858718024,Störung [SEP] Sie leidet an einer Kreislaufstörung. [SEP] d_______ [SEP] disorder
+6156,de,2.17715338,Klima [SEP] Afrika ist bekannt für das heiße Klima. [SEP] c______ [SEP] climate
+6157,de,1.819777537,Fantasy [SEP] Sie liest am liebsten Fantasy-Bücher. [SEP] f______ [SEP] fantasy
+6158,de,-0.474161622,Melodie [SEP] Sie summte eine bekannte Melodie. [SEP] t___ [SEP] tune
+6159,de,-0.175577704,Röhre [SEP] Sie verlegten Röhren aus Stahl und Plastik im Boden. [SEP] t___ [SEP] tube
+6160,de,-0.013765403,"etwa [SEP] Er ist etwa 1, 80 Meter groß. [SEP] a____ [SEP] about"
+6161,de,-3.817662391,"wirklich [SEP] Ich danke dir, das war wirklich nett von dir. [SEP] m_____ [SEP] mighty"
+6162,de,-1.783331026,hervorrufen [SEP] Das Erlebnis rief furchtbare Albträume hervor. [SEP] e____ [SEP] evoke
+6163,de,2.22005381,Augenbraue [SEP] Sie glaubte ihm nicht und zog eine Augenbraue hoch. [SEP] b___ [SEP] brow
+6164,de,-1.446425588,"anführen [SEP] Der Professor will, dass wir viele Quellen anführen. [SEP] c___ [SEP] cite"
+6165,de,-2.713355745,"Miliz [SEP] Die Miliz wurde gegründet, um im Ernstfall die Bürger zu schützen. [SEP] m______ [SEP] militia"
+6166,de,1.498072177,suchen [SEP] Ich suche gerade meine Brille. Kannst du sie irgendwo sehen? [SEP] s_____ [SEP] search
+6167,de,-0.357643625,Kiefer [SEP] Die alte Frau hat sich beim Sturz den Kiefer gebrochen. [SEP] j__ [SEP] jaw
+6168,de,-1.070003898,uneingeschränkt [SEP] Wir fordern einen uneingeschränkten Zugang zu wissenschaftlicher Literatur. [SEP] l________ [SEP] limitless
+6169,de,2.182716404,radikal [SEP] Wir müssen bei diesem Problem eine radikale Lösung anwenden. [SEP] r______ [SEP] radical
+6170,de,-3.098880036,"dominierend [SEP] Die dominierende Weltreligion ist das Christentum, gefolgt von dem Islam, Hinduismus und Buddhismus. [SEP] d________ [SEP] dominated"
+6171,de,0.86376943,Erwärmung [SEP] Die Fachleute sprechen von einer jahreszeitlich bedingten Erwärmung des Meeres. [SEP] w______ [SEP] warming
+6172,de,-1.990636033,Portion [SEP] Es war eine wirklich große Portion Salat und nur eine sehr kleine Pizza. [SEP] s______ [SEP] serving
+6173,de,-3.346156993,Gedankenang [SEP] Ich kann seinen Gedankgengang nur teilweise nachvollziehen. [SEP] r________ [SEP] reasoning
+6174,de,1.75176516,Organismus [SEP] Der Organismus greift den Körper an. [SEP] o_______ [SEP] organism
+6175,de,1.534758209,"unterschiedlich [SEP] Ich probierte unterschiedliche Hosen an, aber keine passte so richtig gut. [SEP] d________ [SEP] different"
+6176,de,-1.366659381,"bedauerlich [SEP] Es war ein bedauerlicher Unfall, aber sicherlich keine Absicht. [SEP] u__________ [SEP] unfortunate"
+6177,de,1.288511145,Nudeln [SEP] Ich esse gerne Nudeln. [SEP] p____ [SEP] pasta
+6178,de,-1.621771118,Hütte [SEP] Wir übernachten auf einer Berghütte. [SEP] c____ [SEP] cabin
+6179,de,-0.662655582,Verkäufer [SEP] Die Verkäuferin organisiert morgen noch die Lieferung der Waren. [SEP] s_____ [SEP] seller
+6180,de,0.864803739,Intoleranz [SEP] Intoleranz wird hier nicht geduldet. [SEP] i__________ [SEP] intolerance
+6181,de,1.065387,Menge [SEP] Auf die Qualität und nicht auf die Menge sollte es eigentlich ankommen. [SEP] q_______ [SEP] quantity
+6182,de,1.80225076,Schock [SEP] Die schlechte Nachricht hat ihn wie ein Schock getroffen. [SEP] s____ [SEP] shock
+6183,de,1.377735683,sich [SEP] Unsere Kinder benehmen sich heute sehr schlecht. [SEP] b_____ [SEP] behave
+6184,de,-3.752457262,Beunruhigung [SEP] Ich sehe keinen Grund zur Beunruhigung. [SEP] a____ [SEP] alarm
+6185,de,0.50856051,ernst [SEP] Es handelt sich um eine ernste Erkrankung und wir sollten die Situation nicht verharmlosen. [SEP] s______ [SEP] serious
+6186,de,1.939444365,zentral [SEP] Das Hotel liegt sehr zentral. [SEP] c______ [SEP] central
+6187,de,-2.212290644,"baulich [SEP] Das Haus ist sehr alt und bauliche Maßnahmen sind notwendig, bevor dort wieder jemand leben kann. [SEP] s_________ [SEP] structural"
+6188,de,1.293760244,Hemd [SEP] Meistens trägt er ein Hemd und Jeans. [SEP] s____ [SEP] shirt
+6189,de,-3.942403997,zu [SEP] Die berechtigten Sportler nahmen an dem Wettkampf teil. [SEP] e_______ [SEP] eligible
+6190,de,-1.60895833,etwas [SEP] In manchen Situationen ist sie etwas steif und förmlich. [SEP] s_______ [SEP] somewhat
+6191,de,-2.76094883,fest [SEP] Nach all den Jahren hätte sie wirklich gerne einen festen Job mit guten Aussichten. [SEP] s_____ [SEP] stable
+6192,de,0.269140517,verdoppelt [SEP] Die Grundstrückspreise haben sich fast verdoppelt. [SEP] d______ [SEP] doubled
+6193,de,-2.609097536,"gedeihen [SEP] Kinder gedeihen am besten, wenn man sie Kinder sein lässt. [SEP] t_____ [SEP] thrive"
+6194,de,-2.341353873,Beteiligung [SEP] Das Projekt verlangt die Beteiligung aller Mitarbeiter. [SEP] i__________ [SEP] involvement
+6195,de,1.697367355,"schießen [SEP] Sie hatten die strikte Anweisung, nicht auf die Geiselnehmer zu schießen. [SEP] s____ [SEP] shoot"
+6196,de,-2.408581455,"Wirklichkeitssinn [SEP] Obwohl sie im Herzen durchaus romantisch ist, hat sie einen stark ausgeprägten Wirklichkeitssinn. [SEP] r______ [SEP] realism"
+6197,de,-2.09086449,"herausfinden [SEP] Ich muss unbedingt herausfinden, wie ich das Rätsel lösen kann. [SEP] f_____ [SEP] figure"
+6198,de,-2.595651089,erheblich [SEP] Der neue Mitschüler hat erhebliche Fortschritte gemacht und sich gut in die Gruppe eingefügt. [SEP] s__________ [SEP] significant
+6199,de,0.755791831,rasten [SEP] Setz dich hin und raste für ein paar Minuten. [SEP] r___ [SEP] rest
+6200,de,0.989572661,"allgemein [SEP] Die Beschreibung des Täters ist so allgemein, dass es sich um fast jeden handeln könnte. [SEP] g______ [SEP] general"
+6201,de,1.029403511,Café [SEP] Lass uns in das Café um die Ecke Frühstücken gehen. [SEP] c___ [SEP] cafe
+6202,de,-0.772535276,genau [SEP] Die Expertinnen konnten sich hier auf keine genaue Definition einigen. [SEP] p______ [SEP] precise
+6203,de,-0.113324552,Handinnenfläche [SEP] Sie hat sich beim Sturz die Handinnenflächen aufgeschürft. [SEP] p___ [SEP] palm
+6204,de,1.384828228,Grippe [SEP] Zurzeit haben viele Menschen die Grippe. [SEP] f__ [SEP] flu
+6205,de,0.003380823,Backstein [SEP] Dieses Haus besteht aus Backstein. [SEP] b____ [SEP] brick
+6206,de,-1.236274388,kurz [SEP] Es gab eine kurze Verzögerung. [SEP] b____ [SEP] brief
+6207,de,0.542320231,Garnitur [SEP] Das Wetter ist schlecht und du solltest auf jeden Fall eine zweite Garnitur Kleidung mitnehmen. [SEP] s__ [SEP] set
+6208,de,-2.955122962,"beschützen [SEP] Es braucht viel mehr Bemühungen, unsere Umwelt wirklich nachhaltig zu beschützen. [SEP] s________ [SEP] safeguard"
+6209,de,1.255409573,wiegen [SEP] Wie viel wiegen die Kisten? [SEP] w____ [SEP] weigh
+6210,de,-2.470877164,wiederhergestellt [SEP] Die Parkanlage des Schlosses wurde auf Basis alter Pläne und Gemälde wiederhergestellt. [SEP] r____________ [SEP] reconstructed
+6211,de,-0.702999354,Bildschirmschoner [SEP] Also bei den modernen Bildschirmen heutzutage kannst du dir einen Bildschirmschoner wirklich sparen. [SEP] s__________ [SEP] screensaver
+6212,de,-0.303734959,Entspannung [SEP] Zur Entspannung nehme ich gern ein heißes Bad oder gehe früher als sonst ins Bett. [SEP] r_________ [SEP] relaxation
+6213,de,-2.658339718,"Netzwerkfähigkeit [SEP] Heutzutage kann man davon ausgehen, dass Handys über eine mobile Netzwerkfähigkeit verfügen. [SEP] c___________ [SEP] connectivity"
+6214,de,-0.35382707,übergroß [SEP] Der LKW-Fahrer fährt das erste Mal mit einem übergroßen Lastwagen. [SEP] o_______ [SEP] oversize
+6215,de,1.503953989,städtisch [SEP] Das städtische Wohnen wird nicht gerade billiger. [SEP] u____ [SEP] urban
+6216,de,-0.340672578,Staatsbürgerschaft [SEP] Ich habe letztes Jahr die österreichische Staatsbürgerschaft erhalten. [SEP] c__________ [SEP] citizenship
+6217,de,0.626357702,Wäsche [SEP] Mein Vater macht die Wäsche und meine Mutter kocht. [SEP] l______ [SEP] laundry
+6218,de,1.440176473,angezogen [SEP] Sie ist hübsch angezogen. [SEP] d______ [SEP] dressed
+6219,de,-2.785065138,ausgeprägt [SEP] Die Unterschiede zwischen den beiden Parteien sind von Jahr zu Jahr mehr ausgeprägt. [SEP] p_________ [SEP] pronounced
+6220,de,-0.775395087,Vereinbarung [SEP] Laut unserer Vereinbarung bist du für die Müllentsorgung zuständig. [SEP] a________ [SEP] agreement
+6221,de,3.341996593,Bett [SEP] Ich schlafe in einem großem Bett. [SEP] b__ [SEP] bed
+6222,de,0.553750902,gültig [SEP] Dieser Ausweis ist für fünf Jahre gültig. [SEP] v____ [SEP] valid
+6223,de,-1.415984609,"Verzweiflung [SEP] Die Heldin stürzte sich am Ende des Stücks von der Schlossmauer, um sich in ihrer Verzweiflung das Leben zu nehmen. [SEP] d______ [SEP] despair"
+6224,de,1.074167113,Lachen [SEP] Sie hat ein heiteres Lachen. [SEP] l____ [SEP] laugh
+6225,de,-2.859799159,ultimativ [SEP] Das ist der ultimative Reiseführer. Ich würde nur den kaufen. [SEP] d_________ [SEP] definitive
+6226,de,0.560082249,"Fundamentalist [SEP] Mit Fundamentalisten kann man nicht diskutieren, ganz gleich, ob es sich um Christen oder um Atheisten handelt. [SEP] f_____________ [SEP] fundamentalist"
+6227,de,0.147562142,wertvoll [SEP] Nach einigen wertvollen Hinweisen wusste die Polizei schon viel mehr über die Täter. [SEP] v_______ [SEP] valuable
+6228,de,2.543639473,lateinisch [SEP] Kennst du dieses lateinische Buch? [SEP] l____ [SEP] latin
+6229,de,2.255088285,aktiv [SEP] Sie ist sehr aktiv und unternimmt viel in ihrer Freizeit. [SEP] a_____ [SEP] active
+6230,de,0.795233541,"innerhalb [SEP] Sie versprachen, innerhalb des nächsten Jahres Wahlen abzuhalten. [SEP] w_____ [SEP] within"
+6231,de,1.423524137,Finanzwesen [SEP] Sie kennen sich im Finanzwesen sehr gut aus. [SEP] f______ [SEP] finance
+6232,de,0.064418277,Teilnehmer [SEP] Alle Teilnehmer haben sich im Saal versammelt. [SEP] p__________ [SEP] participant
+6233,de,-1.875540585,rasend [SEP] Man kann den rasenden Zug im ganzen Tal gut hören. [SEP] s_______ [SEP] speeding
+6234,de,1.422971183,teuer [SEP] Sie kauft teure Kleidung. [SEP] e________ [SEP] expensive
+6235,de,-1.926146254,Ausbruch [SEP] Er verspürte plötzlich einen Ausbruch von Heiterkeit. [SEP] b____ [SEP] burst
+6236,de,-1.554606297,sofortige [SEP] Wir können Ihnen leider keine sofortige Lösung anbieten. [SEP] i______ [SEP] instant
+6237,de,-1.030262105,verweisen [SEP] An dieser Stelle verweist die Autorin auf ein vorheriges Kapitel. [SEP] r____ [SEP] refer
+6238,de,-0.156414417,unvergesslich [SEP] Das war ein unvergesslicher Abend. [SEP] m________ [SEP] memorable
+6239,de,1.48904818,Unfall [SEP] Zum Glück wurde bei dem Autounfall niemand verletzt. [SEP] c____ [SEP] crash
+6240,de,-2.560388506,treu [SEP] Das Auto hat uns treue Dienste geleistet. [SEP] f_________ [SEP] faithfully
+6241,de,0.586386839,Spende [SEP] Mit den Spenden wurde eine Schule in Indien errichtet. [SEP] d_______ [SEP] donation
+6242,de,-2.617816001,Erscheinung [SEP] Die Nordlichter sind eine wahre Erscheinung. [SEP] p_________ [SEP] phenomenon
+6243,de,0.007515159,Decke [SEP] Ich schlafe mit einer dicken Decke im Winter. [SEP] b______ [SEP] blanket
+6244,de,-3.157460796,Rückgang [SEP] Wir verzeichnen derzeit einen starken wirtschaftlichen Rückgang in dieser Region. [SEP] r_________ [SEP] regression
+6245,de,0.231354323,"mehrere [SEP] Es verstrichen mehrere Wochen, bis er sich wieder ganz fit fühlte. [SEP] s______ [SEP] several"
+6246,de,-1.12444094,Bademantel [SEP] Manche Wochenenden verbringe ich einfach nur im Bademantel. [SEP] r___ [SEP] robe
+6247,de,-0.951798559,"verzweifelt [SEP] Sie rennt verzweifelt die Straße entlang und hofft, ihren Hund zu finden. [SEP] d__________ [SEP] desperately"
+6248,de,2.241615728,Stein [SEP] Jemand hat die Autoscheibe mit einem Stein eingeschlagen. [SEP] s____ [SEP] stone
+6249,de,0.874309448,Kreuzworträtsel [SEP] Meine Mutter macht jeden Tag ein Kreuzworträtsel. [SEP] c________ [SEP] crossword
+6250,de,-1.592605052,Scheinwerfer [SEP] Der rechte Scheinwerfer am Auto ist kaputt. Ich muss ihn in der Werkstatt reparieren lassen. [SEP] h________ [SEP] headlight
+6251,de,1.097496067,patriotische [SEP] Er ist ein patriotischer junger Mann. [SEP] p________ [SEP] patriotic
+6252,de,-2.544572514,finanzielle [SEP] Sie hat seine finanzielle Unterstützung dankend angenommen. [SEP] a_________ [SEP] assistance
+6253,de,-1.212342383,berechnend [SEP] Er ist ein berechnender Mensch. Ihm kannst du nicht vertrauen. [SEP] c__________ [SEP] calculating
+6254,de,-2.492226466,"falsch [SEP] Es tut mir leid, ich habe dich falsch verstanden. [SEP] m______ [SEP] mistake"
+6255,de,-2.376916883,sich [SEP] Unsere Katzen wagen sich sehr selten weiter als bis zum Garten vor. [SEP] v______ [SEP] venture
+6256,de,0.872796528,Minderheit [SEP] Eine kleine Minderheit hat sich für das Wahlrecht mit 16 ausgesprochen. [SEP] m_______ [SEP] minority
+6257,de,1.419112934,"schwitzen [SEP] Langsam begann er, zu schwitzen. [SEP] s____ [SEP] sweat"
+6258,de,-0.091984296,"frei [SEP] Ich habe meinem Hund erlaubt, frei herumzulaufen. [SEP] f_____ [SEP] freely"
+6259,de,2.70385463,Saal [SEP] Der Empfang wurde im Saal gefeiert. [SEP] h___ [SEP] hall
+6260,de,1.736931174,orientalisch [SEP] Das Restaurant mit orientalischer Küche ist sehr gut. [SEP] o_______ [SEP] oriental
+6261,de,0.306032138,Sahne [SEP] Möchtest du Sahne zu deinem Stück Kuchen? [SEP] c____ [SEP] cream
+6262,de,-1.346418606,Schwankung [SEP] Der Verlauf der Krankheit ist bei allen Menschen ohne nennenswerte Schwankung gleich. [SEP] v________ [SEP] variation
+6263,de,0.638342933,leise [SEP] Während des Unterrichts lesen die Kinder oft leise in ihren Büchern. [SEP] q______ [SEP] quietly
+6264,de,-1.616495057,öffentlich [SEP] Viele Informationen sind durch Wikipedia nun öffentlich zugänglich gemacht worden. [SEP] p_______ [SEP] publicly
+6265,de,-2.158807041,"vertrauensvoll [SEP] Das Ziel ist es, eine vertrauensvolle Beziehung aufzubauen. (NICHT trustful) [SEP] t_______ [SEP] trusting"
+6266,de,-0.385727158,anmelden [SEP] TeilnehmerInnen müssen sich vor dem Kurs beim Sekretariat anmelden. [SEP] r_______ [SEP] register
+6267,de,-1.055850656,"geschmackvoll [SEP] Er trug keine teuren, aber geschmackvolle Anzüge. [SEP] t_______ [SEP] tasteful"
+6268,de,1.28803913,Nadel [SEP] Die Schneiderin steckt das Kleid mit Nadeln ab. [SEP] p__ [SEP] pin
+6269,de,1.884504122,chinesisch [SEP] Sie holen sich jeden Donnerstag chinesisches Essen. [SEP] c______ [SEP] chinese
+6270,de,-2.742245074,"dazu [SEP] Die Tickets berechtigen uns, das gesamte Areal zu betreten. [SEP] e______ [SEP] entitle"
+6271,de,2.185080578,Mineral [SEP] Mineralien werden im Museum ausgestellt. [SEP] m______ [SEP] mineral
+6272,de,-0.556271693,Auszählung [SEP] Es braucht mehr Transparenz bei der Auszählung. [SEP] c_______ [SEP] counting
+6273,de,1.725555742,Segeln [SEP] Das Segeln ist ihre große gemeinsame Leidenschaft. [SEP] s______ [SEP] sailing
+6274,de,-2.631787376,"sich [SEP] Wir bemühen uns stets darum, eine gute Lösung für alle zu finden. [SEP] s_____ [SEP] strive"
+6275,de,1.417923653,Journalismus [SEP] Sie hat Journalismus in Wien studiert. [SEP] j_________ [SEP] journalism
+6276,de,-1.117607476,löschen [SEP] Der Virus hat alle Fotos vom Computer gelöscht. [SEP] e____ [SEP] erase
+6277,de,-1.44810642,Aufschwung [SEP] Der Aufschwung des Kleinwagens ist bald vorüber. [SEP] b___ [SEP] boom
+6278,de,-2.640562147,sich [SEP] Der Student schlägt sich hervorragend bei der Diskussion. [SEP] e____ [SEP] excel
+6279,de,-0.11677458,ausgezeichnet [SEP] Wir besitzen ein altes Auto. Es ist aber in einem ausgezeichneten Zustand. [SEP] e________ [SEP] excellent
+6280,de,1.67309359,"Grund [SEP] Das ist ein wirklich guter Grund, um von der Arbeit zu Hause zu bleiben. [SEP] r_____ [SEP] reason"
+6281,de,-1.571595689,Schutz [SEP] Der Staat hat zum Schutz frei lebender Tiere einen neuen Nationalpark errichtet. [SEP] c___________ [SEP] conservation
+6282,de,0.595690889,"Materialismus [SEP] Materialismus bezeichnet die Tendenz, dass Besitz und Gewinn die obersten Ziele des Lebens sind. [SEP] m__________ [SEP] materialism"
+6283,de,-0.505806868,Psychotherapeut/Psychotherapeutin [SEP] Mit Hilfe einer Psychotherapeutin konnte ich meine alten Denkmuster endlich ablegen und neu beginnen. [SEP] p______________ [SEP] psychotherapist
+6284,de,-5.092750216,jäh [SEP] Wir wurden jäh angehalten und mussten unsere Ausweise vorzeigen. [SEP] s____ [SEP] short
+6285,de,3.092124664,schnell [SEP] Mein Vater liebt schnelle Autos. [SEP] f___ [SEP] fast
+6286,de,-2.689142898,nachsichtig [SEP] Ich bin nachsichtig und verzeihe dir. [SEP] f________ [SEP] forgiving
+6287,de,-0.463862255,Fremdenverkehr [SEP] Die Region lebt hauptsächlich vom Fremdenverkehr. [SEP] t______ [SEP] tourism
+6288,de,-2.228834072,stattlich [SEP] Der Mann hat ein stattliches Auftreten. [SEP] m_______ [SEP] majestic
+6289,de,-2.311331536,Anerkennung [SEP] Bei ihrem Begräbnis zollte ihr ein Geschäftspartner in seiner Rede Anerkennung. [SEP] t______ [SEP] tribute
+6290,de,-0.92035855,"Stolz [SEP] Es erfüllte ihn mit großem Stolz, dass er sein Land bei diesem Wettkampf vertreten durfte. [SEP] p____ [SEP] pride"
+6291,de,-0.674530485,verängstigt [SEP] Das Kind ist verängstigt. Es wird dir bestimmt nicht antworten. [SEP] f_________ [SEP] frightened
+6292,de,1.547650865,Kopfkissen [SEP] Ich schlafe üblicherweise auf einem weichen Kopfkissen. [SEP] p_____ [SEP] pillow
+6293,de,1.817752842,Explosion [SEP] Zehn Menschen starben bei der Explosion. [SEP] e________ [SEP] explosion
+6294,de,-2.259072153,Verbindungsstecker [SEP] Verwende den Verbindungsstecker für das Handy. [SEP] c________ [SEP] connector
+6295,de,-2.49903882,sich [SEP] Die öffentliche Meinung wird sich nach diesem Zwischenfall massiv ändern. [SEP] s____ [SEP] shift
+6296,de,-2.346225036,Straffälliger [SEP] Das ist ein Gefängnis für jugendliche Straffällige. [SEP] o_______ [SEP] offender
+6297,de,-0.420318103,Rezept [SEP] Ich habe den Kuchen nach dem Rezept meiner Urgroßmutter gebacken. [SEP] r_____ [SEP] recipe
+6298,de,1.204789502,Zug [SEP] Ich reise lieber mit dem Zug als mit dem Auto. [SEP] r___ [SEP] rail
+6299,de,-0.129133554,Preisnachlass [SEP] Frühbucher erhalten einen großzügigen Preisnachlass. [SEP] d_______ [SEP] discount
+6300,de,1.635101756,ermorden [SEP] Der Mann hat angeblich eine junge Frau ermordet. [SEP] m_____ [SEP] murder
+6301,de,0.671395236,Meisterwerk [SEP] Ihr neues Gemälde ist ein wahres Meisterwerk. [SEP] m__________ [SEP] masterpiece
+6302,de,1.690839351,Idealvorstellung [SEP] Was ist deine Idealvorstellung von einem perfekten Leben? [SEP] i____ [SEP] ideal
+6303,de,-1.851776332,Bücherschrank [SEP] Bitte ordne das neue Buch in den Bücherschrank ein. [SEP] b_______ [SEP] bookcase
+6304,de,2.895094655,Krankenpfleger [SEP] Die Krankenpflegerin arbeitet im Krankenhaus. [SEP] n____ [SEP] nurse
+6305,de,0.995580988,jdn/etw [SEP] Heuer dominiert die Farbe Rot in der neuen Herbstmode. [SEP] d_______ [SEP] dominate
+6306,de,-1.384020499,Gang [SEP] Wollen Sie am Fenster oder am Gang sitzen? [SEP] a____ [SEP] aisle
+6307,de,-0.1924364,Orchester [SEP] Meine Tochter spielt im Schulorchester. [SEP] o________ [SEP] orchestra
+6308,de,3.202735698,sieben [SEP] Schneewittchen lebte für eine Weile bei den sieben Zwergen. [SEP] s____ [SEP] seven
+6309,de,-0.124070834,Kredit [SEP] Die Firma hat einen Kredit aufgenommen. [SEP] l___ [SEP] loan
+6310,de,-0.799742568,Schreibmaschine [SEP] Das Manuskript wurde auf einer Schreibmaschine geschrieben. [SEP] t_________ [SEP] typewriter
+6311,de,2.192249831,"indirekt [SEP] Wenn man die indirekte Rede verwendet, muss man keine Anführungszeichen setzen. [SEP] i_______ [SEP] indirect"
+6312,de,1.999387533,Loch [SEP] Die Kinder graben ein Loch in die Erde. [SEP] h___ [SEP] hole
+6313,de,-3.824510981,fest [SEP] Der alte Mann setzte sich den Hut wieder fest auf den Kopf auf. [SEP] j__ [SEP] jam
+6314,de,-0.560411054,Historiker [SEP] Die Historikerin schreibt ein Buch über das letzte Jahrhundert. [SEP] h________ [SEP] historian
+6315,de,-2.997261278,ansteckend [SEP] Die ansteckende Krankheit verbreitete sich schnell. [SEP] c_______ [SEP] catching
+6316,de,-0.188907942,Atom [SEP] Die Wissenschaft hat die Atombombe erfunden. [SEP] a_____ [SEP] atomic
+6317,de,-3.48859305,gefühlvoll [SEP] Das Theater war äußerst gefühlvoll. [SEP] l______ [SEP] lyrical
+6318,de,0.106663588,Verbreitung [SEP] Wir wollen die Verbreitung von Extremismus durch mehr Geld für Schulen einbremsen. [SEP] s_____ [SEP] spread
+6319,de,-3.070707906,große [SEP] Im Ozean leben eine große Menge verschiedener Fischarten. [SEP] a________ [SEP] abundance
+6320,de,-0.80042055,Aufstieg [SEP] Die Wanderroute beinhaltet einen steilen Aufstieg. [SEP] c____ [SEP] climb
+6321,de,1.523775431,Arbeitstag [SEP] Ihr Arbeitstag dauert normalerweise sechs Stunden. [SEP] w______ [SEP] workday
+6322,de,-2.218892338,Vertraulichkeit [SEP] Firmendokumente haben unterschiedliche Stufen an Vertraulichkeit. [SEP] c______________ [SEP] confidentiality
+6323,de,-2.454229607,Front [SEP] Die Soldaten kämpften an der Front. [SEP] f________ [SEP] frontline
+6324,de,2.971797406,rechts [SEP] Könnten Sie an der nächsten Kreuzung rechts abbiegen. [SEP] r____ [SEP] right
+6325,de,0.036087701,Psychologe/Psychologin [SEP] Sie bietet als Psychologin auch Sitzungen für Paare an. [SEP] p___________ [SEP] psychologist
+6326,de,-0.062239012,Ausgleichen [SEP] Das Ausgleichen des Kontos hat Vorrang. [SEP] b________ [SEP] balancing
+6327,de,-0.727923669,vergessen [SEP] Ich habe mein Arbeitsbuch zu Hause vergessen. [SEP] f_____ [SEP] forget
+6328,de,0.593651543,verhaften [SEP] Die Polizei verhaftete den lang gesuchten Verbrecher. [SEP] a_____ [SEP] arrest
+6329,de,-1.275075257,"Insasse [SEP] Die Insassen schauten im Gemeinschaftsraum etwas fern, bevor sie schlafen gingen. [SEP] i_____ [SEP] inmate"
+6330,de,-0.739403561,"noch [SEP] Haben Sie sonst noch einen Wunsch? - Nein, danke, das ist alles. [SEP] e___ [SEP] else"
+6331,de,-0.510199316,Privatlehrer [SEP] Ihre Eltern stellten eine Privatlehrerin für sie ein. [SEP] t____ [SEP] tutor
+6332,de,0.777307126,fragwürdig [SEP] Die Ergebnisse dieses Experiments erscheinen äußerst fragwürdig. [SEP] q___________ [SEP] questionable
+6333,de,1.274137131,Interpretation [SEP] Für diesen Satz gibt es nur eine mögliche Interpretation. [SEP] i_____________ [SEP] interpretation
+6334,de,-0.813593514,Fahrpreis [SEP] Der erhöhte Fahrpreis des Taxifahrers war aus meiner Sicht nicht gerechtfertigt. [SEP] f___ [SEP] fare
+6335,de,3.98709275,Kamel [SEP] In unserem letzten Urlaub sind wir auf einem Kamel geritten. [SEP] c____ [SEP] camel
+6336,de,2.429139093,anfangen [SEP] Morgen fangen die Kurse wieder an. [SEP] b____ [SEP] begin
+6337,de,-0.894127392,preisgünstig [SEP] Die Jacke war relativ preisgünstig. [SEP] i__________ [SEP] inexpensive
+6338,de,-1.461230634,Dienstgrad [SEP] Nach diesem Einsatz wurde die Polizistin zu einem höheren Dienstgrad befördert. [SEP] r___ [SEP] rank
+6339,de,-0.969577448,"zeigen [SEP] Die Studie zeigt, dass ein Leben ohne Bargeld für viele Menschen nicht möglich erscheint. [SEP] d__________ [SEP] demonstrate"
+6340,de,-3.009775736,steigern [SEP] Er hat seine Leistungen in den vergangenen Wochen klar gesteigert und seine Note verbessern können. [SEP] b____ [SEP] boost
+6341,de,0.792871577,Strecke [SEP] Die kurze Strecke zum Bahnhof können wir zu Fuß gehen. [SEP] d_______ [SEP] distance
+6342,de,-0.982772088,psychologisch [SEP] Nach einer längeren Auszeit erholte er sich gänzlich und gilt jetzt als psychologisch stabil. [SEP] p______________ [SEP] psychologically
+6343,de,-1.468069619,fröhlich [SEP] Der kleine Paul ist ein fröhliches Kind. [SEP] c_______ [SEP] cheerful
+6344,de,0.642393904,inoffiziell [SEP] Der Präsident stattete Frankreich einen inoffiziellen Besuch ab. [SEP] u_________ [SEP] unofficial
+6345,de,-2.075509857,entnehmen [SEP] Sie öffnete die Schublade und entnahm das Dokument. [SEP] e______ [SEP] extract
+6346,de,-0.599943478,Genauigkeit [SEP] Er trifft den Ball immer mit höchster Genauigkeit. [SEP] p________ [SEP] precision
+6347,de,-0.928769171,Körperhaltung [SEP] Nehmen Sie als erstes eine bequeme Körperhaltung ein. [SEP] p_______ [SEP] position
+6348,de,0.282163606,wiederverwertet [SEP] Für unsere Produkte verwenden wir 20 bis 40 % wiederverwertetes Papier. [SEP] r_______ [SEP] recycled
+6349,de,-0.872644483,Weide [SEP] Kühe grasen auf der Weide. [SEP] f____ [SEP] field
+6350,de,0.046065837,Atom [SEP] Sie wollen ein neues Atomkraftwerk bauen. [SEP] n______ [SEP] nuclear
+6351,de,-0.260610697,"Mailbox [SEP] Als er seine Mailbox endlich abhörte, wurde ihm alles klar. [SEP] v________ [SEP] voicemail"
+6352,de,0.765827273,geschmückt [SEP] Der geschmückte Baum sieht toll aus. [SEP] d________ [SEP] decorated
+6353,de,2.768208594,Arbeiter [SEP] Sie verdient ihr Geld als Arbeiterin in einer großen Fabrik. [SEP] w_____ [SEP] worker
+6354,de,0.159354744,Vorschau [SEP] Wir hatten Glück und konnten uns Kinotickets für die Vorschau des neuen Superheldenfilms sichern. [SEP] p______ [SEP] preview
+6355,de,-0.591526855,nichts [SEP] Ich habe nichts gegen die laute Musik. [SEP] m___ [SEP] mind
+6356,de,-1.32836013,"Ziel [SEP] Das Ziel dieses Projektes ist es, mehr Leben in die Innenstadt zu bringen. [SEP] p______ [SEP] purpose"
+6357,de,-0.431777529,Wahnsinn [SEP] Dein Vorhaben ist reiner Wahnsinn. [SEP] m______ [SEP] madness
+6358,de,-1.281375501,Känguru [SEP] In Australien habe ich ein Känguru gesehen. [SEP] k_______ [SEP] kangaroo
+6359,de,0.18975463,Übersetzer [SEP] Sie arbeitet als Übersetzerin in einem renommierten Verlag. [SEP] t_________ [SEP] translator
+6360,de,-1.956953229,auf [SEP] Wir stießen auf Probleme und mussten uns eine neue Vorgehensweise einfallen lassen. [SEP] e________ [SEP] encounter
+6361,de,-2.434573126,Gesetzgeber [SEP] Der Gesetzgeber hat ein neues Gesetz erlassen. [SEP] l_______ [SEP] lawmaker
+6362,de,-3.30055098,Gefühllosigkeit [SEP] Ihre Gefühllosigkeit ist unerklärlich. [SEP] i____________ [SEP] insensitivity
+6363,de,2.842169711,trinken [SEP] Nach dem Sport trinke ich viel Wasser. [SEP] d____ [SEP] drink
+6364,de,2.140599848,und [SEP] Zwei und zwei ist vier. [SEP] p___ [SEP] plus
+6365,de,1.067694148,"Lokal [SEP] Ich esse wirklich gern in diesem Lokal, weil es die besten Suppen und Eintöpfe anbietet. [SEP] r_________ [SEP] restaurant"
+6366,de,0.051474204,Bestrafung [SEP] Ich muss mir noch eine ordentliche Bestrafung für euch überlegen. [SEP] p_________ [SEP] punishment
+6367,de,1.579611678,Begabung [SEP] Er hatte eine große künstlerische Begabung. [SEP] t_____ [SEP] talent
+6368,de,0.072959887,bewusst [SEP] Er ist sich der Ernsthaftigkeit seiner Lage bewusst. [SEP] a____ [SEP] aware
+6369,de,2.436273847,Wirklichkeit [SEP] In Wirklichkeit sieht er noch viel besser aus als im Fernsehen. [SEP] r______ [SEP] reality
+6370,de,-0.63193644,verwandeln [SEP] Kann ein einzelner Abend einen Menschen derart verwandeln? [SEP] t________ [SEP] transform
+6371,de,-1.963616521,Umsatz [SEP] Der jährliche Umsatz der Firma beträgt mehr als 13 Millionen Dollar. [SEP] t_______ [SEP] turnover
+6372,de,-0.286578319,blitzen [SEP] Das Licht im Wohnzimmer blitzte einmal und dann war es komplett dunkel. [SEP] f____ [SEP] flash
+6373,de,2.42605015,Haltestelle [SEP] Ich würde gerne bei der nächsten Haltestelle aussteigen. [SEP] s___ [SEP] stop
+6374,de,0.066662913,etabliert [SEP] Er ist ein etablierter Schriftsteller. [SEP] e__________ [SEP] established
+6375,de,1.660566107,"Geschmack [SEP] Ich mag den Geruch von Kaffee, den Geschmack aber nicht. [SEP] t____ [SEP] taste"
+6376,de,2.297661741,"verstehen [SEP] Du verstehst doch diese Anweisungen, nicht wahr? [SEP] u_________ [SEP] understand"
+6377,de,3.430220296,Film [SEP] Der Film hat mir gut gefallen. [SEP] f___ [SEP] film
+6378,de,0.354339442,"heben [SEP] Wenn jemand etwas sagen möchte, dann hebt bitte die Hand. [SEP] r____ [SEP] raise"
+6379,de,-0.035567913,freilassen [SEP] Die Regierung wird einige der Gefangenen freilassen. [SEP] r______ [SEP] release
+6380,de,2.289109467,niedrig [SEP] Um unser Haus haben wir eine niedrige Mauer. [SEP] l__ [SEP] low
+6381,de,-2.573466061,Einsatz [SEP] Nach diesem großen Einsatz wird sich der Erfolg sicher einstellen. [SEP] c_________ [SEP] commitment
+6382,de,1.507491163,"Kritiker [SEP] Kritiker behaupten, dass die Pläne nicht fachgerecht umgesetzt worden sind. [SEP] c_____ [SEP] critic"
+6383,de,-2.353885352,umfangreich [SEP] Mein Vater liest sehr viel und hat eine umfangreiche Bibliothek zu Hause. [SEP] e________ [SEP] extensive
+6384,de,-0.537473084,jdn/etw [SEP] Diese Show zieht Menschen aus dem ganzen Land an. [SEP] a______ [SEP] attract
+6385,de,-2.628285157,Ausschuss [SEP] Der Untersuchungsausschuss interviewte alle Angeklagten. [SEP] c_________ [SEP] commission
+6386,de,-0.450904558,"Tendenz [SEP] Die Tendenz geht dahin, wieder mehr romantische Filme zu drehen. [SEP] t____ [SEP] trend"
+6387,de,0.722122622,"besprechen [SEP] Wir treffen uns im Café, um die weitere Vorgehensweise zu besprechen. [SEP] d______ [SEP] discuss"
+6388,de,-3.27138676,innewohnend [SEP] Dieser lauwarme Lichtregen ist nur hier in der Region innewohnend. [SEP] i_______ [SEP] inherent
+6389,de,-1.29273787,"Annahme [SEP] Die Ergebnisse unterstützen die Annahme, dass eine pflanzliche Ernährung die beste Therapie gegen Herzinfarkte ist. [SEP] h_________ [SEP] hypothesis"
+6390,de,1.577685286,"auf [SEP] Auf Wiedersehen, ich komme nächste Woche wieder! [SEP] g______ [SEP] goodbye"
+6391,de,2.424103735,Künstler [SEP] Die Bilder sind von einem großartigen Künstler. [SEP] a_____ [SEP] artist
+6392,de,-0.001848212,ungerecht [SEP] Sie besaßen einen ungerechten Vorteil. (NICHT unjust) [SEP] u_____ [SEP] unfair
+6393,de,-0.790045569,zuvor [SEP] Sie war zuvor in der Logistik tätig und wechselt jetzt in einen neuen Bereich. [SEP] p_________ [SEP] previously
+6394,de,-0.241802109,Eifersucht [SEP] Der Mann kämpft mit seiner Eifersucht. [SEP] j_______ [SEP] jealousy
+6395,de,2.442170273,Hotdog [SEP] Der Imbissstand verkauft Hotdogs. [SEP] h_____ [SEP] hotdog
+6396,de,-0.719261546,Überlebender [SEP] Die Überlebenden sehnten sich nach Freiheit. [SEP] s_______ [SEP] survivor
+6397,de,-1.504471716,Hinterlassenschaft [SEP] Er wird die Hinterlassenschaft seines Großvaters antreten. [SEP] l_____ [SEP] legacy
+6398,de,1.664631549,Anfänger [SEP] Du stellst dich nicht schlecht an für einen Anfänger! [SEP] b_______ [SEP] beginner
+6399,de,1.935197097,"hinzufügen [SEP] Wenn die Zwiebeln goldbraun sind, füge die Karotten hinzu. [SEP] a__ [SEP] add"
+6400,de,-0.739519065,Pädagoge [SEP] Sie nahmen ihre Tätigkeit als Pädagogen sehr ernst. [SEP] e_______ [SEP] educator
+6401,de,1.737210916,Evolution [SEP] Diese Funde verraten uns mehr über die menschliche Evolution. [SEP] e________ [SEP] evolution
+6402,de,-0.907498629,übrig [SEP] Was machen wir mit den übrigen Tagesordnungspunkten? Sollen wir sie morgen besprechen? [SEP] r________ [SEP] remaining
+6403,de,-0.558054755,Enttäuschung [SEP] Sie erlebte eine große Enttäuschung. [SEP] d_____________ [SEP] disappointment
+6404,de,3.115079371,Fokus [SEP] Im Fokus dieser Diskussion steht das Problem mit der Abwasserreinigung. [SEP] f____ [SEP] focus
+6405,de,1.100069184,"Tastatur [SEP] Verwende die Tastatur des Computers, um den Brief in Word zu schreiben. [SEP] k_______ [SEP] keyboard"
+6406,de,1.393415653,Skorpion [SEP] Sie ist von Sternzeichen Skorpion. [SEP] s_______ [SEP] scorpion
+6407,de,2.726506167,Risiko [SEP] Wir sollten kein Risiko eingehen und den Flug bald buchen. [SEP] r___ [SEP] risk
+6408,de,-2.149971629,Drehbuch [SEP] Für das Drehbuch erhielten die Autorinnen einen Oskar. [SEP] s_________ [SEP] screenplay
+6409,de,-1.383034432,"Sorge [SEP] Ihr könnt euch beruhigen, es besteht kein Anlass zur Sorge. [SEP] c______ [SEP] concern"
+6410,de,-1.095365596,schneiden [SEP] Heute werde ich unsere Hecke schneiden. [SEP] t___ [SEP] trim
+6411,de,-0.687525821,anschaulich [SEP] Die Daten wurden anschaulich präsentiert. [SEP] g__________ [SEP] graphically
+6412,de,-3.642484078,wühlen [SEP] Er wühlt immer minutenlang in seiner Tasche nach dem Schlüsselbund. [SEP] r___ [SEP] root
+6413,de,0.725889731,kulturell [SEP] Sie besucht kulturelle Zusammenkünfte. [SEP] c_______ [SEP] cultural
+6414,de,1.001500698,Grinsen [SEP] Er antwortete mit einem breiten Grinsen. [SEP] g___ [SEP] grin
+6415,de,-1.097916187,Meteorologe [SEP] Der Meteorologe beschäftigt sich mit der Wetterkunde und der Klimatologie. [SEP] m____________ [SEP] meteorologist
+6416,de,-1.107499672,Psychiater/Psychiaterin [SEP] Dieser Psychiater hat ein sehr erfolgreiches Buch über Beziehungen verfasst. [SEP] p___________ [SEP] psychiatrist
+6417,de,-0.805181668,"Befehl [SEP] Wer gab den Befehl, das Flugzeug zu starten? [SEP] c______ [SEP] command"
+6418,de,-1.823349148,Kristall [SEP] Am Fenster bildeten sich Eiskristalle. [SEP] c______ [SEP] crystal
+6419,de,-1.361864998,"zusammenhängen [SEP] Ich verstehe nicht, wie diese Angelegenheiten zusammenhängen. [SEP] r_____ [SEP] relate"
+6420,de,-0.56208777,sich [SEP] Dieser Artikel unterscheidet sich wesentlich vom ersten Entwurf. [SEP] d_____ [SEP] differ
+6421,de,2.029711195,Radar [SEP] Radar ist eine Technologie zum Orten von Gegenständen und wird von Polizisten für Geschwindigkeitskontrollen verwendet. [SEP] r____ [SEP] radar
+6422,de,0.703606753,Radeln [SEP] Wir gingen sehr viel Radeln letzten Sommer. [SEP] c______ [SEP] cycling
+6423,de,2.244036667,"Firmenzeichen [SEP] Wir haben einen Grafiker engagiert, der unser Firmenlogo verbessern soll. [SEP] l___ [SEP] logo"
+6424,de,-1.085074256,"zurechtkommen [SEP] Sie hatten zunächst noch Probleme, aber jetzt kommen sie ziemlich gut zurecht. [SEP] c___ [SEP] cope"
+6425,de,1.246046282,Fluggesellschaft [SEP] Die Fluggesellschaft hat mein Gepäck verloren. [SEP] a______ [SEP] airline
+6426,de,-0.316784751,Stimme [SEP] Bei der nächsten Wahl wird dieser Politiker meine Stimme sicher nicht bekommen. [SEP] v___ [SEP] vote
+6427,de,2.210852476,rauchen [SEP] Seit einigen Jahren raucht Thomas nur mehr am Wochenende oder auf Feiern. [SEP] s____ [SEP] smoke
+6428,de,0.82220716,Kette [SEP] Da hing eine alte rostige Kette um das Eingangstor. [SEP] c____ [SEP] chain
+6429,de,1.148869505,Handtasche [SEP] Die Frau sucht ihre Geldbörse in der Handtasche. [SEP] h______ [SEP] handbag
+6430,de,-2.392187289,ablehnen [SEP] Die Mehrheit lehnt den Beschluss ab. [SEP] o_____ [SEP] oppose
+6431,de,0.075901283,mathematisch [SEP] Er löst die mathematische Gleichung ohne Probleme. [SEP] m___________ [SEP] mathematical
+6432,de,3.188302149,hinauf [SEP] Er stieg langsam die Treppe hinauf. [SEP] u_ [SEP] up
+6433,de,-2.720560603,verfolgen [SEP] In Den Haag verfolgt ein internationales Gericht Kriegsverbrechen aus der ganzen Welt. [SEP] p________ [SEP] prosecute
+6434,de,-0.957437883,Schalter [SEP] Bitte im Notfall diesen Schalter betätigen. [SEP] s_____ [SEP] switch
+6435,de,0.34212034,Ausdruck [SEP] Du kannst deinen Ausdruck an der Kasse abholen. [SEP] p____ [SEP] print
+6436,de,0.139225623,bewachen [SEP] Zwei Personen bewachten das Gebäude. [SEP] g____ [SEP] guard
+6437,de,-1.360238265,unbefriedigend [SEP] Es war ein höchst unbefriedigender Vormittag gewesen. [SEP] u___________ [SEP] unsatisfying
+6438,de,1.838954497,Patriot [SEP] Sie ist eine Patriotin. Ihre Heimat ist ganz wichtig für sie. [SEP] p______ [SEP] patriot
+6439,de,-2.165572132,erstaunlich [SEP] Die Woche ist erstaunlich schnell vorbeigegangen. [SEP] a________ [SEP] amazingly
+6440,de,-1.990454377,werden [SEP] Der Himmel wurde dunkel. Viele Wolken zogen auf. [SEP] b_____ [SEP] become
+6441,de,2.164764517,Boxen [SEP] Mir macht das Boxen riesen Spaß. [SEP] b_____ [SEP] boxing
+6442,de,-0.710058265,giftig [SEP] Viele Pflanzenschutzmittel sind äußerst giftig. [SEP] t____ [SEP] toxic
+6443,de,-2.417241183,"Splitter [SEP] Als die Tasse auf den Boden fiel, brach ein kleiner Splitter ab. [SEP] c___ [SEP] chip"
+6444,de,0.971843003,sich [SEP] Die Frau lässt sich von ihrem Ehemann scheiden. [SEP] d______ [SEP] divorce
+6445,de,4.041705971,Wind [SEP] Es blies ein kalter Wind. [SEP] w___ [SEP] wind
+6446,de,0.070635467,"schälen [SEP] Mama, schälst du mir bitte diese Orange? [SEP] p___ [SEP] peel"
+6447,de,3.30841056,Ende [SEP] Das Ende des Films kam überraschend. [SEP] e__ [SEP] end
+6448,de,3.227173873,wenige [SEP] Nur noch wenige Menschen leben in dem abgeschiedenen Dorf. [SEP] f__ [SEP] few
+6449,de,1.140825665,Astrologie [SEP] Der Astrologie zufolge beeinflussen die Phasen des Mondes unser Leben. [SEP] a________ [SEP] astrology
+6450,de,0.542565273,definiert [SEP] Das definierte Ziel ist zu hoch gesteckt. [SEP] d______ [SEP] defined
+6451,de,-2.906506113,aufzeigen [SEP] Die Grafik zeigt die Schwankungen in der Populationsdichte auf. [SEP] i_________ [SEP] illustrate
+6452,de,0.636679177,Geschöpf [SEP] Meeresschildkröten sind wundervolle Geschöpfe. [SEP] c_______ [SEP] creature
+6453,de,1.059756223,Hallo [SEP] Ich sage Hallo zu ein paar Freunden und komme dann wieder zu dir. [SEP] h____ [SEP] hello
+6454,de,0.213423227,Zigarette [SEP] Erst ab 18 Jahren darf man offiziell Zigaretten rauchen. [SEP] c________ [SEP] cigarette
+6455,de,0.415476318,Geduld [SEP] Der Mann hat viel Geduld mit seinen Kindern. [SEP] p_______ [SEP] patience
+6456,de,-0.507853517,"vernachlässigen [SEP] Die Medien berichten von Eltern, die ihre Kinder vernachlässigen. [SEP] n______ [SEP] neglect"
+6457,de,-1.750339959,abhängig [SEP] Sie ist von ihrem Ehemann abhängig. [SEP] d________ [SEP] dependent
+6458,de,-1.407791586,Gesetzeshüter [SEP] In diesem kleinen Dorf kennt der Gesetzeshüter noch jeden der Bewohner. [SEP] s______ [SEP] sheriff
+6459,de,2.008448492,Meister [SEP] Er ist ein Meister in dieser Art von Bogenschießen. [SEP] m_____ [SEP] master
+6460,de,-1.422392936,Ausrichtung [SEP] Die Firma plant eine neue Marktausrichtung. [SEP] o__________ [SEP] orientation
+6461,de,1.924504629,Mord [SEP] Der Mann hat einen Mord begangen. [SEP] m_____ [SEP] murder
+6462,de,-0.111901013,Rasen [SEP] Der Rasen muss wieder einmal gemäht werden. [SEP] l___ [SEP] lawn
+6463,de,-2.198211923,beschädigt [SEP] Beschädigte Dateien wurden auf dem Computer gefunden. [SEP] c________ [SEP] corrupted
+6464,de,0.973686787,"Gefühl [SEP] Eifersucht ist ein unangenehmes Gefühl, das der Betroffene oft nicht kontrollieren kann. [SEP] e______ [SEP] emotion"
+6465,de,0.141791558,Kapitel [SEP] Ich habe schon drei Kapitel des Buches fertig gelesen. [SEP] c______ [SEP] chapter
+6466,de,-1.894140547,"Rücklage [SEP] Der Staat hat enorme Rücklagen in Gold und Silber, falls die Zeiten einmal schlechter werden sollten. [SEP] r______ [SEP] reserve"
+6467,de,-3.904190857,Wahl [SEP] Wegen angeblicher Wahlmanipulation musste die Wahl wiederholt werden. [SEP] e________ [SEP] electoral
+6468,de,-1.612369151,"bewährt [SEP] Wir bleiben bei der bewährten Methode. (Redewendung '… and tested' oder '… and true', bitte nur das erste Wort angeben.) [SEP] t____ [SEP] tried"
+6469,de,0.846838077,Teppich [SEP] Ich habe einen neuen Teppich für das Wohnzimmer gekauft. [SEP] c_____ [SEP] carpet
+6470,de,-2.776620109,scheidend [SEP] Der scheidende Präsident hielt eine letzte Rede. [SEP] o_______ [SEP] outgoing
+6471,de,-3.183147128,zwangsläufig [SEP] Unfaire Behandlung der Arbeiter wird zwangsläufig zu Unzufriedenheit führen. [SEP] i_________ [SEP] inevitably
+6472,de,0.125571819,jdm [SEP] Die zwei Männer standen sich direkt gegenüber. [SEP] f___ [SEP] face
+6473,de,2.081417435,Frühstück [SEP] Das Frühstück wird in diesem Saal serviert. [SEP] b________ [SEP] breakfast
+6474,de,0.249745845,Standort [SEP] Der passende Standort für die neuen Büros wurde schon gefunden. [SEP] l_______ [SEP] location
+6475,de,-2.468725003,ernennen [SEP] Sie ernannten ihn zum Vorsitzenden. [SEP] a______ [SEP] appoint
+6476,de,-0.013806762,"Heizkörper [SEP] Leider haben wir im Badezimmer keinen Heizkörper, was im Winter besonders unangenehm ist. [SEP] r_______ [SEP] radiator"
+6477,de,-0.041180495,überraschend [SEP] Die Kandidatin war überraschend früh mit dem Test fertig. [SEP] s___________ [SEP] surprisingly
+6478,de,0.588498602,"Schwierigkeit [SEP] Bei diesem Projekt stehen wir wirklich vor einer großen Schwierigkeit, weil wir keinen guten Zeitplan haben. [SEP] p______ [SEP] problem"
+6479,de,0.851526386,"unhöflich [SEP] Ich möchte nicht unhöflich erscheinen, aber ich muss bald zu einem Termin und kann nicht länger bleiben. [SEP] r___ [SEP] rude"
+6480,de,0.870368543,Handel [SEP] Der Handel mit Öl kann nicht ewig währen. [SEP] t____ [SEP] trade
+6481,de,2.310107517,Morgen [SEP] Was hast du heute Morgen gemacht? [SEP] m______ [SEP] morning
+6482,de,1.093188246,qualifizieren [SEP] Sie qualifiziert sich dieses Jahr ohne Probleme für die Weltmeisterschaft. [SEP] q______ [SEP] qualify
+6483,de,-0.646100218,Zusammenhang [SEP] Es gibt zwischen dem Opfer und der Täterin keinen offensichtlichen Zusammenhang. [SEP] r_______ [SEP] relation
+6484,de,-1.292600267,Gefühl [SEP] Das Thermalwasser beinhaltet auch etwas Kohlensäure und erzeugt ein ganz eigenartiges Gefühl auf der Haut. [SEP] s________ [SEP] sensation
+6485,de,-0.966411179,beeindruckend [SEP] Ihre Leistungen im letzten Jahr sind wirklich beeindruckend. [SEP] i_________ [SEP] impressive
+6486,de,2.328713548,Gebäude [SEP] Das Stadtmuseum ist das älteste Gebäude der Stadt. [SEP] b_______ [SEP] building
+6487,de,-3.575799087,unzumutbar [SEP] Die Gebühren in diesem Club sind unzumutbar. [SEP] u___________ [SEP] unreasonable
+6488,de,-1.482558499,unendlich [SEP] Du bist ein junges Mädchen. Deine Möglichkeiten sind unendlich. [SEP] i_______ [SEP] infinite
+6489,de,0.79599977,Fußabdruck [SEP] Es hat frisch geschneit und es ist noch kein Fußabdruck im Schnee zu sehen. [SEP] f________ [SEP] footprint
+6490,de,-2.339538684,Physiker [SEP] Der Physiker macht viele Experimente. [SEP] p________ [SEP] physicist
+6491,de,2.155203098,Buch [SEP] Ich lese gerade ein spannendes Buch. [SEP] b___ [SEP] book
+6492,de,0.318394805,Räuber [SEP] Die Polizei fasste den Räuber binnen weniger Stunden. [SEP] r_____ [SEP] robber
+6493,de,-0.74207052,"nämlich [SEP] Ein paar Jungs, nämlich Anton, Leon und Hannes, haben den Krawall gemacht. [SEP] n_____ [SEP] namely"
+6494,de,1.82395127,Seele [SEP] In vielen Kulturen werden die Augen als Tor zur Seele eines Menschen gesehen. [SEP] s___ [SEP] soul
+6495,de,1.131238825,Händedruck [SEP] Er ist für seinen starken Händedruck bekannt. [SEP] h________ [SEP] handshake
+6496,de,-0.341445422,ausgebildet [SEP] Es gibt derzeit wenig ausgebildete Musiklehrer. [SEP] t______ [SEP] trained
+6497,de,1.316268758,Rente [SEP] In zwei Monaten geht der Mann in Rente. [SEP] p______ [SEP] pension
+6498,de,1.751378586,Welle [SEP] Eine große Welle schwappte über den Bootsrand. [SEP] w___ [SEP] wave
+6499,de,0.109443695,senden [SEP] Die Rede wird auf allen Kanälen ausgestrahlt. [SEP] b________ [SEP] broadcast
+6500,de,2.305317251,weiß [SEP] Sie hatten beide tadellose weiße Zähne. [SEP] w____ [SEP] white
+6501,de,-0.479187161,"Kohlenstoff [SEP] Papier ist weiß, Kohlenstoff ist schwarz. [SEP] c_____ [SEP] carbon"
+6502,de,-3.347975993,Tipps [SEP] Könntest du mir ein paar Tipps für das nächste Meeting geben? [SEP] p______ [SEP] pointer
+6503,de,-0.346609976,modifiziert [SEP] Die modifizierte Vorgehensweise funktioniert jetzt besser. [SEP] m_______ [SEP] modified
+6504,de,1.961246512,Stuhl [SEP] Ich musste den ganzen Nachmittag auf einem unbequemen Stuhl sitzen. [SEP] c____ [SEP] chair
+6505,de,0.574303381,wachsen [SEP] Der Salat ist in den letzten paar Tagen sehr schnell gewachsen. [SEP] g___ [SEP] grow
+6506,de,-1.57718038,Poesie [SEP] Der Schauspieler trug Poesie aus drei Jahrhunderten vor. [SEP] v____ [SEP] verse
+6507,de,0.281695604,"überprüfen [SEP] Überprüfe, ob dein Text keine Rechtschreibfehler enthält. [SEP] c____ [SEP] check"
+6508,de,-0.518741812,Refrain [SEP] Alle sangen beim Refrain des Liedes mit. [SEP] c_____ [SEP] chorus
+6509,de,0.413666562,ehrlich [SEP] Sie hat alle Fragen ehrlich und gewissenhaft beantwortet. [SEP] h_______ [SEP] honestly
+6510,de,0.351805375,erweitern [SEP] Bei Schock oder Erstaunen erweitern sich oft die Pupillen. [SEP] w____ [SEP] widen
+6511,de,-1.355586908,schneiden [SEP] Das Geburtstagskind sollte den Kuchen in Stücke schneiden. [SEP] s____ [SEP] slice
+6512,de,0.140234906,Gezeiten [SEP] Die Gezeiten werden von Mond und Sonne beeinflusst. [SEP] t___ [SEP] tide
+6513,de,-0.254100764,kulturell [SEP] In kultureller Hinsicht ist diese Gegend ein wahrer Schatz. [SEP] c_________ [SEP] culturally
+6514,de,-0.935963659,Vorschule [SEP] Meine Tochter geht in die Vorschule. [SEP] n______ [SEP] nursery
+6515,de,-2.384923406,aufsehenerregend [SEP] Nach ihrem aufsehenerregenden Debütalbum machte die Band eine kleine Schaffenspause. [SEP] s__________ [SEP] sensational
+6516,de,-0.567687294,Einsamkeit [SEP] Aus Einsamkeit hat sie sich einen Hund gekauft. [SEP] l_________ [SEP] loneliness
+6517,de,-1.073862664,dicht [SEP] Dichter Nebel erschwerte die Sicht. [SEP] d____ [SEP] dense
+6518,de,-2.644175156,graziös [SEP] Die Tänzerin bewegt sich graziös auf der Bühne. [SEP] g_________ [SEP] gracefully
+6519,de,-0.58570724,Sicherheit [SEP] Für uns hat die Sicherheit der Schülerinnen und Schüler absolute Priorität. [SEP] s_____ [SEP] safety
+6520,de,2.047643077,oberer [SEP] Wir saßen im oberen Deck des Busses und genossen die Aussicht. [SEP] u____ [SEP] upper
+6521,de,-1.076516507,aufnehmen [SEP] Diesen Film möchte ich mir unbedingt aufnehmen. [SEP] t___ [SEP] tape
+6522,de,-1.261139224,bestimmt [SEP] Dieses Musikalbum wird bestimmt ein Bestseller. [SEP] d_______ [SEP] definite
+6523,de,-2.274240265,Räumung [SEP] Das Geschäft kündigte einen Räumungsverkauf an. [SEP] c________ [SEP] clearance
+6524,de,2.212778081,Hardware [SEP] Die Hardware dieses Computers ist nicht gerade fortschrittlich. [SEP] h_______ [SEP] hardware
+6525,de,-2.191341369,werfen [SEP] Ich sehe mich kurz um und werfe meine Jacke auf den Stuhl. [SEP] t___ [SEP] toss
+6526,de,3.356227474,Tänzer [SEP] Er ist ein herausragender Tänzer. [SEP] d_____ [SEP] dancer
+6527,de,1.730464544,"Nachricht [SEP] Ich habe schlechte Nachrichten, wir müssen uns eine neue Wohnung suchen. [SEP] n___ [SEP] news"
+6528,de,-3.424462454,Sitzung [SEP] Die erste Sitzung nach den Wahlen war sehr erfolgreich. [SEP] s______ [SEP] sitting
+6529,de,-0.714424799,zeitgenössisch [SEP] Das Museum konzentriert sich auf zeitgenössische Kunst. [SEP] c___________ [SEP] contemporary
+6530,de,-1.759185212,auf [SEP] Die Post ist auf halbem Weg zwischen der Apotheke und dem Supermarkt. [SEP] m_____ [SEP] midway
+6531,de,1.500883391,"erschaffen [SEP] In der Bibel steht, dass Gott die Welt erschaffen hat. [SEP] c_____ [SEP] create"
+6532,de,0.63837743,lösen [SEP] Sie konnte mit Hilfe der Fingerabdrücke den Fall lösen. [SEP] s____ [SEP] solve
+6533,de,1.126943611,Mörder [SEP] Der Mörder wurde nie gefasst. [SEP] k_____ [SEP] killer
+6534,de,-0.952623091,jenseits [SEP] Jenseits des Flusses lag ein kleines Dorf. [SEP] b_____ [SEP] beyond
+6535,de,0.675218355,Sonnenschein [SEP] Ich setze mich am Vormittag gern ein paar Minuten auf den Balkon und genieße den Sonnenschein. [SEP] s_______ [SEP] sunshine
+6536,de,3.189435832,Singen [SEP] Während der Schulzeit hat ihm das Singen immer viel Freude bereitet. [SEP] s______ [SEP] singing
+6537,de,1.453586979,"Kiwi [SEP] Kiwis sind nachtaktive Vögel, die nur in Neuseeland vorkommen. [SEP] k___ [SEP] kiwi"
+6538,de,1.740671131,Klettern [SEP] In seiner Freizeit liebt er das Klettern in den Bergen. [SEP] c_______ [SEP] climbing
+6539,de,-3.3731365,Getreide [SEP] Das Getreide wird im Sommer geerntet. [SEP] c___ [SEP] crop
+6540,de,0.141584782,"wagen [SEP] Um die Schiffsmannschaft zu retten, musste die Seerettung ein schwieriges Manöver wagen. [SEP] r___ [SEP] risk"
+6541,de,0.335307171,"Geste [SEP] Diese Geste ist jungen Leuten vertraut. Sie wissen genau, was die Handbewegung bedeutet. [SEP] g______ [SEP] gesture"
+6542,de,1.275160471,gesichtslos [SEP] Die Familie bahnte sich geduldig ihren Weg durch die gesichtslosen Massen. [SEP] f_______ [SEP] faceless
+6543,de,1.0017767,normalerweise [SEP] Normalerweise nehmen wir den Zug. [SEP] u______ [SEP] usually
+6544,de,2.19817774,"Tablette [SEP] Sie hat eine Schlaftablette geschluckt, weil sie Probleme mit dem Einschlafen hat. [SEP] p___ [SEP] pill"
+6545,de,-2.217902259,beträchtlich [SEP] Sie gab eine beträchtliche Summe Geld aus. [SEP] c___________ [SEP] considerable
+6546,de,1.514139699,"Terrorismus [SEP] Die Regierung kündigte an, den Terrorismus radikal zu bekämpfen. [SEP] t________ [SEP] terrorism"
+6547,de,-1.66238275,Buchhaltung [SEP] Sie machte die Buchhaltung für die Firma sehr gewissenhaft. [SEP] a_________ [SEP] accounting
+6548,de,3.185626395,Buchung [SEP] Die Hotelbuchung wurde storniert. [SEP] b______ [SEP] booking
+6549,de,2.030490796,Fliege [SEP] Im Sommer haben wir viele Fliegen im Haus. [SEP] f__ [SEP] fly
+6550,de,-2.300583911,"fest [SEP] Wenn Butter im Kühlschrank gelagert wird, ist sie relativ fest. [SEP] s____ [SEP] solid"
+6551,de,-1.563353908,Vorgänger/in [SEP] Meiner Vorgängerin war Pünktlichkeit nicht besonders wichtig. [SEP] p__________ [SEP] predecessor
+6552,de,0.148921625,Forschung [SEP] Sie hat Chemie studiert und arbeitet derzeit in der Forschung. [SEP] r_______ [SEP] research
+6553,de,1.36003661,Bibliothek [SEP] Das Kind leiht sich ein Kinderbuch aus der Bibliothek aus. [SEP] l______ [SEP] library
+6554,de,0.60296176,rückwärts [SEP] Er fiel rückwärts auf den Boden. [SEP] b_______ [SEP] backward
+6555,de,-1.502167056,Mittel [SEP] Die Universität stellt wirklich alle möglichen Mittel für das Projekt zur Verfügung. [SEP] r_______ [SEP] resource
+6556,de,2.697666839,"spät [SEP] Lass uns endlich nach Hause gehen, es ist schon spät. [SEP] l___ [SEP] late"
+6557,de,-1.723002806,resistent [SEP] Unglücklicherweise ist dieser Keim äußerst resistent gegenüber Antibiotika. [SEP] r________ [SEP] resistant
+6558,de,2.248083878,machen [SEP] Soll ich Kaffee für uns alle machen? [SEP] m___ [SEP] make
+6559,de,1.551957806,"Einzelheit [SEP] Sie wollte alles genau wissen, sogar sämtliche Einzelheiten. [SEP] d_____ [SEP] detail"
+6560,de,-0.712732955,Olympia [SEP] Der Olympiasieger kommt aus Russland. [SEP] o______ [SEP] olympic
+6561,de,-2.962593274,ausgezeichnetes [SEP] Die Universität ist für ihr ausgezeichnetes Niveau in der Forschung bekannt. [SEP] e_________ [SEP] excellence
+6562,de,0.093295502,Bedauern [SEP] Zu meinem Bedauern hat er die Stelle nicht bekommen. [SEP] r_____ [SEP] regret
+6563,de,-3.132707489,hervorragend [SEP] Sie spielt hervorragend Klavier. [SEP] m____________ [SEP] magnificently
+6564,de,0.939112426,"Tragödie [SEP] Es ist eine Tragödie, so viele junge Menschen verzweifeln zu sehen. [SEP] t______ [SEP] tragedy"
+6565,de,-3.273471354,Behauptung [SEP] Eine Behauptung ist kein Beweis. [SEP] a________ [SEP] assertion
+6566,de,0.475949923,"analytisch [SEP] Tom hat einen analytischen Verstand, der alles auseinandernimmt und zerlegt. [SEP] a_______ [SEP] analytic"
+6567,de,-0.712327586,Stellvertreter [SEP] Sie ist die Stellvertreterin des Sheriffs. [SEP] d_____ [SEP] deputy
+6568,de,-1.11592999,Auseinandersetzung [SEP] Sie haben eine heftige Auseinandersetzung. [SEP] a_______ [SEP] argument
+6569,de,2.311058986,"windig [SEP] Gestern war es zu windig, um spazieren zu gehen. [SEP] w____ [SEP] windy"
+6570,de,3.558664791,Geburt [SEP] Wir freuen uns über die Geburt unseres Sohnes. [SEP] b____ [SEP] birth
+6571,de,0.381558133,gemein [SEP] Ich fand deinen Kommentar richtig gemein. [SEP] m___ [SEP] mean
+6572,de,3.384453761,Lesen [SEP] Das Lesen ist wirklich ihr liebstes Hobby. [SEP] r______ [SEP] reading
+6573,de,-1.821986357,Kern [SEP] Wo liegt der Kern des Problems? [SEP] e______ [SEP] essence
+6574,de,-0.682990436,"Vorstellung [SEP] Bei der Vorstellung nennt bitte euren Namen, euer Alter und euren Wohnort. [SEP] i___________ [SEP] introduction"
+6575,de,-0.800921576,anfänglich [SEP] Es gab ein paar Schwierigkeiten in der anfänglichen Phase. [SEP] i______ [SEP] initial
+6576,de,1.049248132,Feuerwehrmann [SEP] Der Feuerwehrmann rettete zwei Menschen aus dem brennenden Haus. [SEP] f______ [SEP] fireman
+6577,de,-0.136797346,Ausbruch [SEP] Die Gefangenen planen einen Ausbruch aus dem Gefängnis. [SEP] b_______ [SEP] breakout
+6578,de,-0.610252799,Zerstörung [SEP] Die Zerstörung des Regenwaldes kennt kein Ende. [SEP] d__________ [SEP] destruction
+6579,de,1.638003567,Dorf [SEP] Schauplatz ist ein kleines Dorf mitten in der Schweiz. [SEP] v______ [SEP] village
+6580,de,-1.464706007,wertschätzend [SEP] Ein wertschätzender Umgang mit allen Schülern ist für einen guten Unterricht sehr wichtig. [SEP] r_________ [SEP] respectful
+6581,de,-0.892436393,redaktionell [SEP] Redaktionelle Entscheidungen werden im Team getroffen. [SEP] e________ [SEP] editorial
+6582,de,-1.546044506,gekränkt [SEP] Du hast mich gekränkt. Deine Aussage hat mich wirklich sehr verletzt. [SEP] o_______ [SEP] offended
+6583,de,1.544578431,Mikrowelle [SEP] Marc wärmt sein Essen in der Mikrowelle auf. [SEP] m________ [SEP] microwave
+6584,de,-0.610538968,Händler [SEP] Eine ortsansässige Händlerin protestierte gegen den Beschluss. [SEP] t_____ [SEP] trader
+6585,de,-2.045521935,einschreiten [SEP] Die Polizei musste einschreiten und die Demonstration beenden. [SEP] i________ [SEP] intervene
+6586,de,-1.782546288,die [SEP] Gleichgültig lächeln sie und zucken die Schultern. [SEP] s____ [SEP] shrug
+6587,de,-0.280251763,schlürfen [SEP] Genüsslich schlürft er einen köstlichen Cocktail. [SEP] s__ [SEP] sip
+6588,de,1.260061343,Gift [SEP] Diese Pilze haben ein besonders starkes Gift. [SEP] p_____ [SEP] poison
+6589,de,-3.059764242,"vermuten [SEP] Ich kann nur vermuten, warum sie sich so verspätet haben. [SEP] s________ [SEP] speculate"
+6590,de,-1.779361939,bieten [SEP] Zwei Interessenten boten auf den Sessel und trieben den Preis in die Höhe. [SEP] b__ [SEP] bid
+6591,de,0.103377652,erkunden [SEP] Wir erkunden die Gegend mit einem geliehenen Motorroller. [SEP] e______ [SEP] explore
+6592,de,0.68259469,"Liedtext [SEP] Hier ist eine Kopie des Liedtextes, dann könnt ihr alle mitsingen. [SEP] l_____ [SEP] lyrics"
+6593,de,-0.406869424,diszipliniert [SEP] Das disziplinierte Training macht sich bezahlt. [SEP] d__________ [SEP] disciplined
+6594,de,0.134155516,Ewigkeit [SEP] Ich werde dich bis in alle Ewigkeit lieben. [SEP] e_______ [SEP] eternity
+6595,de,-2.724531943,beratend [SEP] Sie hatte eine beratende Funktion. [SEP] a_______ [SEP] advisory
+6596,de,-0.425209933,"Freude [SEP] Es bereitet uns viel Freude, dass du so große Fortschritte machst. [SEP] p_____ [SEP] please"
+6597,de,-1.605361166,Versand [SEP] Derzeit ist ein Versand nach Europa für kleinere Mengen nicht möglich. [SEP] s_______ [SEP] shipping
+6598,de,2.016992285,Marmelade [SEP] Ich esse gerne Marillenmarmelade. [SEP] j__ [SEP] jam
+6599,de,-2.12394742,"üblich [SEP] Das ist die übliche Antwort, die man in dieser Situation wohl bekommt. [SEP] s_______ [SEP] standard"
+6600,de,-2.223356744,außergewöhnlich [SEP] Sie hat außergewöhnliches Talent. [SEP] e__________ [SEP] exceptional
+6601,de,0.54893899,Komponist [SEP] Der Komponist hat ein wunderschönes Lied geschrieben. [SEP] c_______ [SEP] composer
+6602,de,1.217703504,jdn/etw [SEP] Der Bauer führt die Kühe auf die Weide. [SEP] l___ [SEP] lead
+6603,de,0.718011891,Erfahrung [SEP] Wir alle lernen aus unseren Erfahrungen. [SEP] e_________ [SEP] experience
+6604,de,2.00990245,navigieren [SEP] Der Kapitän navigierte das Kreuzfahrtschiff sicher in den Hafen. [SEP] n_______ [SEP] navigate
+6605,de,2.732156736,"zu [SEP] Sie war damals zu jung, um es ganz zu verstehen. [SEP] t__ [SEP] too"
+6606,de,-2.625689615,Verdrängung [SEP] Die Hungersnot hatte die Verdängung vieler Menschen zur Folge. [SEP] d___________ [SEP] displacement
+6607,de,4.060504256,"besser [SEP] Viele Menschen arbeiten hart, damit sie ihren Familien ein besseres Leben bieten können. [SEP] b_____ [SEP] better"
+6608,de,2.318533713,Onkel [SEP] Morgen besuche ich meinen Onkel. [SEP] u____ [SEP] uncle
+6609,de,-2.874534397,gegenwärtig [SEP] Die gegenwärtigen Bestimmungen müssen an das neue System angepasst werden. [SEP] e_______ [SEP] existing
+6610,de,1.08835982,Skifahren [SEP] Ich kann mir im Winter kaum ein schöneres Hobby als Skifahren vorstellen. [SEP] s_____ [SEP] skiing
+6611,de,0.646222654,Jasmin [SEP] Ich trinke gerne Jasmintee. [SEP] j______ [SEP] jasmine
+6612,de,3.023024546,nach [SEP] Er ging alleine nach Hause. [SEP] h___ [SEP] home
+6613,de,-1.634206579,gleicher [SEP] Sie sind gleicher Meinung. [SEP] l___ [SEP] like
+6614,de,2.243906062,tot [SEP] Die Familie trauert um den toten Großvater. [SEP] d___ [SEP] dead
+6615,de,-2.451637306,Zuständigkeit [SEP] Die Zuständigkeit des Gerichts beschränkt sich auf Gewaltverbrechen. [SEP] j___________ [SEP] jurisdiction
+6616,de,-2.177546974,Prämie [SEP] Ich habe die Jahresprämie an die Versicherungsgesellschaft gezahlt. [SEP] p______ [SEP] premium
+6617,de,2.850784441,zwischen [SEP] Die Distanz zwischen den zwei Wohnorten beträgt 50 km. [SEP] b______ [SEP] between
+6618,de,2.347456418,Amerikaner [SEP] Der Amerikaner verbringt ein paar Tage in Österreich. [SEP] a_______ [SEP] american
+6619,de,-0.479915378,Tropen [SEP] Die Tropen befinden sich auf beiden Seiten des Äquators. [SEP] t______ [SEP] tropics
+6620,de,0.878140077,Frische [SEP] Die Frische des Gemüses auf dem Markt überzeugt mich. [SEP] f________ [SEP] freshness
+6621,de,1.324995328,Frau [SEP] Die Frau am Schalter hilft dir bestimmt weiter. [SEP] l___ [SEP] lady
+6622,de,-3.075148489,zusammengesetzt [SEP] Forensiker untersuchten den zusammengesetzten Stoff. [SEP] c________ [SEP] composite
+6623,de,1.480103229,Apfel [SEP] Ich esse gerne Äpfel. [SEP] a____ [SEP] apple
+6624,de,-1.382134673,Auswertung [SEP] Die Auswertung der Daten wurde von den studentischen Mitarbeitern durchgeführt. [SEP] e_________ [SEP] evaluation
+6625,de,-2.012290162,stammen [SEP] Daher stammt sein Misstrauen gegenüber Lehrpersonen. [SEP] s___ [SEP] stem
+6626,de,-1.557852402,wegwerfen [SEP] Der Lastwagen kippte seine Ladung mit Sondermüll in die Grube. [SEP] d___ [SEP] dump
+6627,de,0.664590417,"schmerzlos [SEP] Keine Angst, die Blutabnahme ist schmerzlos! [SEP] p_______ [SEP] painless"
+6628,de,1.550496212,Delegation [SEP] Afrika sendete eine Delegation zu der Konferenz in Europa. [SEP] d_________ [SEP] delegation
+6629,de,-0.772872423,ernannt [SEP] Der neu ernannte Kapitän machte seine Aufgabe gut. [SEP] n________ [SEP] nominated
+6630,de,1.427530671,vibrieren [SEP] Bei jedem vorbeifahrenden Güterzug vibrieren die Mauern. [SEP] v______ [SEP] vibrate
+6631,de,-2.417429576,auf [SEP] Könntest du mich diesbezüglich bitte auf dem Laufenden halten. [SEP] p_____ [SEP] posted
+6632,de,0.631988766,"Nehnmen [SEP] Unser Religionslehrer meinte immer, Geben sei seliger als Nehmen. [SEP] t_____ [SEP] taking"
+6633,de,0.171539262,Israeli [SEP] Wir haben einen Israeli in unserer Klasse. [SEP] i______ [SEP] israeli
+6634,de,-0.491757068,"Einigkeit [SEP] Es war ein bewusstes Zeichen, um Einigkeit zu demonstrieren. [SEP] u____ [SEP] unity"
+6635,de,-0.01978177,Glühbirne [SEP] Das Licht funktioniert nicht mehr. Wir müssen die Glühbirne austauschen. [SEP] b___ [SEP] bulb
+6636,de,-3.690238547,kommunikativer [SEP] Er ist ein kommunikativer Mensch. [SEP] c___________ [SEP] communicator
+6637,de,1.791932314,herunterladen [SEP] Kannst du mir dieses Programm bitte herunterladen? [SEP] d_______ [SEP] download
+6638,de,2.612188173,langsam [SEP] Die Schnecke ist ein ziemlich langsames Tier. [SEP] s___ [SEP] slow
+6639,de,0.177774805,Improvisation [SEP] Gestern besuchten wir ein Improvisationstheater. [SEP] i____________ [SEP] improvisation
+6640,de,-1.636169901,nachmachen [SEP] Die Dokumente wurden kopiert. [SEP] d________ [SEP] duplicate
+6641,de,-0.290854736,Klatsch [SEP] Der Klatsch hat seinem Ruf geschadet. [SEP] g_____ [SEP] gossip
+6642,de,1.80046462,Entführung [SEP] Alle Zeitungen berichteten über die Entführung des Kindes. [SEP] k_________ [SEP] kidnapping
+6643,de,-1.158530589,Überwachungs [SEP] Der Mann hat zu Hause ein Überwachungssystem installiert. [SEP] m_________ [SEP] monitoring
+6644,de,-4.104437265,Imitator [SEP] Der Imitator macht viele bekannte Leute nach. [SEP] i____________ [SEP] impressionist
+6645,de,1.733416421,Interaktion [SEP] Er hat eine Studie über die Interaktion zwischen Mensch und Computer durchgeführt. [SEP] i__________ [SEP] interaction
+6646,de,2.245059426,Butter [SEP] Ich esse eine Scheibe Brot mit Butter und Marmelade zum Frühstück. [SEP] b_____ [SEP] butter
+6647,de,2.62307232,Lehrer [SEP] Ich kann mich noch gut an meine erste Lehrerin erinnern. [SEP] t______ [SEP] teacher
+6648,de,-2.770489578,bekanntermaßen [SEP] Das Fest ist bekanntermaßen gut besucht. [SEP] f_______ [SEP] famously
+6649,de,0.575361607,Reise [SEP] Sie planen ihre erste Reise ins Ausland. [SEP] t___ [SEP] trip
+6650,de,-2.113029847,simultan [SEP] Während der Konferenz werden zahlreiche Dolmetscherinnen und Dolmetscher simultan übersetzen. [SEP] s_____________ [SEP] simultaneously
+6651,de,-0.1886903,"sterblich [SEP] Sie hat leider erst durch ihren Unfall verstanden, dass jeder sterblich ist. [SEP] m_____ [SEP] mortal"
+6652,de,1.189753677,fehlend [SEP] Der Chef beschwert sich über die fehlenden Dokumente. [SEP] m______ [SEP] missing
+6653,de,2.03046908,Zuhörer [SEP] Er ist ein guter Zuhörer. [SEP] l_______ [SEP] listener
+6654,de,3.125952248,Blume [SEP] In deinem Garten wachsen schöne Blumen. [SEP] f_____ [SEP] flower
+6655,de,-0.034186675,"Ökosystem [SEP] Mit dem Bau des Staudamms wurde ein künstlicher See geschaffen, der ein ganzes Ökosystem zerstörte. [SEP] e________ [SEP] ecosystem"
+6656,de,2.460281504,weit [SEP] Bist du weit geradelt? [SEP] f__ [SEP] far
+6657,de,-1.390225228,auf [SEP] Das Gesetz ist in jedem Fall anwendbar. [SEP] a_________ [SEP] applicable
+6658,de,-2.676155511,bekannt [SEP] Die Identität der aussagenden Zeugen darf nicht bekannt gegeben werden. [SEP] d_______ [SEP] disclose
+6659,de,-1.622827446,Fortschritt [SEP] Der Fortschritt war nicht länger aufzuhalten. [SEP] a______ [SEP] advance
+6660,de,1.549349238,Einkaufszentrum [SEP] Im Einkaufszentrum finden wir bestimmt ein schönes Kleid für dich. [SEP] m___ [SEP] mall
+6661,de,-2.650935864,"zerdrücken [SEP] Um sich die Zeit zu vertreiben, zerdrückt sie ein paar Ameisen auf der Veranda. [SEP] s_____ [SEP] squash"
+6662,de,0.934728631,griechisch [SEP] Die griechischen Inseln sind unter den europäischen Touristen sehr beliebt. [SEP] g____ [SEP] greek
+6663,de,-1.283083121,Einsatz [SEP] Er trainiert für einen Rettungseinsatz im Ausland. [SEP] m______ [SEP] mission
+6664,de,-1.134641115,Gattung [SEP] Lyrik ist eine literarische Gattung. [SEP] g____ [SEP] genre
+6665,de,-0.074697531,sich [SEP] Ich kann mich immer voll auf meine Freunde verlassen. [SEP] r___ [SEP] rely
+6666,de,-2.142687679,Erholung [SEP] Mein Beruf ist sehr stressreich und lässt mir im Moment wenig Zeit für Erholung. [SEP] r_________ [SEP] recreation
+6667,de,1.199554108,Vogelhaus [SEP] Im Winter hängen wir ein Vogelhaus mit Futter vor das Fenster. [SEP] b________ [SEP] birdhouse
+6668,de,3.479951329,beste [SEP] Das beste Hotel befindet sich mitten in der Stadt. [SEP] b___ [SEP] best
+6669,de,1.807451081,Adoption [SEP] Das Paar hat lange auf die offizielle Adoption gewartet. [SEP] a_______ [SEP] adoption
+6670,de,3.53852391,Traum [SEP] Heute Nacht hatte ich einen seltsamen Traum. [SEP] d____ [SEP] dream
+6671,de,0.088968782,Strahl [SEP] Beim ersten Sonnenstrahl sollten wir aufbrechen. [SEP] r__ [SEP] ray
+6672,de,1.416522719,"ruhig [SEP] Der Vater bittet die Kinder, ruhig zu sein. [SEP] q____ [SEP] quiet"
+6673,de,0.314493064,unvollständig [SEP] Diese Notizen sind unvollständig. [SEP] i_________ [SEP] incomplete
+6674,de,0.233324216,ungewöhnlich [SEP] Er hat einen sehr ungewöhnlichen Vornamen. [SEP] u______ [SEP] unusual
+6675,de,0.22437473,Schüler [SEP] Thomas ist einer meiner besten Schüler. [SEP] s______ [SEP] student
+6676,de,-1.118664573,langweilig [SEP] Das Leben in einem kleinen Dorf kann für Jugendliche ziemlich langweilig sein. [SEP] d___ [SEP] dull
+6677,de,-2.166709379,Trümmer [SEP] Nach der Explosion lag die Stadt in Trümmern. [SEP] d_____ [SEP] debris
+6678,de,-3.966291447,"bereit [SEP] Sie fühlte sich nicht bereit, sich bei der Mutter zu entschuldigen. [SEP] i_______ [SEP] inclined"
+6679,de,-5.082056979,zwischen [SEP] Ich kann mich nicht entscheiden welches Outfit ich heute Abend trage. Ich bin hin- und her gerissen. [SEP] c_____ [SEP] caught
+6680,de,0.651793106,Schuld [SEP] Es gibt keine klaren Beweise für ihre angebliche Schuld. [SEP] g____ [SEP] guilt
+6681,de,0.771617528,Rauch [SEP] Der Rauch stieg in Schwaden von dem Lagerfeuer auf. [SEP] s____ [SEP] smoke
+6682,de,1.983104548,blasen [SEP] Ein starker Wind bläst durch die Gassen. [SEP] b___ [SEP] blow
+6683,de,-1.208604817,unsozial [SEP] Sein unsoziales Verhalten isolierte ihn. [SEP] a_________ [SEP] antisocial
+6684,de,-3.328055846,Vollstreckung [SEP] Der Angeklagte wartete auf die Vollstreckung seines Urteils. [SEP] e__________ [SEP] enforcement
+6685,de,-0.558277136,iranisch [SEP] Das iranische Restaurant hat erst kürzlich eröffnet. [SEP] i______ [SEP] iranian
+6686,de,0.045678974,Gewohnheit [SEP] Rein aus Gewohnheit gebe ich zwei Löffel Zucker in meinen Kaffee. [SEP] h____ [SEP] habit
+6687,de,-3.118653692,aussprechen [SEP] Die Lehrerin hat eine Warnung ausgesprochen. [SEP] i____ [SEP] issue
+6688,de,0.317094025,nicht [SEP] In diesem Punkt stimme ich dir nicht zu. [SEP] d_______ [SEP] disagree
+6689,de,1.17036539,Korb [SEP] Ich habe einen Korb voller Äpfel gekauft. [SEP] b_____ [SEP] basket
+6690,de,-0.574963713,verbieten [SEP] Wir verbieten das Rauchen von Zigaretten während der Fahrt. [SEP] p_______ [SEP] prohibit
+6691,de,-0.985616295,zahnlos [SEP] Er begrüßte uns mit einem zahnlosen Lächeln. [SEP] t________ [SEP] toothless
+6692,de,-2.120582092,"Anfänger [SEP] Das Fußballteam sucht derzeit nach Anfängern als auch Profis, die neu einsteigen möchten. [SEP] r_____ [SEP] rookie"
+6693,de,1.773176812,Verkehr [SEP] Um diese Tageszeit herrscht hier kaum Verkehr. [SEP] t______ [SEP] traffic
+6694,de,-1.615258118,Entsetzen [SEP] Alle waren vor Entsetzen wie gelähmt. [SEP] h_____ [SEP] horror
+6695,de,-2.492639927,"ausgenommen [SEP] Das Essen und Trinken ist bis Mitternacht im Preis inkludiert, ausgenommen Champagner und alkoholische Cocktails. [SEP] e________ [SEP] excluding"
+6696,de,0.720931777,Wiederverwertung [SEP] Die Wiederverwertung von Plastikmüll stellt nach wie vor eine große Herausforderung dar. [SEP] r________ [SEP] recycling
+6697,de,-0.578445155,"sich [SEP] Ich erhole mich noch immer von der blöden Erkältung, die mich vorletzte Woche erwischt hat. [SEP] r______ [SEP] recover"
+6698,de,0.190228708,adressieren [SEP] Wir adressieren die Pakete immer deutlich. [SEP] a______ [SEP] address
+6699,de,-1.269602016,Umgebung [SEP] Endlich sind wir wieder in vertrauter Umgebung. [SEP] s___________ [SEP] surroundings
+6700,de,2.08119795,"Hi [SEP] Er begrüßte seine Kollegen mit einem knappen ""Hi"". [SEP] h_ [SEP] hi"
+6701,de,-2.55514772,Wiederherstellung [SEP] Die Wiederherstellung des Schlosses hat sehr viel gekostet. [SEP] r_____________ [SEP] reconstruction
+6702,de,3.035105544,Getränk [SEP] Sie bestellte ein Getränk an der Bar. [SEP] d____ [SEP] drink
+6703,de,-1.640455436,Medikamente [SEP] Der Arzt verschreibt der Patientin Medikamente. [SEP] m_________ [SEP] medication
+6704,de,2.516646856,Mahlzeit [SEP] Nehmen Sie diese Tabletten immer nach den Mahlzeiten ein. [SEP] m___ [SEP] meal
+6705,de,1.77853292,"ziehen [SEP] Man muss an der Schnur ziehen, um die Türglocke zu betätigen. [SEP] p___ [SEP] pull"
+6706,de,1.497395541,historisch [SEP] Die historische Stadt ist sehr beliebt unter den asiatischen Touristen. [SEP] h_______ [SEP] historic
+6707,de,-1.761007269,Rücksicht [SEP] Die Straße wurde ohne Rücksicht auf die Anwohner gebaut. [SEP] r_____ [SEP] regard
+6708,de,0.899659693,Eiche [SEP] In unserem Garten steht eine alte Eiche. [SEP] o__ [SEP] oak
+6709,de,2.737999217,Eins [SEP] Auf der Tür stand eine große Eins. [SEP] o__ [SEP] one
+6710,de,1.321373304,politisch [SEP] Die politische Lage ist im Moment sehr stabil in diesem Land. [SEP] p________ [SEP] political
+6711,de,1.734536685,herabfallend [SEP] Achtung vor herabfallenden Steinen. [SEP] f______ [SEP] falling
+6712,de,3.463144639,Netz [SEP] Der Fischer hat das Fischernetz ausgeworfen. [SEP] n__ [SEP] net
+6713,de,0.625711582,ungeplant [SEP] Ihr zweites Kind war eine ungeplante Schwangerschaft. [SEP] u________ [SEP] unplanned
+6714,de,2.078593344,Pumpe [SEP] Nach der Flut war der Keller voll Wasser. Die Feuerwehr stellte eine Pumpe zum Absaugen der Flüssigkeit zur Verfügung. [SEP] p___ [SEP] pump
+6715,de,2.099829773,Tomatenketchup [SEP] Isst du deine Pommes mit Tomatenketchup? [SEP] k______ [SEP] ketchup
+6716,de,1.900357375,Joystick [SEP] Der Junge bedient das Computerspiel mit dem Joystick. [SEP] j_______ [SEP] joystick
+6717,de,-1.746121247,Schlägerei [SEP] Nach dem Fußballspiel gab es eine Schlägerei. [SEP] f_______ [SEP] fighting
+6718,de,1.605027541,"Dosis [SEP] Wenn die Schmerzmittel nicht wirken, empfehle ich dir, die Dosis zu erhöhen. [SEP] d___ [SEP] dose"
+6719,de,-0.166544637,jdn/sich [SEP] Fünf Menschen wurden beim Unfall verletzt. [SEP] i_____ [SEP] injure
+6720,de,-1.050462587,Ballkleid [SEP] Sie hat sich für den Anlass ein neues Ballkleid gekauft. [SEP] g___ [SEP] gown
+6721,de,-1.146517246,besiedeln [SEP] Reisende Völker besiedelten vor vielen Jahren diese Region. [SEP] p_______ [SEP] populate
+6722,de,-1.086753292,Straßenkreuzung [SEP] Die Post befindet sich an der wichtigsten Straßenkreuzung der Stadt. [SEP] i___________ [SEP] intersection
+6723,de,-0.562162525,angewidert [SEP] Er war von ihrem Verhalten angewidert. [SEP] d________ [SEP] disgusted
+6724,de,1.292296928,Gürtel [SEP] Ziehe den braunen Gürtel zu dieser Hose an. [SEP] b___ [SEP] belt
+6725,de,3.524650206,E-Mail [SEP] Ich sende dir eine E-Mail mit den Informationen zur Veranstaltung. [SEP] e____ [SEP] email
+6726,de,-2.048941467,sorgenfrei [SEP] Sie war glücklich und fühlte sich absolut sorgenfrei. [SEP] c_______ [SEP] carefree
+6727,de,-1.44876756,gelehrt [SEP] Meine Großmutter ist eine gelehrte Frau. [SEP] l______ [SEP] learned
+6728,de,1.067050873,neu [SEP] Ankommende Anrufe sind kostenlos. [SEP] i_______ [SEP] incoming
+6729,de,1.28487596,flüssig [SEP] In dieser Flasche befindet sich flüssige Seife. [SEP] l_____ [SEP] liquid
+6730,de,1.193091279,Lippenstift [SEP] Sie trägt roten Lippenstift auf ihre Lippen auf. [SEP] l_______ [SEP] lipstick
+6731,de,-0.878448367,mit [SEP] Wir verbinden den Besuch bei der Tante mit einem Einkauf in der Stadt. [SEP] c______ [SEP] combine
+6732,de,0.356439521,komplett [SEP] Es ist komplett sichtbar. [SEP] c_________ [SEP] completely
+6733,de,-3.18234036,prächtig [SEP] Die Villa am Strand war prächtig und geräumig. [SEP] g____ [SEP] grand
+6734,de,-2.397655617,Praktiker/in [SEP] Viele Praktikerinnen sind von dieser neuen Methode bereits überzeugt. [SEP] p___________ [SEP] practitioner
+6735,de,0.562760868,Lebensstil [SEP] Mir ist ein gesunder und aktiver Lebensstil wichtig. [SEP] l________ [SEP] lifestyle
+6736,de,-3.534651696,bewegen [SEP] Nichts auf der Welt könnte mich zum Fallschirmspringen bewegen! [SEP] i_____ [SEP] induce
+6737,de,0.882838687,Rettung [SEP] In dieser Situation ist eine schnelle Rettung nicht möglich und man muss vorsichtig vorgehen. [SEP] r_____ [SEP] rescue
+6738,de,2.058770645,Profil [SEP] Das Firmenprofil muss über einen guten Internetauftritt geschärft und bekannt gemacht werden. [SEP] p______ [SEP] profile
+6739,de,-2.099599482,Kugel [SEP] Eine Kugel ist ein runder Körper und hat keine Ecken. [SEP] s_____ [SEP] sphere
+6740,de,2.499133205,schließen [SEP] Die Tür zieht. Bitte schließe sie. [SEP] c____ [SEP] close
+6741,de,-2.740428847,Groll [SEP] Seine Beförderung hat den Groll zahlreicher Mitarbeiter nach sich gezogen. [SEP] r_________ [SEP] resentment
+6742,de,0.812064246,emotionslos [SEP] Ich kann mit emotionslosen Menschen nicht gut umgehen. [SEP] e__________ [SEP] emotionless
+6743,de,2.098064147,Schlag [SEP] Ich konnte meinen Herzschlag spüren. [SEP] b___ [SEP] beat
+6744,de,1.304281011,Flüssigkeit [SEP] Da ist noch etwas Flüssigkeit in diesem Behälter. [SEP] l_____ [SEP] liquid
+6745,de,0.504965767,Analyse [SEP] Eine wissenschaftliche Analyse soll durchgeführt werden. [SEP] a_______ [SEP] analysis
+6746,de,-1.300661835,beschleunigt [SEP] Der durch Medikamente beschleunigte Wachstumsprozess kann sich schädlich auf den Menschen auswirken. [SEP] a__________ [SEP] accelerated
+6747,de,-2.707912296,kühl [SEP] Draußen weht eine kühle Brise. [SEP] c______ [SEP] cooling
+6748,de,1.758635316,"Instinkt [SEP] Folge deinem inneren Instinkt, dann triffst du bestimmt eine gute Entscheidung. [SEP] i_______ [SEP] instinct"
+6749,de,2.022793827,rauchend [SEP] Man sollte rauchende Teenager über die Nachteile und Risiken ihres Lebensstils aufklären. [SEP] s______ [SEP] smoking
+6750,de,0.680988831,Seide [SEP] Für die Produktion von Seide benötigt man Raupen. [SEP] s___ [SEP] silk
+6751,de,2.064201487,"Importware [SEP] Das Land strebt an, unabhängiger von Importware zu werden. [SEP] i_____ [SEP] import"
+6752,de,1.994888868,"zuerst [SEP] Besprich das Problem zuerst mit dem Klassenvorstand, bevor du zur Direktorin gehst. [SEP] f____ [SEP] first"
+6753,de,3.364228349,Kälte [SEP] Die Kälte hält seit Tagen an und es ist keine Besserung in Sicht. [SEP] c___ [SEP] cold
+6754,de,2.333341075,"Wetter [SEP] Er meinte, das Wetter sei schwerer vorherzusagen als früher. [SEP] w______ [SEP] weather"
+6755,de,-0.445049268,"reißen [SEP] Vorsicht, diese Strümpfe reißen sehr leicht. [SEP] t___ [SEP] tear"
+6756,de,1.121627132,"Minimalist [SEP] Er ist ein Minimalist, er hat erst letztens seinen Kleiderschrank ausgemistet. [SEP] m_________ [SEP] minimalist"
+6757,de,-1.901319239,"wahrnehmen [SEP] Wir neigen dazu wahrzunehmen, was wir wahrzunehmen erwarten. [SEP] p_______ [SEP] perceive"
+6758,de,1.699662662,zählen [SEP] Am Abend der Wahl waren schon alle Stimmen gezählt. [SEP] c____ [SEP] count
+6759,de,-0.16727179,anstrengend [SEP] Wir hatten einen anstrengenden Tag. [SEP] e_________ [SEP] exhausting
+6760,de,-0.722733899,Garantie [SEP] Es ist keine Garantie für den Erfolg des Projekts. [SEP] g________ [SEP] guarantee
+6761,de,-1.064303471,Rückgang [SEP] In den letzten Jahren wurde ein Geburtenrückgang verzeichnet. [SEP] d_______ [SEP] decrease
+6762,de,1.185222443,endlos [SEP] Die Stadt bietet endlose Möglichkeiten für Jugendliche. [SEP] e______ [SEP] endless
+6763,de,1.492431894,aufhören [SEP] Nach diesem Zwischenfall beendete er seine Karriere als Journalist. [SEP] q___ [SEP] quit
+6764,de,-0.471559983,auseinander [SEP] Wir mussten den Motor auseinandernehmen. [SEP] a____ [SEP] apart
+6765,de,2.578608372,Bild [SEP] Das Buch enthält viele bunte Bilder. [SEP] p______ [SEP] picture
+6766,de,-1.406334448,kippen [SEP] In engen Kurven kann der Wagen leicht kippen. [SEP] t__ [SEP] tip
+6767,de,0.130288166,am [SEP] Die nächste Tankstelle ist neben dem Supermarkt. [SEP] n______ [SEP] nearest
+6768,de,2.747940894,Fernsehgerät [SEP] Sie sitzt den ganzen Tag vor dem Fernsehgerät. [SEP] t_________ [SEP] television

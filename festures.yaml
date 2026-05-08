@@ -1,0 +1,28 @@
+    - subtlex_lg10wf
+    - subtlex_cd
+    - kelly_points
+
+    - freq_en
+    - target_len
+    - source_len
+
+    - mlm_log_prob
+    - mlm_entropy
+    - mlm_rank
+
+    - surprisal_pll
+    - surprisal_masked
+
+    - retrieval_target_prior
+    - retrieval_target_in_context
+
+    - weighted_levenshtein_sim
+    - cognate_sim
+
+    - semantic_usas_entropy_unweighted
+    - semantic_semantic_shift
+    - semantic_usas_entropy_weighted
+
+    - mlm_pred_log_prob
+    - mlm_pred_entropy
+    - mlm_pred_margin

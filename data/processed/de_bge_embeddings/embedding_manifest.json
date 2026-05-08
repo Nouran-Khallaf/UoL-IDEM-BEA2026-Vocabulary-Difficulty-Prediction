@@ -1,0 +1,38 @@
+{
+  "experiment_name": "de_bge_extract",
+  "encoder_name": "BAAI/bge-m3",
+  "normalize_embeddings": false,
+  "text_columns": [
+    "L1_source_word",
+    "L1_context",
+    "en_target_clue",
+    "en_target_word"
+  ],
+  "text_join_mode": "sep",
+  "train_embeddings_file": "train_bge_embeddings.npy",
+  "dev_embeddings_file": "dev_bge_embeddings.npy",
+  "train_index_file": "train_embedding_index.csv",
+  "dev_index_file": "dev_embedding_index.csv",
+  "train_shape": [
+    6091,
+    1024
+  ],
+  "dev_shape": [
+    677,
+    1024
+  ],
+  "pca": {
+    "pca_128": {
+      "explained_variance_ratio_sum": 0.6887236833572388,
+      "train_file": "train_bge_pca128.npy",
+      "dev_file": "dev_bge_pca128.npy",
+      "pca_object_file": "bge_pca128.joblib"
+    },
+    "pca_256": {
+      "explained_variance_ratio_sum": 0.8836876153945923,
+      "train_file": "train_bge_pca256.npy",
+      "dev_file": "dev_bge_pca256.npy",
+      "pca_object_file": "bge_pca256.joblib"
+    }
+  }
+}

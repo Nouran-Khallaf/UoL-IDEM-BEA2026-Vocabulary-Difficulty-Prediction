@@ -1,0 +1,412 @@
+project:
+  name: bea_kvl_pipeline
+  version: 0.1.0
+  description: Modular config-driven pipeline for BEA 2026 KVL lexical difficulty
+    prediction
+reproducibility:
+  random_seed: 42
+  python_hash_seed: 42
+  deterministic: true
+schema:
+  id_column: item_id
+  target_column: GLMM_score
+  l1_column: L1
+  text_columns:
+    context: L1_context
+    source_word: L1_source_word
+    en_word: en_target_word
+    en_pos: en_target_pos
+    clue: en_target_clue
+columns:
+  source_word: L1_source_word
+  en_word: en_target_word
+  clue: en_target_clue
+  context: L1_context
+  en_pos: en_target_pos
+paths:
+  raw_data_dir: data/raw
+  interim_data_dir: data/interim
+  processed_data_dir: data/processed
+  external_data_dir: data/external
+  manifests_dir: manifests
+  runs_dir: runs
+  logs_dir: runs/logs
+defaults:
+  language: de
+  cv_folds: 5
+  cv_splitter: kfold
+  cv_shuffle: true
+  metrics:
+  - rmse
+  - pearson
+  - spearman
+  - kendall_tau
+runtime:
+  device: cuda
+  num_workers: 4
+  precision: float32
+  debug: false
+  dry_run: false
+  debug_subset_n: null
+validation:
+  strict: true
+  fail_on_missing_file: true
+  fail_on_missing_required_column: true
+  fail_on_duplicate_ids: true
+  fail_on_invalid_l1: true
+  fail_on_empty_dataframe: true
+  fail_on_nan_in_target: true
+  fail_on_inf_in_features: true
+  fail_on_empty_feature_group: true
+  warn_on_constant_features: true
+  warn_on_high_missingness: true
+  high_missingness_threshold: 0.3
+  allowed_l1_values:
+  - de
+  enforce_single_l1: true
+  require_nonempty_text_columns: true
+  require_unique_item_id_within_file: true
+  require_target_in_train: true
+  require_target_in_dev: true
+  require_target_in_test: false
+  allow_parallel_item_ids_across_languages: true
+  forbid_blank_strings_in:
+  - L1_context
+  - L1_source_word
+  - en_target_word
+  - en_target_pos
+  - en_target_clue
+  fail_on_missing_feature_columns: true
+  fail_on_duplicate_feature_names: true
+  fail_on_unexpected_non_numeric_model_input: true
+preprocessing:
+  default_numeric_imputer: median
+  default_categorical_imputer: most_frequent
+  default_scaler: standard
+  drop_constant_features: false
+  correlation_filter:
+    enabled: false
+    threshold: 0.95
+    method: pearson
+outputs:
+  save_run_config: true
+  save_run_manifest: true
+  save_fold_metrics: true
+  save_oof_predictions: true
+  save_feature_importance: true
+  save_selected_features: true
+  save_diagnostics: true
+  save_preprocessed_folds: false
+  output_subdir: de_all_features
+  save_resolved_config: true
+  save_feature_list: true
+  save_coefficients: true
+  save_intercept: true
+  save_error_analysis: true
+logging:
+  level: INFO
+  log_to_file: true
+  log_filename: run.log
+closed_track:
+  enabled: true
+  allow_cross_l1_training: false
+  allow_external_labels: false
+language: de
+language_name: German
+task_type: regression
+track: closed
+files:
+  train: data/processed/de/de_train_cognet_semantics.csv
+  dev: data/processed/de/de_dev_cognet_semantics.csv
+  test: data/processed/de/de_test_cognet_semantics.csv
+required_columns:
+  train:
+  - item_id
+  - L1
+  - GLMM_score
+  - L1_context
+  - L1_source_word
+  - en_target_word
+  - en_target_pos
+  - en_target_clue
+  dev:
+  - item_id
+  - L1
+  - GLMM_score
+  - L1_context
+  - L1_source_word
+  - en_target_word
+  - en_target_pos
+  - en_target_clue
+  test: []
+optional_columns: []
+availability:
+  train_required: true
+  dev_required: true
+  test_required: false
+typing:
+  cast_columns:
+    item_id: int
+    L1: str
+    GLMM_score: float
+    L1_context: str
+    L1_source_word: str
+    en_target_word: str
+    en_target_pos: str
+    en_target_clue: str
+filters:
+  keep_only_l1: de
+  strip_whitespace: true
+  normalize_unicode: true
+split_policy:
+  train_uses: train
+  validation_uses: dev
+  test_uses: test
+  allow_train_dev_merge_for_feature_bank: false
+  allow_train_dev_merge_for_supervised_fit: false
+closed_track_constraints:
+  use_only_this_l1_for_supervised_training: true
+  allow_public_pretrained_models: true
+  allow_public_lexical_resources: true
+  allow_predictions_from_other_l1_models: false
+experiment_name: de_all_features
+experiment_type: tabular
+tabular_input:
+  feature_dir: data/processed/de_features_v1
+  train_file: train_features.csv
+  train_diagnostics_file: train_feature_diagnostics.json
+  dev_file: dev_features.csv
+  dev_diagnostics_file: dev_feature_diagnostics.json
+model_name: ridge
+model_overrides:
+  alpha: 1.0
+  fit_intercept: true
+  max_iter: 10000
+  tol: 0.0001
+  solver: auto
+  random_state: 42
+feature_groups:
+  enabled:
+  - frequency
+  - lexical
+  - mlm
+  - surprisal
+  - retrieval
+  - cognate
+  - semantic
+  - mlm_predicted_word
+  - baseline_meta
+  disabled: []
+feature_overrides:
+  frequency:
+    enabled: true
+    target_word_column: en_target_word
+    target_lemma_column: en_target_lemma
+    target_pos_column: en_target_pos
+    kelly_enabled: true
+    kelly_path: data/external/en_m3.xls
+    kelly_sheet_name: 0
+    kelly_word_column: Word
+    kelly_pos_column: Part of Speech
+    kelly_rank_column: ID number
+    kelly_cefr_column: CEFR
+    kelly_points_column: Points
+    wordfreq_enabled: true
+    wordfreq_language: en
+    wordfreq_epsilon: 1.0e-09
+    subtlex_enabled: true
+    subtlex_path: data/external/SUBTLEX-US.xlsx
+    subtlex_sheet_name: 0
+    subtlex_word_column: Word
+    subtlex_pos_column: null
+    subtlex_wf_column: SUBTLWF
+    subtlex_lg10wf_column: Lg10WF
+    subtlex_cd_column: SUBTLCD
+    subtlex_lg10cd_column: Lg10CD
+    subtlex_zipf_column: Zipf
+    lowercase_lookup: true
+    strip_lookup: true
+    replace_nan_strings: true
+    pos_map:
+      noun: NOUN
+      n: NOUN
+      nn: NOUN
+      proper noun: PROPN
+      propn: PROPN
+      verb: VERB
+      v: VERB
+      vv: VERB
+      adjective: ADJ
+      adj: ADJ
+      jj: ADJ
+      adverb: ADV
+      adv: ADV
+      rb: ADV
+      pronoun: PRON
+      pron: PRON
+      determiner: DET
+      det: DET
+      preposition: ADP
+      prep: ADP
+      adp: ADP
+      conjunction: CCONJ
+      conj: CCONJ
+      cconj: CCONJ
+      sconj: SCONJ
+      number: NUM
+      num: NUM
+      interjection: INTJ
+      intj: INTJ
+      auxiliary: AUX
+      aux: AUX
+      particle: PART
+      part: PART
+  lexical:
+    enabled: true
+    active_features:
+    - kelly_rank
+    - kelly_rank_percentile
+    - kelly_points
+    - kelly_found
+    - wf_value
+    - wf_zipf
+    - wf_cost
+    - wf_percentile
+    - wf_found
+    - subtlex_wf
+    - subtlex_lg10wf
+    - subtlex_cd
+    - subtlex_lg10cd
+    - subtlex_zipf
+    - subtlex_found
+    - target_len
+    - source_len
+    - syllables
+    - pos_encoded
+    - clue_ratio
+  mlm:
+    enabled: true
+    output_prefix: mlm
+    target_word_column: en_target_word
+    context_column: L1_context
+    clue_column: en_target_clue
+    compute_mode: always_compute
+    model:
+      name: bert-base-multilingual-cased
+      max_length: 256
+      device: cuda
+  surprisal:
+    enabled: true
+    output_prefix: surprisal
+    target_word_column: en_target_word
+    context_column: L1_context
+    compute_mode: always_compute
+    compute_masked: true
+    compute_pll: true
+    aggregate_subwords: mean
+    model:
+      name: bert-base-multilingual-cased
+      max_length: 256
+      device: cuda
+  retrieval:
+    enabled: true
+    output_prefix: retrieval
+    target_word_column: en_target_word
+    clue_column: en_target_clue
+    context_column: L1_context
+    compute_mode: always_compute
+  cognate:
+    enabled: true
+    output_column: cognate_sim
+    source_word_column: L1_source_word
+    target_word_column: en_target_word
+    compute_mode: always_compute
+  semantic:
+    enabled: true
+    output_prefix: semantic
+    source_word_column: L1_source_word
+    target_word_column: en_target_word
+    clue_column: en_target_clue
+    context_column: L1_context
+    compute_mode: always_compute
+    fallback_when_domains_missing: true
+  mlm_predicted_word:
+    output_prefix: mlm_pred
+    context_column: L1_context
+    clue_column: en_target_clue
+    target_word_column: en_target_word
+    pos_column: en_target_pos
+    compute_mode: always_compute
+    candidate_source: target_column
+    candidate_column: en_target_word
+    max_candidates: null
+    shortlist_top_k: 50
+    use_first_letter_constraint: true
+    use_clue_pattern_constraint: true
+    use_length_constraint: true
+    length_tolerance: 0
+    use_pos_constraint: true
+  model:
+    name: bert-base-multilingual-cased
+    max_length: 256
+    batch_size: 32
+    device: cuda
+  baseline_meta:
+    enabled: true
+    output_prefix: baseline
+    prediction_column: mlm_pred_word
+    target_word_column: en_target_word
+    clue_column: en_target_clue
+    compute_mode: always_compute
+cv:
+  enabled: true
+  scheme: kfold
+  folds: 5
+  shuffle: true
+  random_state: 42
+  group_column: null
+  stratify: false
+data_usage:
+  train_split: train
+  validation_split: dev
+  test_split: test
+  run_mode: cross_validation_on_train
+  evaluate_dev_separately: false
+  merge_train_dev_for_final_fit: false
+selection:
+  target_column: GLMM_score
+  id_column: item_id
+  keep_columns_always:
+  - item_id
+  - L1
+  - GLMM_score
+  - en_target_word
+  - en_target_lemma
+  - en_target_pos
+  - en_target_clue
+  - L1_source_word
+  - L1_context
+  - mlm_pred_word
+evaluation:
+  primary_metric: rmse
+  secondary_metrics:
+  - pearson
+  - spearman
+  - kendall_tau
+  compute_global_oof_metrics: true
+  compute_fold_metrics: true
+diagnostics:
+  log_feature_summary: true
+  log_missingness_summary: true
+  log_fold_sizes: true
+  log_target_distribution: true
+closed_track_checks:
+  enforce_closed_track_rules: true
+  forbid_cross_l1_supervision: true
+  forbid_external_supervised_predictions: true
+_meta:
+  source_config: /mnt/scratch/smlnkh/bea_kvl_runs/configs/experiments/de_all_features.yaml
+  resolved_from:
+  - /mnt/scratch/smlnkh/bea_kvl_runs/configs/global.yaml
+  - /mnt/scratch/smlnkh/bea_kvl_runs/configs/data/de.yaml
+  - /mnt/scratch/smlnkh/bea_kvl_runs/configs/experiments/de_all_features.yaml

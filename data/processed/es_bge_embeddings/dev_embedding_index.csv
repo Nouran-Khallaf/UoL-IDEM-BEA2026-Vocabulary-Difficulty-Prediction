@@ -1,0 +1,678 @@
+item_id,L1,GLMM_score,joined_text
+6092,es,-0.900103864,extraña [SEP] Esta situación es muy extraña y no entiendo nada. [SEP] b______ [SEP] bizarre
+6093,es,-1.055005584,evidencia [SEP] ¿Nos puede enseñar evidencia de su identidad por favor? [SEP] p____ [SEP] proof
+6094,es,-0.517317253,nuevo [SEP] El descubrimiento nuevo de los restos de una iglesia en el aparcamiento es muy interesante. [SEP] r_____ [SEP] recent
+6095,es,-0.145262539,ayudante [SEP] Trabaja como ayudante al Doctor González en el laboratorio. [SEP] a________ [SEP] assistant
+6096,es,2.668637836,primavera [SEP] La primavera es mi estación preferida. [SEP] s_____ [SEP] spring
+6097,es,0.571423319,alimentación [SEP] La buena alimentación es clave para llevar una vida sana. [SEP] n________ [SEP] nutrition
+6098,es,3.96228315,leche [SEP] Me encanta el chocolate con leche. [SEP] m___ [SEP] milk
+6099,es,-2.275116176,pretendido [SEP] El el año 1970 hubo un pretendido golpe de estado. [SEP] a________ [SEP] attempted
+6100,es,2.304040317,suelo [SEP] No queda asientos así que tendréis que sentaros en el suelo. [SEP] f____ [SEP] floor
+6101,es,-0.197925836,suavidad [SEP] La suavidad de las sábanas era muy agradable y hasta relajante. [SEP] s_______ [SEP] softness
+6102,es,-0.571644525,"leño [SEP] Echa un leño al fuego, hace mucho frío. [SEP] l__ [SEP] log"
+6103,es,-0.8983947,chapotear [SEP] Los niños se metieron en el río y se pusieron a chapotear. [SEP] s_____ [SEP] splash
+6104,es,-0.404386473,inconsciente [SEP] Se quedó inconsciente cuando se cayó de la moto. [SEP] u__________ [SEP] unconscious
+6105,es,2.032889981,embajada [SEP] Trabaja en la embajada de Australia aquí en España. [SEP] e______ [SEP] embassy
+6106,es,0.633469414,mandar [SEP] El gobierno va a mandar una investigación sobre las causas del accidente. [SEP] o____ [SEP] order
+6107,es,2.647526195,agradable [SEP] Pasé una tarde agradable leyendo en una cafetería. [SEP] n___ [SEP] nice
+6108,es,-1.365950872,brillo [SEP] Esa crema le da un brillo suave a la cara y favorece mucho. [SEP] g___ [SEP] glow
+6109,es,-1.949599114,erradicar [SEP] Este champú puede erradicar los piojos después de usarlo una vez sólo. [SEP] e________ [SEP] eliminate
+6110,es,-1.73777056,desgraciado [SEP] Se mató en un accidente desgraciado cuando tenía veinte años. [SEP] t_____ [SEP] tragic
+6111,es,0.962372251,fuegos [SEP] Al final de la fiesta habrá un espectáculo de fuegos artificiales en la plaza. [SEP] f________ [SEP] fireworks
+6112,es,-0.785791662,gubrnamental [SEP] La agencia gubernmental de desempleo acaba de divulgar unas cifras muy preocupantes sobre el paro. [SEP] g___________ [SEP] governmental
+6113,es,2.988052475,"campamento [SEP] Vamos a volver al campamento, si no, nos vamos a perder. [SEP] c___ [SEP] camp"
+6114,es,1.285420894,dada [SEP] Hay que firmar el contrato antes de la fecha dada por ellos. [SEP] g____ [SEP] given
+6115,es,0.806699962,escrito [SEP] Tenemos un documento escrito que describe los detalles de la batalla. [SEP] w______ [SEP] written
+6116,es,2.792678108,exportación [SEP] El proncipal producto de exportación colombiano es el café [SEP] e_____ [SEP] export
+6117,es,2.789129775,semana [SEP] La semana que viene me voy de vacaciones. [SEP] w___ [SEP] week
+6118,es,1.238729814,fiscal [SEP] Voy a trabajar en el departamento fiscal de la alcaldía. [SEP] f_____ [SEP] fiscal
+6119,es,3.921737203,dieta [SEP] Tengo que perder peso por lo que estoy a dieta desde la semana pasada. [SEP] d___ [SEP] diet
+6120,es,-0.414905299,abonarse [SEP] Mi padre acaba de abonarse a una revista de historia. [SEP] s________ [SEP] subscribe
+6121,es,0.540118009,comercio [SEP] El comercio de licores está controlado por la policía y la aduana [SEP] c_______ [SEP] commerce
+6122,es,-1.400765934,maltratar [SEP] No hay que maltratar a los animales. [SEP] a____ [SEP] abuse
+6123,es,0.549215315,adentro [SEP] Deje las llaves dentro del carro. [SEP] i___ [SEP] into
+6124,es,0.373610956,intermedio [SEP] Esta etapa intermedia entre dos fases del proyecto debe quedar completa antes del inicio de la fase final [SEP] i___________ [SEP] intermediate
+6125,es,0.474862861,riñón [SEP] Mi vecina tiene una infección de riñón y está ingresada. [SEP] k_____ [SEP] kidney
+6126,es,-4.582801826,prohibir [SEP] Se portó tan mal la última vez que estuvo aquí que hubo que prohibirle la entrada. [SEP] b__ [SEP] bar
+6127,es,-2.48785262,modificación [SEP] Sólo hicimos una pequeña modificación al texto antes de publicarlo. [SEP] r_______ [SEP] revision
+6128,es,-0.427174228,anuncio [SEP] Vi un anuncio de televisión para la venta de casas en el pueblo. [SEP] c_________ [SEP] commercial
+6129,es,1.25905504,decodificar [SEP] La ingeniera pudo decodificar la falla del sistema a tiempo. [SEP] d_____ [SEP] decode
+6130,es,-0.222450231,"entorno [SEP] No hay que sacar las palabras fuera de su entorno, porque puede conducir a errores. [SEP] c______ [SEP] context"
+6131,es,-1.455729706,pavor [SEP] Sólo pensar en tener que hacer un vuelo me da pavor. [SEP] p____ [SEP] panic
+6132,es,-3.527444636,último [SEP] Mi hemano fue el último en despedirse. [SEP] l_____ [SEP] latter
+6133,es,-0.148933493,"equivocado [SEP] Estás equivocado, no me conoces en absoluto. [SEP] m_______ [SEP] mistaken"
+6134,es,-2.457015289,debidamente [SEP] No creo que estés debidamente vestido para una boda. [SEP] a____________ [SEP] appropriately
+6135,es,-2.286375635,inepto [SEP] Es un profesor francamente inepto. [SEP] i__________ [SEP] incompetent
+6136,es,2.893874933,literal [SEP] No pude encontrar una palabra para la traducción literal de este enunciado [SEP] l______ [SEP] literal
+6137,es,0.792490948,obra [SEP] Dicen que trabajar en una obra cómica es lo más difícil para un actor. [SEP] c_____ [SEP] comedy
+6138,es,0.62193619,examen [SEP] Aprobé el examen de entrada a la universidad de Córdoba. [SEP] e__________ [SEP] examination
+6139,es,0.401429742,actualizar [SEP] Tu trabajo consistirá en actualizar las noticias para los boletines. [SEP] u_____ [SEP] update
+6140,es,-0.0831991,nombre [SEP] Te doy las gracias en nombre de toda mi familia. [SEP] b_____ [SEP] behalf
+6141,es,1.010258645,precisar [SEP] Si quieren reclamar tendrán de especificar las circunstancias de la pérdida del artículo. [SEP] s______ [SEP] specify
+6142,es,0.468671466,parámetro [SEP] Tuvimos que trabajar dentro de los parámetros establecidos por el comité. [SEP] p________ [SEP] parameter
+6143,es,2.897370427,artículo [SEP] El artículo periodistico está en la primera plana del periodico de hoy [SEP] a______ [SEP] article
+6144,es,1.573152908,dudar [SEP] Su testimonio me hizo dudar al final. [SEP] d____ [SEP] doubt
+6145,es,2.21023013,alguien [SEP] Necesito que alguien me ayude con esto. [SEP] s______ [SEP] someone
+6146,es,2.491743461,tsunami [SEP] Normalmente un tsunami es causado por un terremoto en alta mar. [SEP] t______ [SEP] tsunami
+6147,es,2.838685243,"teléfono [SEP] Me tengo que comprar un nuevo teléfono, este es muy antiguo ya. [SEP] p____ [SEP] phone"
+6148,es,0.064990099,auténtico [SEP] ¿El cuadro es un Picasso auténtico? [SEP] g______ [SEP] genuine
+6149,es,0.335755224,personal [SEP] Hay una taquilla personal para cada empleado. [SEP] i_________ [SEP] individual
+6150,es,-3.167280399,sistemáticamente [SEP] Los estudios muestran sistemáticamente que las verduras son muy sanas. [SEP] c___________ [SEP] consistently
+6151,es,0.908415477,"sábana [SEP] No cambies la sábana de arriba, sólo la de abajo. [SEP] s____ [SEP] sheet"
+6152,es,1.336327575,tarde [SEP] Qué tarde más agradable pasamos. [SEP] e______ [SEP] evening
+6153,es,1.54223521,"por [SEP] Y por último, quisiera dar las gracias a mis padres. [SEP] f______ [SEP] finally"
+6154,es,0.338092861,garganta [SEP] Me duele la garganta mucho hoy. [SEP] t_____ [SEP] throat
+6155,es,-1.363440238,trastorno [SEP] Los psiquiatras tratan este trastorno con medicación y terapia. [SEP] d_______ [SEP] disorder
+6156,es,-0.862431532,ambiente [SEP] El ambiente político en este país es muy interesante. [SEP] c______ [SEP] climate
+6157,es,-0.565820725,"ensueño [SEP] Vive en un mundo de ensueño, que no es nada real. [SEP] f______ [SEP] fantasy"
+6158,es,-0.605855775,melodía [SEP] Tarareaba una melodía que había oído el día anterior. [SEP] t___ [SEP] tune
+6159,es,2.53591823,tubo [SEP] El tubo debe de estar roto porque hay una fuga. [SEP] t___ [SEP] tube
+6160,es,2.296543539,sobre [SEP] Hablaron sobre la música toda la noche. [SEP] a____ [SEP] about
+6161,es,-4.738488026,increíblemente [SEP] ¡Ese es un coche increíblemente bonito! [SEP] m_____ [SEP] mighty
+6162,es,-2.041153097,traer [SEP] Ver el mar para Luis no deja de traer a la memoria los días felices de su infancia. [SEP] e____ [SEP] evoke
+6163,es,-2.422261499,frente [SEP] Hay que ganarse el pan con el sudor de nuestra frente. [SEP] b___ [SEP] brow
+6164,es,-0.231370762,"mencionar [SEP] Cuando usas información de otro autor, hay que mencionar la fuente: su nombre y apellidos, obra, página etc [SEP] c___ [SEP] cite"
+6165,es,-3.272201616,paramilitares [SEP] Las tropas paramilitares seguían ocupando la mitad de la isla. [SEP] m______ [SEP] militia
+6166,es,1.591918339,buscar [SEP] Tuvimos que buscar por toda la casa para encontrar el monedero. [SEP] s_____ [SEP] search
+6167,es,0.422759832,mandíbula [SEP] Los tiburones tienen una mandíbula muy fuerte. [SEP] j__ [SEP] jaw
+6168,es,-1.755407704,infinita [SEP] Hay una variedad infinita de productos para el consumidor. [SEP] l________ [SEP] limitless
+6169,es,-2.565370725,profundo [SEP] Necesitamos implementar un cambio profundo en las instituciones. [SEP] r______ [SEP] radical
+6170,es,-2.47268536,influenciado [SEP] De pequeño estaba muy influenciado por su hermano.  Hacía todo lo que le mandaba. [SEP] d________ [SEP] dominated
+6171,es,0.56534329,calentamiento [SEP] El calentamiento del planeta es una amenaza para futuras generaciones. [SEP] w______ [SEP] warming
+6172,es,-3.422146505,porción [SEP] Mi dieta incluye una porción de fruta al día y cuatro de verduras. [SEP] s______ [SEP] serving
+6173,es,-2.28439236,argumento [SEP] Su argumento me ha convencido que debemos vender la empresa. [SEP] r________ [SEP] reasoning
+6174,es,1.79944148,organismo [SEP] Unicef es un prganismo internacional encargado de la niñez y adolescencia [SEP] o_______ [SEP] organism
+6175,es,2.959211387,distinto [SEP] Pepe es muy distinto a su hermano. [SEP] d________ [SEP] different
+6176,es,0.817013158,desafortunada [SEP] Perdí la apuesta debido a mi desafortunada elección. [SEP] u__________ [SEP] unfortunate
+6177,es,0.949750566,"pasta [SEP] Mi madre hizo un pasta con pollo para la cena, está deliciosa [SEP] p____ [SEP] pasta"
+6178,es,-0.592694101,camarote [SEP] Cogimos un camarote para dormir durante la travesía. [SEP] c____ [SEP] cabin
+6179,es,0.368620748,vendedor [SEP] El vendedor de fruta ha traído huevos de su corral también hoy. [SEP] s_____ [SEP] seller
+6180,es,-2.861978692,intransigencia [SEP] La intransigencia política es el enemigo de la democracia. [SEP] i__________ [SEP] intolerance
+6181,es,1.368515127,volumen [SEP] El anfitrión compró un gran volumen de comida para la fiesta. [SEP] q_______ [SEP] quantity
+6182,es,-0.355953696,impacto [SEP] El impacto cultural fue un problema para ella cuando emigró. [SEP] s____ [SEP] shock
+6183,es,0.858309323,comportarse [SEP] Hay que comportarse bien en esta clase. [SEP] b_____ [SEP] behave
+6184,es,1.552399994,despertador [SEP] El despertador sonó a tiempo [SEP] a____ [SEP] alarm
+6185,es,-0.578291087,"grave [SEP] Por suerte, el error no fue grave. [SEP] s______ [SEP] serious"
+6186,es,-3.737168834,fundamental [SEP] La prevención es fundamental en el caso de esta enfermedad. [SEP] c______ [SEP] central
+6187,es,0.965671592,estructural [SEP] El viento produjo un daño estructual en la construcción del tejado bastante serio. [SEP] s_________ [SEP] structural
+6188,es,2.214615126,camisa [SEP] Me tengo que comprar una camisa blanca para la boda. [SEP] s____ [SEP] shirt
+6189,es,-2.904115361,apto [SEP] Soy apto para hacer el examen de entrada y estoy muy contento. [SEP] e_______ [SEP] eligible
+6190,es,-2.105853118,algo [SEP] Nuestro jefe es algo formal y rígido. [SEP] s_______ [SEP] somewhat
+6191,es,0.833825967,estable [SEP] Decidí no subir la escalera porque no era muy estable. [SEP] s_____ [SEP] stable
+6192,es,-1.170910026,doble [SEP] La tela que se usa debe ser doble cara para que funcione por los dos lados [SEP] d______ [SEP] doubled
+6193,es,-2.043040492,prosperar [SEP] La empresa que fundé hace cinco años está empezando a prosperar. [SEP] t_____ [SEP] thrive
+6194,es,-3.312462952,implicación [SEP] La implicación del hombre en el robo no estuvo nada clara. [SEP] i__________ [SEP] involvement
+6195,es,1.083970471,disparar [SEP] El jefe de policía mandó disparar contra los miembros de la banda. [SEP] s____ [SEP] shoot
+6196,es,1.714365984,realismo [SEP] García Márquez es considerado como el precursor del realismo mpagico en la literatura latinoamericana [SEP] r______ [SEP] realism
+6197,es,-2.943662939,resolver [SEP] Voy a resolver el problema con la ayuda de mi equipo. [SEP] f_____ [SEP] figure
+6198,es,-1.741098447,importante [SEP] El fin de la guerra fue un evento importante para el país. [SEP] s__________ [SEP] significant
+6199,es,1.900137841,"descansar [SEP] Llevo todo el día trabajando, necesito descansar. [SEP] r___ [SEP] rest"
+6200,es,-1.365539055,global [SEP] Primero tenemos que obtener una visión global del mercado. [SEP] g______ [SEP] general
+6201,es,1.306083579,cafatería [SEP] Mis amigos y yo siempre nos encontramos en la cafetería en la esquina del parque central [SEP] c___ [SEP] cafe
+6202,es,-1.007053721,exacta [SEP] El horario muestra la hora exacta de llegada del tren [SEP] p______ [SEP] precise
+6203,es,2.24205925,palma [SEP] Colocó el pajarito en la palma de su mano muy suavemente. [SEP] p___ [SEP] palm
+6204,es,1.636500186,gripe [SEP] Todos hemos tenido la gripe este invierno. [SEP] f__ [SEP] flu
+6205,es,0.594702073,ladrillo [SEP] La casa está hecha de ladrillo. [SEP] b____ [SEP] brick
+6206,es,0.231032353,breve [SEP] La novela cuenta una breve historia de amor. [SEP] b____ [SEP] brief
+6207,es,-0.359350148,conjunto [SEP] Una frase es un conjunto de palabras que tiene sentido. [SEP] s__ [SEP] set
+6208,es,-1.656621992,salvaguardar [SEP] La empresa tendrá que actuar rápido si quiere salvaguardar puestos de trabajo. [SEP] s________ [SEP] safeguard
+6209,es,1.020411948,pesar [SEP] El pescadero se sentó para pesar el salmón en una balanza. [SEP] w____ [SEP] weigh
+6210,es,-3.611021858,restaurada [SEP] Toda la zona devastada por el huracán ahora está restaurada gracias al trabajo de los voluntarios. [SEP] r____________ [SEP] reconstructed
+6211,es,-0.969394243,protector [SEP] Tengo una foto de mi novio como protector de pantalla. [SEP] s__________ [SEP] screensaver
+6212,es,-1.638562943,distensión [SEP] Después de un día duro de trabajo disfrutaron de una tarde de distensión cenando juntos. [SEP] r_________ [SEP] relaxation
+6213,es,0.950911044,conectividad [SEP] La conectividad del internet es malísima en esta zona. [SEP] c___________ [SEP] connectivity
+6214,es,0.727578835,de [SEP] Llevaba un vaquero con agujeros y una camiseta de talla grande. [SEP] o_______ [SEP] oversize
+6215,es,-0.552341883,municipal [SEP] El área municipal de este pueblo es bastante grande. [SEP] u____ [SEP] urban
+6216,es,-0.267335517,ciudadanía [SEP] Me han concedido la ciudadanía Canadiense. [SEP] c__________ [SEP] citizenship
+6217,es,0.272888746,colada [SEP] El hotel se ocupará de la colada de todo el equipo. [SEP] l______ [SEP] laundry
+6218,es,1.859333565,vestida [SEP] ¿La novia está vestida todavía? [SEP] d______ [SEP] dressed
+6219,es,-2.754907268,marcado [SEP] Este año ha habido un incremento marcado de las exportaciones [SEP] p_________ [SEP] pronounced
+6220,es,0.831156028,"acuerdo [SEP] Después de hablar, llegamos a un acuerdo. [SEP] a________ [SEP] agreement"
+6221,es,3.337006771,cama [SEP] Quiero una habitación con una cama doble por favor. [SEP] b__ [SEP] bed
+6222,es,-0.02085586,vigente [SEP] Un pasaporte vigente es necesario para viajar al extranjero. [SEP] v____ [SEP] valid
+6223,es,-1.412955007,desesperación [SEP] Lloró de pura deseperación porque pensaba que no iba a volver a su casa nunca. [SEP] d______ [SEP] despair
+6224,es,1.772308377,carcajada [SEP] Soltó una carcajada al oír el chiste. [SEP] l____ [SEP] laugh
+6225,es,-1.450373532,decidida [SEP] La versión decidida del libro está con los editores.  ¡No más cambios! [SEP] d_________ [SEP] definitive
+6226,es,-1.50086847,integrista [SEP] El integrista cree que la sociedad insulta su religión. [SEP] f_____________ [SEP] fundamentalist
+6227,es,-1.764025523,muy [SEP] Tu consejo ha sido siempre muy importante para mí. [SEP] v_______ [SEP] valuable
+6228,es,3.460958705,Latín [SEP] Muchas lenguas en el mundo emergieron del latín que se usaba en los tiempos antiguos [SEP] l____ [SEP] latin
+6229,es,0.2433896,dinámica [SEP] Laura es una trabajadora muy dinámica. [SEP] a_____ [SEP] active
+6230,es,-0.075364527,dentro [SEP] Nos vamos a ver dentro de seis semanas. [SEP] w_____ [SEP] within
+6231,es,0.360845197,dinero [SEP] Trabaja en el área del dinero pero no sé exactamente lo que hace. [SEP] f______ [SEP] finance
+6232,es,-1.603288344,colaborador [SEP] Ha sido un colaborador muy activo en la discusión. [SEP] p__________ [SEP] participant
+6233,es,-1.453355673,exceso [SEP] Daniel tuvo una multa por exceso de velocidad [SEP] s_______ [SEP] speeding
+6234,es,3.43872449,caro [SEP] Me encanta el collar pero es muy caro. [SEP] e________ [SEP] expensive
+6235,es,-3.16260258,explosión [SEP] Los años ochenta fueron una explosión de alegria después de años de dictadura. [SEP] b____ [SEP] burst
+6236,es,-0.675547909,inmediato [SEP] Esta cuenta te da acceso inmediato a tu dinero. [SEP] i______ [SEP] instant
+6237,es,-2.22470585,mencionar [SEP] Tuvo que mencionar el asunto varias veces para aclarar exactamente lo que había pasado. [SEP] r____ [SEP] refer
+6238,es,1.413202137,recordable [SEP] La boda real fue recordable hasta varias décadas depués. [SEP] m________ [SEP] memorable
+6239,es,0.362567185,choque [SEP] Hubo un choque entre dos camiones pero no hubo víctimas. [SEP] c____ [SEP] crash
+6240,es,-0.551012686,fielmente [SEP] Nos ha representado fielmente durante veinticinco años. [SEP] f_________ [SEP] faithfully
+6241,es,-0.49459052,contribución [SEP] ¿Quieres aportar una contribución para los perros guía? [SEP] d_______ [SEP] donation
+6242,es,-3.977599967,ocurrencia [SEP] La globalización es una ocurrencia del siglo veintiuno. [SEP] p_________ [SEP] phenomenon
+6243,es,0.641439638,manta [SEP] Si tienes frío te echas una manta. [SEP] b______ [SEP] blanket
+6244,es,-3.011660282,retroceso [SEP] Empezó a mostrar síntomas de sufrir un retroceso a la infancia. [SEP] r_________ [SEP] regression
+6245,es,1.084093666,varios [SEP] Tenemos folletos en varios idiomas. [SEP] s______ [SEP] several
+6246,es,-1.327347325,túnica [SEP] El nuevo rey vestía una larga túnica blanca para la coronación. [SEP] r___ [SEP] robe
+6247,es,0.039739699,desesperadamente [SEP] El hombre buscaba desesperadamente que lo comunicaran con la policía [SEP] d__________ [SEP] desperately
+6248,es,2.39030798,piedra [SEP] La piedra pulida tiene una superficie muy suave. [SEP] s____ [SEP] stone
+6249,es,0.660695113,crucigrama [SEP] Mi marido hace el crucigrama del periódico todos los días [SEP] c________ [SEP] crossword
+6250,es,-1.448768563,faro [SEP] El faro derecho de mi coche nuevo ya se ha roto. [SEP] h________ [SEP] headlight
+6251,es,1.913828021,patriótico [SEP] Algunas personas son tan patrióticas que siempre estan hablando de su país [SEP] p________ [SEP] patriotic
+6252,es,-1.853238785,ayuda [SEP] La ayuda que nos da el gobierno nos viene muy bien. [SEP] a_________ [SEP] assistance
+6253,es,-1.457782561,calculadora [SEP] Su personalidad es calculadora y peligrosa. [SEP] c__________ [SEP] calculating
+6254,es,-1.017524615,"confundir [SEP] Es muy fácil confundir a Pedro con José, son gemelos. [SEP] m______ [SEP] mistake"
+6255,es,0.427744439,aventurar [SEP] Decidí aventurarme en las profundidades del bosque. [SEP] v______ [SEP] venture
+6256,es,1.940652278,minoría [SEP] La minoría étnica no tiene suficiente representación en el gobierno nacional [SEP] m_______ [SEP] minority
+6257,es,0.161321923,sudar [SEP] Se puso tan nervioso que empezó a sudar copiosamente. [SEP] s____ [SEP] sweat
+6258,es,2.104328458,libremente [SEP] Entró en ese acuerdo libremente y sin presiones de ningún tipo. [SEP] f_____ [SEP] freely
+6259,es,1.569248465,sala [SEP] Había cientos de personas en la sala escuchando la conferencia. [SEP] h___ [SEP] hall
+6260,es,-0.31610137,"del [SEP] Me encantaría estudiar algunos idiomas del este, como el chino por ejemplo. [SEP] o_______ [SEP] oriental"
+6261,es,0.809068556,nata [SEP] La nata es lo mejor de la leche. [SEP] c____ [SEP] cream
+6262,es,0.18426379,"alteración [SEP] En el desierto, hay una gran alteración diaria de temperatura. [SEP] v________ [SEP] variation"
+6263,es,0.784886925,silenciosamente [SEP] Cerró la puerta detrás de él silenciosamente. [SEP] q______ [SEP] quietly
+6264,es,-0.968594688,abiertamente [SEP] Hablaron de su relación abiertamente en todos los medios. [SEP] p_______ [SEP] publicly
+6265,es,-2.322662305,"confiado [SEP] Si una persona es muy confiado, los demás pueden aprovecharse. [SEP] t_______ [SEP] trusting"
+6266,es,0.43823657,inscribir [SEP] Vamos a inscribir el nacimiento de nuestra hija en el ayuntamiento. [SEP] r_______ [SEP] register
+6267,es,-1.070275233,"de [SEP] Es una película preciosa, de buen gusto y con fotografía muy bonita. [SEP] t_______ [SEP] tasteful"
+6268,es,0.544869226,"alfiler [SEP] Toma un alfiler para fijar el lazo, después lo coso. [SEP] p__ [SEP] pin"
+6269,es,2.213264357,chino [SEP] La comida china es algo que debes probar algún día [SEP] c______ [SEP] chinese
+6270,es,-3.535493172,nombrar [SEP] Lo han nombrado como representante lega de la familia [SEP] e______ [SEP] entitle
+6271,es,3.372670236,"mineral [SEP] El oro, el carbón o la sal son ejemplos de minerales [SEP] m______ [SEP] mineral"
+6272,es,-0.114154271,recuento [SEP] El recuento de los votos duró toda la tarde. [SEP] c_______ [SEP] counting
+6273,es,0.281390639,navegación [SEP] La navegación es muy popular en España. [SEP] s______ [SEP] sailing
+6274,es,-2.474933452,luchar [SEP] Animamos a nuestros alumnos a luchar por su futuro. [SEP] s_____ [SEP] strive
+6275,es,1.263473973,periodismo [SEP] El periodismo independiente es muy importante para la democracia. [SEP] j_________ [SEP] journalism
+6276,es,0.958213899,borrar [SEP] No queda sitio en el ordenador.  Tendremos que borrar algunos archivos. [SEP] e____ [SEP] erase
+6277,es,-0.180447996,auge [SEP] El auge económico ha creado muchos puestos de trabajo. [SEP] b___ [SEP] boom
+6278,es,-1.359339974,sobresalir [SEP] Ana está acostumbrada a sobresalir en todos sus estudios. [SEP] e____ [SEP] excel
+6279,es,0.20135684,"sobresaliente [SEP] Es un orador sobresaliente, lo que ha contribuído a su éxito. [SEP] e________ [SEP] excellent"
+6280,es,1.520681885,motivo [SEP] El motivo de su enfado es porque le han despedido de la empresa. [SEP] r_____ [SEP] reason
+6281,es,-2.977904811,ahorro [SEP] Hay muchas maneras de ayudar al ahorro de energía [SEP] c___________ [SEP] conservation
+6282,es,0.944075136,materialismo [SEP] Su hijo era conocido por ser egocéntrico y su materialismo [SEP] m__________ [SEP] materialism
+6283,es,-1.647358271,psicoterapeuta [SEP] Tengo una cita con mi psicoterapeuta el día de mañana para hablar de mi terapia alternativa [SEP] p______________ [SEP] psychotherapist
+6284,es,-3.570390528,cerca [SEP] El avión aterrizó justo cerca de la pista. [SEP] s____ [SEP] short
+6285,es,3.275802039,rápida [SEP] Nuestra empresa garantiza la entrega rápida. [SEP] f___ [SEP] fast
+6286,es,-2.561253877,indulgente [SEP] Los ciudadanos de esta región suele ser indulgente con los errores de sus políticos. [SEP] f________ [SEP] forgiving
+6287,es,0.991691261,turismo [SEP] Esta zona depende mucho de los servicios de turismo como hoteles y restaurantes. [SEP] t______ [SEP] tourism
+6288,es,-2.66862872,imponente [SEP] El monasterio de El Escorial es imponente por el tamaño y el estilo que tiene. [SEP] m_______ [SEP] majestic
+6289,es,-1.413501771,homenaje [SEP] Hicimos un homenaje a mi compañero que llevaba veinticinco años en la empresa. [SEP] t______ [SEP] tribute
+6290,es,-0.45117883,orgullo [SEP] Ver a si hijo recibir su diploma llenó a Marisa de orgullo. [SEP] p____ [SEP] pride
+6291,es,0.690318713,"asustado [SEP] Pareces asustado, ¿qué te ha pasado? [SEP] f_________ [SEP] frightened"
+6292,es,2.089121491,almohada [SEP] Necesito una almohada para reposar la cabeza. [SEP] p_____ [SEP] pillow
+6293,es,0.231821795,estallido [SEP] Se oyó el estallido de la bomba desde mucha distancia. [SEP] e________ [SEP] explosion
+6294,es,-1.905389381,enchufe [SEP] Mete el enchufe en la parte de atrás de la televisión. [SEP] c________ [SEP] connector
+6295,es,-2.275014797,"cambiar [SEP] Vamos a tener que cambiar estos muebles de sitio, no caben aquí. [SEP] s____ [SEP] shift"
+6296,es,-1.8238044,"delincuente [SEP] A ese delincuente juvenil, le van a enviar a una institución para tratar de reinsertarle en la sociedad. [SEP] o_______ [SEP] offender"
+6297,es,0.223549235,receta [SEP] Mi abuela tiene un libro de todas las recetas de su familia [SEP] r_____ [SEP] recipe
+6298,es,1.922798246,ferrocarril [SEP] La mercancía se transportará por ferrocarril. [SEP] r___ [SEP] rail
+6299,es,0.993154327,rebaja [SEP] Como empleado recibo una rebaja estupenda en el precio de nuestros productos. [SEP] d_______ [SEP] discount
+6300,es,2.791438929,asesinar [SEP] ¿Cómo íbamos a sospecharle de asesinar a su tío por las tierras? [SEP] m_____ [SEP] murder
+6301,es,0.834204673,obra [SEP] El crítico considera la nueva novela de Vargas una obra maestra. [SEP] m__________ [SEP] masterpiece
+6302,es,-0.673827094,modelo [SEP] El modelo de la belleza ha cambiado mucho a lo largo de los años. [SEP] i____ [SEP] ideal
+6303,es,-2.022861291,librería [SEP] Los diccionarios están ahí en la librería del salón. [SEP] b_______ [SEP] bookcase
+6304,es,3.63362861,enfermera [SEP] Trabaja de enfermera en un hospital cerca de mis casa. [SEP] n____ [SEP] nurse
+6305,es,-3.347683532,"influenciar [SEP] Mi padre siempre quiere influenciar lo que hago, lo que digo y mis opiniones. [SEP] d_______ [SEP] dominate"
+6306,es,-0.728608675,pasillo [SEP] Los yogures están en el tercer pasillo. [SEP] a____ [SEP] aisle
+6307,es,-0.339126959,"conjunto [SEP] El conjunto, de unos cincuenta músicos, tocó el bolero de Ravel. [SEP] o________ [SEP] orchestra"
+6308,es,3.000064752,siete [SEP] Tengo siete primos y tres primas. [SEP] s____ [SEP] seven
+6309,es,0.321001348,préstamo [SEP] Hemos tenido que pedir un préstamo al banco. [SEP] l___ [SEP] loan
+6310,es,-0.205984671,máquina [SEP] Mi padre sigue escribiendo en su vieja máquina de escribir. [SEP] t_________ [SEP] typewriter
+6311,es,-3.110626397,colaterales [SEP] Los efectos colaterales de la guerra a menudo son ignorados. [SEP] i_______ [SEP] indirect
+6312,es,1.84793359,agujero [SEP] Hizo un agujero grande en el jardín para plantar el árbol. [SEP] h___ [SEP] hole
+6313,es,-0.691600447,atascar [SEP] El papel se atascó en la impresora cinco minutos antes de la hora acordada para entregar los documentos [SEP] j__ [SEP] jam
+6314,es,-0.436404467,historiador [SEP] La dictora Martínez es la historiadora que trabajará con nosotros en el análisis de los documentos descubiertos. [SEP] h________ [SEP] historian
+6315,es,-4.313619798,contagiosa [SEP] La gripe que hay este año es muy contagiosa. [SEP] c_______ [SEP] catching
+6316,es,4.172205165,atómico [SEP] La bomba atómica es el arma mas peligrosa y dañina que ha inventado el hombre [SEP] a_____ [SEP] atomic
+6317,es,-1.562698019,poética [SEP] Nos dio una versión casi poética de su infancia. [SEP] l______ [SEP] lyrical
+6318,es,-0.670296515,extensión [SEP] Tenemos que prevenir la extensión de la enfermedad. [SEP] s_____ [SEP] spread
+6319,es,0.128342177,abundancia [SEP] La abundancia de alimentos se debe a la ayuda de las personas. [SEP] a________ [SEP] abundance
+6320,es,0.579180888,ascenso [SEP] La excursión incluye el ascenso a pie al volcán El Teide. [SEP] c____ [SEP] climb
+6321,es,-1.436704724,jornada [SEP] La jornada en las fábricas suele ser de ocho horas. [SEP] w______ [SEP] workday
+6322,es,-2.033929556,privacidad [SEP] Esta cláusula contempla cualquier situación en la que hay que mantener la privacidad de ambas partes [SEP] c______________ [SEP] confidentiality
+6323,es,-1.746854555,primera [SEP] Hay muchos tanques a lo largo de la primera línea. [SEP] f________ [SEP] frontline
+6324,es,2.559613363,a [SEP] Siga recto y después gire a la derecha. [SEP] r____ [SEP] right
+6325,es,-1.290460265,psicólogo [SEP] Es un experto psicólogo y trabaja en una clínica en la ciudad. [SEP] p___________ [SEP] psychologist
+6326,es,-2.15668836,equilibrio [SEP] Le costó mucho encontrar un equilibrio entre todos los lados del conflicto. [SEP] b________ [SEP] balancing
+6327,es,2.732266349,olvidar [SEP] No hay que olvidar los que dieron su vida por nosotros en la guerra. [SEP] f_____ [SEP] forget
+6328,es,0.197611226,detener [SEP] La policía acabó por detener a cinco personas. [SEP] a_____ [SEP] arrest
+6329,es,-2.483556237,interno [SEP] Le atacó otro interno y le tuvieron que cambiar de cárcel. [SEP] i_____ [SEP] inmate
+6330,es,0.913184346,más [SEP] No pidas a nadie más que venga a la fiesta. ¡No vamos a caber! [SEP] e___ [SEP] else
+6331,es,-0.802907574,profesor [SEP] Mi hija necesita un profesor particular para darle apoyo en las matemáticas-. [SEP] t____ [SEP] tutor
+6332,es,0.525138648,dudosa [SEP] La conclusión del informe me parece altamente dudosa. [SEP] q___________ [SEP] questionable
+6333,es,-0.426353392,lectura [SEP] No es posible que todos los jueces tengan la misma lectura de las leyes. [SEP] i_____________ [SEP] interpretation
+6334,es,-0.777790687,tarifa [SEP] La tarifa del autobús en Madrid es muy razonable. [SEP] f___ [SEP] fare
+6335,es,3.493478814,camello [SEP] Cuando fuimos a Marruecos montamos en camello. [SEP] c____ [SEP] camel
+6336,es,1.849300982,empezar [SEP] ¿Cuándo vas a empezar a estudiar para el examen? [SEP] b____ [SEP] begin
+6337,es,-2.216544423,asequible [SEP] El precio del abrigo es asequible así que me lo voy a comprar. [SEP] i__________ [SEP] inexpensive
+6338,es,-1.190114461,categoría [SEP] Al soldado le concedieron la categoría de coronel. [SEP] r___ [SEP] rank
+6339,es,-0.478637528,probar [SEP] Los solicitantes deben probar su capacidad de hablar el italiano. [SEP] d__________ [SEP] demonstrate
+6340,es,-1.386419388,impulsar [SEP] El gobierno tomó medidas para impulsar el consumo. [SEP] b____ [SEP] boost
+6341,es,0.891220041,longitud [SEP] La longitud más corta entre dos puntos es una línea recta. [SEP] d_______ [SEP] distance
+6342,es,-1.596424637,psicológicamente [SEP] Los deportistas tiene que prepararse física y psicológicamente antes de un campeonato [SEP] p______________ [SEP] psychologically
+6343,es,-0.604778542,alegre [SEP] Esa chica tiene un carácter muy alegre y siempre está sonriendo. [SEP] c_______ [SEP] cheerful
+6344,es,0.219043107,extraoficial [SEP] Una fuente extraoficial estima la cifra en más de un millón. [SEP] u_________ [SEP] unofficial
+6345,es,-0.435624626,sacar [SEP] Exprimí el limón para sacar el jugo. [SEP] e______ [SEP] extract
+6346,es,-0.429095741,exactitud [SEP] Los instrumentos miden los resultados con gran exactitud. [SEP] p________ [SEP] precision
+6347,es,-0.3770949,situación [SEP] La situación de nuestra nueva oficina es buena. [SEP] p_______ [SEP] position
+6348,es,-1.812551741,reutilizado [SEP] Estas bolsas están hechas con material reutilizado. [SEP] r_______ [SEP] recycled
+6349,es,1.242171699,campo [SEP] Las vacas están en el campo cerca de la carretera. [SEP] f____ [SEP] field
+6350,es,0.398802343,atómica [SEP] Van a poner una nueva central atómica cerca de la ciudad. [SEP] n______ [SEP] nuclear
+6351,es,-0.24026002,mensaje [SEP] Me dejó un mensaje de voz en mi teléfono ayer. [SEP] v________ [SEP] voicemail
+6352,es,1.134579085,adornada [SEP] Qué bonita está la casa adornada para Navidad. [SEP] d________ [SEP] decorated
+6353,es,2.731827592,trabajador [SEP] El trabajador tuvo que justificar su ausencia. [SEP] w_____ [SEP] worker
+6354,es,-1.215063298,adelanto [SEP] Vamos a ver un adelanto de la colección otoño-invierno esta tarde. [SEP] p______ [SEP] preview
+6355,es,-2.030075685,molestarse [SEP] ¿Por qué tiene que molestarse Pedro por lo que piensan los demás? [SEP] m___ [SEP] mind
+6356,es,-0.637988179,objetivo [SEP] El objetivo de este librito es el de proporcionar una guía completa a la universidad. [SEP] p______ [SEP] purpose
+6357,es,1.546118054,locura [SEP] Dicen que hay una vinculación entre la locura y la creatividad. [SEP] m______ [SEP] madness
+6358,es,0.464767459,canguro [SEP] El canguro australiano puede saltar unas distancias enormes y es conocido por llevar a sus crías con dentro de una bolsa que sale de su vientre. [SEP] k_______ [SEP] kangaroo
+6359,es,0.866213659,traductor [SEP] Es traductor del inglés al portugués y a la inversa. [SEP] t_________ [SEP] translator
+6360,es,-0.170223882,toparse [SEP] Nunca pensó que iba a toparse con su profesora en el club. [SEP] e________ [SEP] encounter
+6361,es,-2.399378338,legislador [SEP] Los deberes del legislador son asegurar que el derecho refleje las necesidades del pueblo. [SEP] l_______ [SEP] lawmaker
+6362,es,-1.669512426,insensibilidad [SEP] La insensibilidad dental es porducida por la falta de calcio y el mal cuidado bucal [SEP] i____________ [SEP] insensitivity
+6363,es,3.438049858,beber [SEP] Los niños pequeños tienen que beber mucha leche. [SEP] d____ [SEP] drink
+6364,es,2.303933318,más [SEP] Mi compañía paga un buen salario más los costes de desplazamiento. [SEP] p___ [SEP] plus
+6365,es,0.943493091,mesón [SEP] Cenamos en un mesón muy bonito en un pueblo. [SEP] r_________ [SEP] restaurant
+6366,es,0.932827154,castigo [SEP] Le mandaron a su cuarto como castigo. [SEP] p_________ [SEP] punishment
+6367,es,-0.105642973,don [SEP] Mi hermana nació con un don para bailar. [SEP] t_____ [SEP] talent
+6368,es,0.203622163,consciente [SEP] Es consciente del peligro de su situación pero no quiere hacer nada al repecto. [SEP] a____ [SEP] aware
+6369,es,2.943449844,realidad [SEP] Me temo que no quieres reconocer la realidad de los hechos. Las cosas no son cómo tú piensas. [SEP] r______ [SEP] reality
+6370,es,1.73638704,transformar [SEP] La tecnología va a transformar todavía más las oficinas del futuro. [SEP] t________ [SEP] transform
+6371,es,-2.640761374,facturación [SEP] La facturación ha aumentado desde que la empresa se expandió. [SEP] t_______ [SEP] turnover
+6372,es,0.195246449,destellar [SEP] La luz de la linterna volvió a destellar. [SEP] f____ [SEP] flash
+6373,es,2.880030773,"parada [SEP] Después de una breve parada, el grupo continuó su viaje. [SEP] s___ [SEP] stop"
+6374,es,-1.259737785,instaurada [SEP] Esta norma está instaurada en nuestra organización desde hace muchos años. [SEP] e__________ [SEP] established
+6375,es,0.81354794,gusto [SEP] El chiste era de mal gusto. [SEP] t____ [SEP] taste
+6376,es,1.946830076,entender [SEP] Es imposible entender sus motivos pero hay que aceptarlos. [SEP] u_________ [SEP] understand
+6377,es,2.972998947,película [SEP] Es una película antigua pero buenísima. [SEP] f___ [SEP] film
+6378,es,0.250657673,levantar [SEP] Los estudiantes deben levantar la mano si tienen una pregunta. [SEP] r____ [SEP] raise
+6379,es,-0.493059266,liberación [SEP] La familia del prisionero esperaba el día de su liberación. [SEP] r______ [SEP] release
+6380,es,2.431636648,bajo [SEP] El terreno de esta zona es plano y bajo. [SEP] l__ [SEP] low
+6381,es,-1.672843206,compromiso [SEP] Tenemos el compromiso de cumplir lo que hemos prometido. [SEP] c_________ [SEP] commitment
+6382,es,-1.872885659,"comentarista [SEP] Según el comentarista de ese periódico, el libro no es muy bueno. [SEP] c_____ [SEP] critic"
+6383,es,-1.502705058,amplia [SEP] Susana tiene una amplia experiencia en la enseñanza a este nivel. [SEP] e________ [SEP] extensive
+6384,es,-0.839244486,atraer [SEP] Su belleza atrae la mirada de muchas personas [SEP] a______ [SEP] attract
+6385,es,0.679850404,comisión [SEP] El jefe envió una comisión a la asamblea mundial de países [SEP] c_________ [SEP] commission
+6386,es,1.071391705,tendencia [SEP] El diseñador de moda siempre sigue la última tendencia. [SEP] t____ [SEP] trend
+6387,es,-0.420761162,debatir [SEP] Es muy útil para los profesores debatir sus métodos de enseñanza entre ellos. [SEP] d______ [SEP] discuss
+6388,es,-2.679535129,innata [SEP] La curiosidad humana es una cualidad innata de todo ser humano. [SEP] i_______ [SEP] inherent
+6389,es,-0.692855676,hipótesis [SEP] El resultado final del trabajo es que logres sustentar tu hipótesis [SEP] h_________ [SEP] hypothesis
+6390,es,2.566935975,adiós [SEP] Tenemos que decirle adiós a la abuela antes de irnos. [SEP] g______ [SEP] goodbye
+6391,es,3.249661549,artista [SEP] El artista logra plasmar lo que imagina en el lienzo. [SEP] a_____ [SEP] artist
+6392,es,0.59535845,injusto [SEP] Me parece que has sido muy injusto conmigo. [SEP] u_____ [SEP] unfair
+6393,es,0.974184975,"anteriormente [SEP] Anteriormente, el edificio había sido un hotel. [SEP] p_________ [SEP] previously"
+6394,es,-0.693953091,celos [SEP] Los celos son muy destructivos. [SEP] j_______ [SEP] jealousy
+6395,es,3.248727257,perro [SEP] Me gusta comerme un perroo caliente por la calle a media mañana. [SEP] h_____ [SEP] hotdog
+6396,es,0.510638573,sobreviviente [SEP] Fue el único sobreviviente de la masacre. [SEP] s_______ [SEP] survivor
+6397,es,-1.166854056,patrimonio [SEP] Heredé un pequeño patrimonio de un familiar lejano. [SEP] l_____ [SEP] legacy
+6398,es,-0.255189682,principiante [SEP] Cometo muchos errores de principiante pero creo que es normal. [SEP] b_______ [SEP] beginner
+6399,es,2.277959631,"agregar [SEP] Cuando la salsa esté caliente, hay que agregar la harina. [SEP] a__ [SEP] add"
+6400,es,-2.074446431,maestro [SEP] Francisco Giner de los Ríos fue un famoso maestro español. [SEP] e_______ [SEP] educator
+6401,es,-0.554489297,desarrollo [SEP] El desarrollo de la tecnología ha hecho que la comunicación sea más fácil. [SEP] e________ [SEP] evolution
+6402,es,-0.988426193,"restante [SEP] Después de terminar la tarea, usé el tiempo restante para estudiar. [SEP] r________ [SEP] remaining"
+6403,es,-1.241644915,decepción [SEP] No podía disimular su decepción y se puso a llorar. [SEP] d_____________ [SEP] disappointment
+6404,es,2.066737362,enfoque [SEP] El enfoque de la discusión fue el deporte. [SEP] f____ [SEP] focus
+6405,es,1.689772628,teclado [SEP] Tomó asiento delante del teclado y empezó a escribir. [SEP] k_______ [SEP] keyboard
+6406,es,0.200052799,alacrán [SEP] Si te pica un alacrán puede ser muy peligroso. [SEP] s_______ [SEP] scorpion
+6407,es,2.381828873,riesgo [SEP] Tratar la presión arterial elevada puede reducir el riesgo de embolia. [SEP] r___ [SEP] risk
+6408,es,-2.044352197,guión [SEP] Ganó un Oscar por el guión de la película 'El Sirviente'. [SEP] s_________ [SEP] screenplay
+6409,es,-0.053991541,preocupación [SEP] Siempre ha mostrado mucha preocupación por el bienestar de sus hijos. [SEP] c______ [SEP] concern
+6410,es,-1.394735411,recortar [SEP] Mi hermana me va a recortar mi cabello esta mañana. [SEP] t___ [SEP] trim
+6411,es,0.591854935,gráficamente [SEP] El asesinato fue descrito gráficamente en el periódico [SEP] g__________ [SEP] graphically
+6412,es,0.42082108,enraizar [SEP] El árbol que plantamos hace un año ya enraizó muy bien. [SEP] r___ [SEP] root
+6413,es,2.555756946,cultural [SEP] La muestra cultural de los nativos empezará a las 2 en el teatro de la ciudad [SEP] c_______ [SEP] cultural
+6414,es,-2.113978331,sonrisa [SEP] Me echó una sonrisa divertida antes de subir al autobús. [SEP] g___ [SEP] grin
+6415,es,-1.254943815,climatólogo [SEP] El climatólogo de la tele se equivoca muchísimas veces. [SEP] m____________ [SEP] meteorologist
+6416,es,-1.277247972,psiquiátra [SEP] David va al psiquiátra desde que empezó a oír voces. [SEP] p___________ [SEP] psychiatrist
+6417,es,-1.049379087,"orden [SEP] Si insiste en desobedecer la orden, tendrá problemas. [SEP] c______ [SEP] command"
+6418,es,-1.684944205,vidrio [SEP] Los vasos de vidrio que se encuentran allí son parte de la cristaleria de la monarquía [SEP] c______ [SEP] crystal
+6419,es,-0.635603629,vincular [SEP] Los expertos insistieron en vincular sus hallazgos con las condiciones climáticas locales. [SEP] r_____ [SEP] relate
+6420,es,-0.675792276,variar [SEP] El informe final no puede variar mucho del original. [SEP] d_____ [SEP] differ
+6421,es,2.549278096,radar [SEP] Encontraron el barco usando el radar del submarino militar [SEP] r____ [SEP] radar
+6422,es,-0.460289634,ciclismo [SEP] El ciclismo es un deporte muy popular en España. [SEP] c______ [SEP] cycling
+6423,es,-0.350421943,emblema [SEP] Los niños han participado en el diseño de nuestro emblema. [SEP] l___ [SEP] logo
+6424,es,-1.285356666,hacer [SEP] No sé cómo voy a hacer frente a esta situación tan complicada. [SEP] c___ [SEP] cope
+6425,es,1.347750733,aerolínea [SEP] La aerolínea acaba de presentar sus nuevos aviones [SEP] a______ [SEP] airline
+6426,es,1.239479968,papeleta [SEP] Mi papeleta es para el candidato de los Verdes. [SEP] v___ [SEP] vote
+6427,es,3.093938186,fumar [SEP] No se puede fumar en ningún sitio hoy día. [SEP] s____ [SEP] smoke
+6428,es,1.231691041,cadena [SEP] Llevaba una bonita cadena de oro alrededor del cuello. [SEP] c____ [SEP] chain
+6429,es,2.124961182,bolso [SEP] Necesito un nuevo bolso de mano color crema. [SEP] h______ [SEP] handbag
+6430,es,-3.047567192,"afrontar [SEP] Voy a afrontar la decisión con unos argumentos bien pensados, a ver si cambian de parecer. [SEP] o_____ [SEP] oppose"
+6431,es,-0.034185125,matemático [SEP] Vamos a hacer un cálculo matemático para ver si nos lo podemos permitir. [SEP] m___________ [SEP] mathematical
+6432,es,3.421899401,arriba [SEP] Se subió por arriba de la escalera. [SEP] u_ [SEP] up
+6433,es,-1.665938326,procesar [SEP] La policía va a procesar al criminal por fin. [SEP] p________ [SEP] prosecute
+6434,es,0.348419093,interruptor [SEP] No pude encontrar el interruptor para encender las luces. [SEP] s_____ [SEP] switch
+6435,es,-0.072028588,letra [SEP] La calidad de la letra de esta impresora es magnífica. [SEP] p____ [SEP] print
+6436,es,-0.045131044,vigilar [SEP] Hay que vigilar las puertas del castillo. [SEP] g____ [SEP] guard
+6437,es,-2.46342323,insatisfactoria [SEP] Es una relación insatisfactoria que no va a ningún sitio. [SEP] u___________ [SEP] unsatisfying
+6438,es,2.840361514,Patriota [SEP] Soy un patriota y defendere mi pais país con la vida si fuera necesario. [SEP] p______ [SEP] patriot
+6439,es,-0.960855772,asombrosamente [SEP] Terminó la carrera en un tiempo asombrosamente corto. [SEP] a________ [SEP] amazingly
+6440,es,0.623793618,"hacerse [SEP] Todo el mundo va a hacerse mayor, más tarde o más temprano. [SEP] b_____ [SEP] become"
+6441,es,2.073542519,boxeo [SEP] Mohamed Alí fue un gran representante en la historia del boxeo [SEP] b_____ [SEP] boxing
+6442,es,-1.333218005,venenoso [SEP] Este herbicida era tan venenoso que lo prohibieron. [SEP] t____ [SEP] toxic
+6443,es,1.428645874,"patata [SEP] Dame una patata frita por favor, tengo hambre. [SEP] c___ [SEP] chip"
+6444,es,2.314601479,"divorciarse [SEP] Aunque llevan treinta años casados, han decidido divorciarse [SEP] d______ [SEP] divorce"
+6445,es,2.624714149,viento [SEP] Hacía mucho viento ayer pero hoy el tiempo está tranquilo. [SEP] w___ [SEP] wind
+6446,es,-0.04461766,pelar [SEP] Para hacer puré de papas debes pelar las papas antes de hervirlas [SEP] p___ [SEP] peel
+6447,es,3.838337366,fin [SEP] El fin de la guerra fue celebrado por todo lo alto. [SEP] e__ [SEP] end
+6448,es,2.982365486,pocas [SEP] Hay pocas personas a quienes no les gustan los niños. [SEP] f__ [SEP] few
+6449,es,2.865881309,astrología [SEP] Muchas personas creen en la astrología para predecir el futuro [SEP] a________ [SEP] astrology
+6450,es,-4.955905481,delimitar [SEP] El contrato tiene que delimitar los términos del acuerdo. [SEP] d______ [SEP] defined
+6451,es,-2.403712409,demostrar [SEP] Las cifras van a demostrar la buena situación de la empresa este año. [SEP] i_________ [SEP] illustrate
+6452,es,-1.194373659,ser [SEP] La Gárgola es un ser imaginario normalmente representado en piedra. [SEP] c_______ [SEP] creature
+6453,es,3.633999506,"hola [SEP] ¡Hola, buenos días! - dijo mi vecina. [SEP] h____ [SEP] hello"
+6454,es,0.026204446,cigarrillo [SEP] Esta prohibido fumar cigarrillo en esta zona del edificio [SEP] c________ [SEP] cigarette
+6455,es,-1.397285641,tolerancia [SEP] Tiene buen carácter y siempre muestra tolerancia con sus empleados. [SEP] p_______ [SEP] patience
+6456,es,-1.00519748,descuidar [SEP] No hay que descuidar la salud nunca. [SEP] n______ [SEP] neglect
+6457,es,-0.204535933,dependiente [SEP] El nuevo paciente internado es dependiente a la insulina [SEP] d________ [SEP] dependent
+6458,es,-0.082636552,jefe [SEP] El jefe de policía en las ciudades de Estados Unidos suele llevar una estrella como emblema. [SEP] s______ [SEP] sheriff
+6459,es,-0.538569371,patrón [SEP] Los sirvientes tenían un miedo tremendo al patrón. [SEP] m_____ [SEP] master
+6460,es,-2.574236536,enfoque [SEP] El curso tiene un enfoque esencialmente teórico [SEP] o__________ [SEP] orientation
+6461,es,2.71200218,asesinato [SEP] Están investigando un asesinato que ocurrió aquí cerca la semana pasada. [SEP] m_____ [SEP] murder
+6462,es,-0.964440389,césped [SEP] El jardinero corta el césped todas la semanas. [SEP] l___ [SEP] lawn
+6463,es,-3.395084393,dañada [SEP] La relación entre ellas está muy dañada por los celos. [SEP] c________ [SEP] corrupted
+6464,es,0.019372092,sentimiento [SEP] La canción me provocó un sentimiento melancólico muy profundo. [SEP] e______ [SEP] emotion
+6465,es,1.889877616,capítulo [SEP] Esta novela es larguísima.  ¡Sólo el primero capítulo tiene setenta páginas! [SEP] c______ [SEP] chapter
+6466,es,-1.503230214,depósito [SEP] Hay un gran depósito de gas y de petróleo en estos montes. [SEP] r______ [SEP] reserve
+6467,es,1.722601658,electoral [SEP] El programa electoral de nuestro partido es muy bueno. [SEP] e________ [SEP] electoral
+6468,es,-1.132172261,probado [SEP] Los antibióticos son un método probado y demostrado para curar ciertas infecciones. [SEP] t____ [SEP] tried
+6469,es,1.867819504,alfombra [SEP] Compré una alfombra preciosa en una tienda iraní. [SEP] c_____ [SEP] carpet
+6470,es,-1.070191579,extrovertida [SEP] Una persona extrovertida disfruta hablando con la gente. [SEP] o_______ [SEP] outgoing
+6471,es,-2.807562419,ineludiblemente [SEP] Su futuro está ineludiblemente ligado a este país. [SEP] i_________ [SEP] inevitably
+6472,es,0.780380864,"enfrentarse [SEP] En la vida es importante aprender a enfrentarse con los problemas, no evitarlos. [SEP] f___ [SEP] face"
+6473,es,2.772839767,desayuno [SEP] Tómate un buen desayuno y así tendrás fuerzas para atender en clase. [SEP] b________ [SEP] breakfast
+6474,es,0.873188359,ubicación [SEP] La compañía se decidió por una ubicación europea. [SEP] l_______ [SEP] location
+6475,es,-2.051068977,"nombrar [SEP] Le van a nombrar ministro, ya verás. [SEP] a______ [SEP] appoint"
+6476,es,-0.0857719,calefactor [SEP] Pon el calefactor en el salón para que vaya templándose. [SEP] r_______ [SEP] radiator
+6477,es,-0.369396867,"sorprendentemente [SEP] Sorprendentemente, no puso ningún inconveniente a mi idea. [SEP] s___________ [SEP] surprisingly"
+6478,es,-0.208926549,dificultad [SEP] Muchos estudiantes tienen la dificultad de tener que buscar financiación para sus estudios. [SEP] p______ [SEP] problem
+6479,es,1.239197321,grosero [SEP] Mi madre dice que señalar a la gente con el dedo es grosero. [SEP] r___ [SEP] rude
+6480,es,1.076165373,comercio [SEP] El comercio internacional permite un intercambio de bienes más amplio. [SEP] t____ [SEP] trade
+6481,es,2.924815971,"mañana [SEP] Hace una mañana muy buena, vámonos a la playa. [SEP] m______ [SEP] morning"
+6482,es,-1.615634357,licenciarse [SEP] ¿Cuánto tiempo cree que tardará en licenciarse en derecho constitucional. [SEP] q______ [SEP] qualify
+6483,es,0.345105113,vinculación [SEP] El estudio encontró un vínculación entre el tabaco y el cáncer de pulmón. [SEP] r_______ [SEP] relation
+6484,es,0.154857854,percepción [SEP] Tengo una percepción de hormigueo en la pierna izquierda. [SEP] s________ [SEP] sensation
+6485,es,-2.350229581,espectacular [SEP] Su actuación fue espectacular y el público aplaudió mucho. [SEP] i_________ [SEP] impressive
+6486,es,3.366930815,edificio [SEP] Este edificio es muy antiguo. [SEP] b_______ [SEP] building
+6487,es,0.112621548,poco [SEP] Es una petición poco razonable y no lo voy a aprobar. [SEP] u___________ [SEP] unreasonable
+6488,es,-2.389320234,ilimitadas [SEP] Nuestras posibilidades son ilimitadas. [SEP] i_______ [SEP] infinite
+6489,es,-0.070069136,pisada [SEP] Encontraron una pisada en el lodo que les llevó al asesino. [SEP] f________ [SEP] footprint
+6490,es,-2.357325361,físico [SEP] Leonard es un físico teórico que trabaja en la teoría de los agujeros negros [SEP] p________ [SEP] physicist
+6491,es,4.537602894,libro [SEP] ¿Has leído el último libro de Pedro Madurga? [SEP] b___ [SEP] book
+6492,es,0.638554388,ladrón [SEP] El famoso ladrón de bancos fue capturado ayer. [SEP] r_____ [SEP] robber
+6493,es,-2.077286985,"a [SEP] Hay dos tipos de energía solar, a saber: fotovoltaica y térmica. [SEP] n_____ [SEP] namely"
+6494,es,2.31574047,alma [SEP] Creía que su alma corría peligro por lo que le había pasado. [SEP] s___ [SEP] soul
+6495,es,0.511190018,apretón [SEP] Le dio un fuerte y cariñoso apretón de manos y se fue. [SEP] h________ [SEP] handshake
+6496,es,0.559484996,formado [SEP] Mi hermano está formado en el entrenamiento de perros. [SEP] t______ [SEP] trained
+6497,es,0.548472781,jubilación [SEP] Mi abuelo cobra una jubilación de sólo cuatrocientos euros. [SEP] p______ [SEP] pension
+6498,es,2.476070043,ola [SEP] Se acercaba una ola muy grande hacia la playa. [SEP] w___ [SEP] wave
+6499,es,0.252205848,transmitir [SEP] Van a  transmitir el programa a las cuatro de la tarde. [SEP] b________ [SEP] broadcast
+6500,es,2.590887663,blanco [SEP] El blanco es el color preferido de las novias. [SEP] w____ [SEP] white
+6501,es,2.924232949,Carbono [SEP] El carbono se utiliza para hacer las minas de los lápices. [SEP] c_____ [SEP] carbon
+6502,es,-2.538325318,indicador [SEP] ¿Me puedes dar algún indicador de lo que quieres por favor? [SEP] p______ [SEP] pointer
+6503,es,-2.6508156,"enmendada [SEP] Gracias a que su dieta está básicamente enmendada, su salud está mucho mejor. [SEP] m_______ [SEP] modified"
+6504,es,2.55904919,silla [SEP] Me senté en la única silla que había. [SEP] c____ [SEP] chair
+6505,es,1.861385348,crecer [SEP] Los beneficios de la empresa van a crecer un cinco por ciento el año que viene. [SEP] g___ [SEP] grow
+6506,es,0.653026785,"estrofa [SEP] La primera estrofa de este soneto es la que más me gusta, es preciosa. [SEP] v____ [SEP] verse"
+6507,es,0.996418028,comprobar [SEP] Tenemos que comprobar todo antes de hacer pasar al público. [SEP] c____ [SEP] check
+6508,es,0.427414161,estribillo [SEP] Todo el mundo se sabe el estribillo de esta canción [SEP] c_____ [SEP] chorus
+6509,es,1.316635926,sinceramente [SEP] Sinceramente creo que has cometido un error. [SEP] h_______ [SEP] honestly
+6510,es,-0.168859734,ensanchar [SEP] Tendrán que ensanchar la carretera para que pasen los camiones. [SEP] w____ [SEP] widen
+6511,es,-0.316373472,rebanar [SEP] El cocinero empezó a rebanar el pan con un cuchillo. [SEP] s____ [SEP] slice
+6512,es,-0.357267316,marea [SEP] La marea ha subido mucho esta mañana. [SEP] t___ [SEP] tide
+6513,es,1.335964932,culturalmente [SEP] Los españoles son culturalmente muy distintos a los ingleses. [SEP] c_________ [SEP] culturally
+6514,es,0.894450484,guardería [SEP] Cada día llevo a mi hijo a la guardería antes de ir a trabajar. [SEP] n______ [SEP] nursery
+6515,es,-3.414682006,fantástica [SEP] La nueva película de Pedro Arribas es absolutamente fantástica. [SEP] s__________ [SEP] sensational
+6516,es,0.173983999,soledad [SEP] La soledad entre la gente mayor es un problema creciente en nuestra sociedad. [SEP] l_________ [SEP] loneliness
+6517,es,-0.642164682,tupido [SEP] Los montes están cubiertos de un bosque tupido. [SEP] d____ [SEP] dense
+6518,es,-3.185718797,"elegantemente [SEP] Se movió elegantemente entre sus invitados, charlando con todo el mundo. [SEP] g_________ [SEP] gracefully"
+6519,es,0.159383618,seguridad [SEP] La seguridad en el trabajo es muy importante. [SEP] s_____ [SEP] safety
+6520,es,0.779880503,superior [SEP] Me subí a la silla para alcanzar el estante superior. [SEP] u____ [SEP] upper
+6521,es,-0.683210954,grabar [SEP] Vamos a grabar la entrevista y así no tendremos que tomar nota. [SEP] t___ [SEP] tape
+6522,es,-3.085191625,segura [SEP] ¿Estás segura de la respuesta? [SEP] d_______ [SEP] definite
+6523,es,-2.66018191,liquidación [SEP] Siempre compro ropa de liquidación porque es más barata. [SEP] c________ [SEP] clearance
+6524,es,3.01364134,hardware [SEP] El técnico recomienda cambiar el hardware de la computadora. [SEP] h_______ [SEP] hardware
+6525,es,-3.046779392,"arrojar [SEP] Pensativo, se puso a arrojar piedras al lago. [SEP] t___ [SEP] toss"
+6526,es,2.781960067,bailarín [SEP] Pedro es bailarín profesional y actualmente trabaja en un musical. [SEP] d_____ [SEP] dancer
+6527,es,2.925546954,noticias [SEP] ¿Has oído las noticias?  Se ha muerto el rey. [SEP] n___ [SEP] news
+6528,es,-4.601832771,turno [SEP] A veces hay turno de noche para los parlamentarios en el congreso. [SEP] s______ [SEP] sitting
+6529,es,-0.746595466,moderno [SEP] Los muebles de mi casa tienen todos un aire moderno. [SEP] c___________ [SEP] contemporary
+6530,es,-1.047980939,a [SEP] Estábamos a medio camino entre Madrid y Córdoba cuando de repente se paró el tren. [SEP] m_____ [SEP] midway
+6531,es,0.549566877,generar [SEP] El gobierno va a generar miles de puestos de trabajo este año. [SEP] c_____ [SEP] create
+6532,es,2.091129178,solucionar [SEP] El ingeniero tendrá que solucionar este problema tan delicado. [SEP] s____ [SEP] solve
+6533,es,3.077535349,asesino [SEP] El asesino anduvo suelto durante un año entero. [SEP] k_____ [SEP] killer
+6534,es,0.415123519,más [SEP] La carretera continúa más allá de este pueblo hasta la playa. [SEP] b_____ [SEP] beyond
+6535,es,-1.19928105,"sol [SEP] Estamos tumbados en la playa, disfrutando del sol. [SEP] s_______ [SEP] sunshine"
+6536,es,1.242898215,canto [SEP] Es muy aficionado al canto y pertenece a un coro. [SEP] s______ [SEP] singing
+6537,es,3.615457864,kiwi [SEP] El kiwi es una fruta verde muy dulce que generalmente e come en las mañanas [SEP] k___ [SEP] kiwi
+6538,es,0.66200842,escalada [SEP] Me encanta la escalada en equipo por los montes de Andorra. [SEP] c_______ [SEP] climbing
+6539,es,-0.844617249,cultivo [SEP] El agricultor trabaja en su cultivo todo el año para sobrevivir. [SEP] c___ [SEP] crop
+6540,es,1.283690298,arriesgar [SEP] No quiero arriesgar perder mi trabajo por un error tonto. [SEP] r___ [SEP] risk
+6541,es,-0.453672263,"ademán [SEP] Hizo un ademán de desdeño y se fue, escaleras abajo. [SEP] g______ [SEP] gesture"
+6542,es,0.992712092,sin [SEP] Jim Carrey en la máscara se quedó sin rostro [SEP] f_______ [SEP] faceless
+6543,es,1.45283559,generalmente [SEP] Mi hijo generalmente entrena en el gimnasio. [SEP] u______ [SEP] usually
+6544,es,1.982921768,pastilla [SEP] No te olvides de tomarte la pastilla antes de dormir. [SEP] p___ [SEP] pill
+6545,es,-1.313957476,significativa [SEP] Sus padres le dejaron una cantidad significativa de dinero cuando fallecieron. [SEP] c___________ [SEP] considerable
+6546,es,1.840732116,terrorismo [SEP] Los actos de terrorismo político se han terminado gracias al acuerdo. [SEP] t________ [SEP] terrorism
+6547,es,-1.221082853,contabilidad [SEP] Mi hermano lleva la contabilidad de esta empresa. [SEP] a_________ [SEP] accounting
+6548,es,0.938537561,reserva [SEP] Hemos hecho la reserva para la obra de teatro. [SEP] b______ [SEP] booking
+6549,es,2.757777449,mosca [SEP] Hay una mosca en la cocina y no consigo echarla. [SEP] f__ [SEP] fly
+6550,es,0.173186454,firme [SEP] El hielo es el estado firme del agua. [SEP] s____ [SEP] solid
+6551,es,-0.820935095,antecesora [SEP] Nuestra nueva jefa no es tan conservadora como su antecesora. [SEP] p__________ [SEP] predecessor
+6552,es,1.19035274,investigación [SEP] La investigación es necesaria para el avance de la ciencia. [SEP] r_______ [SEP] research
+6553,es,2.997325166,biblioteca [SEP] Tengo que devolver este libro a la biblioteca del pueblo. [SEP] l______ [SEP] library
+6554,es,0.377301528,hacia [SEP] Hizo un movimiento hacia atrás y se cayó. [SEP] b_______ [SEP] backward
+6555,es,-0.318603303,bien [SEP] El petróleo es un bien que ha traído una riqueza inmensa a algunos países [SEP] r_______ [SEP] resource
+6556,es,1.57655718,tardío [SEP] El casero ha decho que no va a tolerar ni un pago tardío. [SEP] l___ [SEP] late
+6557,es,-1.743025073,inmune [SEP] Necesito plantar un árbol en esta parte de jardín que sea inmune a los mosquitos. [SEP] r________ [SEP] resistant
+6558,es,2.808491049,hacer [SEP] El carpintero decidió hacer una mesa para su madre. [SEP] m___ [SEP] make
+6559,es,0.356918604,pormenor [SEP] El informe ha descrito hasta el pormenor más pequeño. [SEP] d_____ [SEP] detail
+6560,es,-0.247068193,olímpico [SEP] La llama olímpica pasará por en frente de mi casa el próximo año [SEP] o______ [SEP] olympic
+6561,es,-2.017363825,magnificencia [SEP] El informe subrayó la magnificencia de los servicios del hospital. [SEP] e_________ [SEP] excellence
+6562,es,-1.559517574,pesar [SEP] El líder expresó su pesar por la falta de apoyo. [SEP] r_____ [SEP] regret
+6563,es,-2.300574504,grandiosamente [SEP] El programa fue grandiosamente titulada 'La Grandeza de la Palabra'. [SEP] m____________ [SEP] magnificently
+6564,es,1.778400354,tragedia [SEP] Fue una tragedia que muriera tan joven. [SEP] t______ [SEP] tragedy
+6565,es,-2.627453152,afirmación [SEP] Su afirmación resultó sorprendente. [SEP] a________ [SEP] assertion
+6566,es,-0.792625678,analítica [SEP] Las personas analíticas toman mas tiempo para tomar decisiones. [SEP] a_______ [SEP] analytic
+6567,es,-1.752623864,"adjunto [SEP] Te voy a presentar al director adjunto, que está a cargo de todo hoy que el director está fuera. [SEP] d_____ [SEP] deputy"
+6568,es,0.522290697,discusión [SEP] Hubo una discusión entre vecinos en mi calle anoche. [SEP] a_______ [SEP] argument
+6569,es,2.166569994,ventoso [SEP] Hace un día muy ventoso hoy. [SEP] w____ [SEP] windy
+6570,es,1.356078214,nacimiento [SEP] Estamos muy contentos por el nacimiento de nuestra primera nieta. [SEP] b____ [SEP] birth
+6571,es,-0.588949824,tacaño [SEP] Es muy tacaño y no le gusta nada gastar el dinero. [SEP] m___ [SEP] mean
+6572,es,2.155680994,lectura [SEP] Mis nuevos hobbies son la jardinería y la lectura. [SEP] r______ [SEP] reading
+6573,es,-2.940455521,núcleo [SEP] El núcleo de la democracia es la libertad. [SEP] e______ [SEP] essence
+6574,es,-4.336504417,implantación [SEP] Los activistas se opusieron a la implantación de la nueva ley. [SEP] i___________ [SEP] introduction
+6575,es,-0.60218408,primer [SEP] Esta versión difiere del primer borrador. [SEP] i______ [SEP] initial
+6576,es,2.152207896,bombero [SEP] El cuento favorito de Lucas es de un bombero llamado Roberto. [SEP] f______ [SEP] fireman
+6577,es,-2.143767941,escape [SEP] Hubo un escape desde la cárcel de Londres que resultó en la evasión de veinte presos. [SEP] b_______ [SEP] breakout
+6578,es,-4.03328359,devastación [SEP] La devastación de las selvas tropicales es muy preocupante para la mayoría de las personas. [SEP] d__________ [SEP] destruction
+6579,es,2.093626574,pueblo [SEP] El nacimiento del río está muy cerca del pueblo. [SEP] v______ [SEP] village
+6580,es,-3.28528037,atento [SEP] Es un hombre muy atento que siempre tiene una palabra amable para todo el mundo. [SEP] r_________ [SEP] respectful
+6581,es,1.110259467,editorial [SEP] Cuando se publicó el articulo los lectores se dieron cuenta el error editorial de la primera página [SEP] e________ [SEP] editorial
+6582,es,-1.179432164,herida [SEP] Alicia parecía herida por lo que le habían dicho en la fiesta. [SEP] o_______ [SEP] offended
+6583,es,1.839808114,microondas [SEP] El microondas explotó porque ella intodujo la sopa en la lata de metal [SEP] m________ [SEP] microwave
+6584,es,-0.173514092,"comerciante [SEP] Es comerciante y compra e vende ropa para un gran almacén, creo. [SEP] t_____ [SEP] trader"
+6585,es,-2.386279711,"interceder [SEP] Hubo que interceder médicamente, si no, habría muerto [SEP] i________ [SEP] intervene"
+6586,es,-1.971607449,encoger [SEP] Empezó a encogerse los hombros como si no le importara. [SEP] s____ [SEP] shrug
+6587,es,-0.832597941,sorber [SEP] Muy despacio se puso a sorber el vino. [SEP] s__ [SEP] sip
+6588,es,2.204272033,veneno [SEP] Algunos hongos contienen en veneno muy peligroso. [SEP] p_____ [SEP] poison
+6589,es,-2.717577267,hacer [SEP] Se pusieron a hacer conjeturas sobre la identidad del nuevo invitado a la fiesta. [SEP] s________ [SEP] speculate
+6590,es,-1.67967552,pujar [SEP] Había mucho interés en el collar y tuvo que pujar fuerte para hacerse con él. [SEP] b__ [SEP] bid
+6591,es,-2.488332455,rastrear [SEP] Vamos a rastrear el bosque para ver si encontramos alguna señal del lince. [SEP] e______ [SEP] explore
+6592,es,-0.346409395,letra [SEP] Me encanta la letra de las canciones de los Beatles. [SEP] l_____ [SEP] lyrics
+6593,es,-3.543357053,aplicado [SEP] La ganadora de la medalla de oro fue una mujer aplicadda y trabajadora [SEP] d__________ [SEP] disciplined
+6594,es,2.646164529,eternidad [SEP] Y la bruja mala vivió penando durantela eternidad [SEP] e_______ [SEP] eternity
+6595,es,-3.138080528,asesor [SEP] Pertenece al comité asesor del Consejo de Derechos Humanos. [SEP] a_______ [SEP] advisory
+6596,es,0.240364463,agradar [SEP] Los niños se portaron bien para agradar a la profesora. [SEP] p_____ [SEP] please
+6597,es,-1.856442006,"envío [SEP] Cuando compramos más de dos productos, el envío es gratuito. [SEP] s_______ [SEP] shipping"
+6598,es,1.531756377,mermelada [SEP] Me encanta el pan con mermelada. [SEP] j__ [SEP] jam
+6599,es,-1.214516806,normal [SEP] Seguí el procedimiento normal para entregar la solicitud. [SEP] s_______ [SEP] standard
+6600,es,-2.87737984,extraordinario [SEP] El restaurante tiene buena comida pero el marco es extraordinario. [SEP] e__________ [SEP] exceptional
+6601,es,1.277296653,compositor [SEP] Bethoven es uno de los compositores clásicos mas reconocidos de la música [SEP] c_______ [SEP] composer
+6602,es,0.689644579,conducir [SEP] Intenté conducir la conversación al asunto de la votación pero fue imposible. [SEP] l___ [SEP] lead
+6603,es,0.789807655,vivencia [SEP] Ha sido una vivencia que no voy a olvidar nunca. [SEP] e_________ [SEP] experience
+6604,es,-0.907300342,pilotar [SEP] Yo llevaré el coche y tú puedes pilotar para que no nos perdamos. [SEP] n_______ [SEP] navigate
+6605,es,2.165383543,demasiado [SEP] Es demasiado pequeña para ver esta película. [SEP] t__ [SEP] too
+6606,es,-1.492429294,desplazamiento [SEP] El huracán provocó el desplazamiento de la población. [SEP] d___________ [SEP] displacement
+6607,es,3.261138193,mejor [SEP] Es mejor deportista que yo. [SEP] b_____ [SEP] better
+6608,es,3.180233887,tío [SEP] Mi tío nos ha invitado a pasar el verano en su casa de campo. [SEP] u____ [SEP] uncle
+6609,es,-3.909439964,presente [SEP] El acuerdo presente es válido de momento. [SEP] e_______ [SEP] existing
+6610,es,0.228304152,esquiar [SEP] Esquiar en Suiza es un plan recomendado en invierno [SEP] s_____ [SEP] skiing
+6611,es,-0.940779281,jazmín [SEP] Me encantan los perfumes hechos a base de jasmín . [SEP] j______ [SEP] jasmine
+6612,es,3.251855177,en [SEP] Estoy deseando estar en casa y ver a mi familia. [SEP] h___ [SEP] home
+6613,es,0.448049007,"igual [SEP] Nunca he visto nada igual, esto es una novedad. [SEP] l___ [SEP] like"
+6614,es,1.813264821,muerto [SEP] Mi padre está muerto desde hace casi cuarenta años. [SEP] d___ [SEP] dead
+6615,es,-1.041524864,competencia [SEP] La competencia de este tribunal no cubre casos criminales. [SEP] j___________ [SEP] jurisdiction
+6616,es,-2.940803555,prima [SEP] Tuvo que pagar la prima navideña antes de la fecha acordada [SEP] p______ [SEP] premium
+6617,es,2.994941822,entre [SEP] Se sentó entre Patricia y Ana. [SEP] b______ [SEP] between
+6618,es,3.732682427,"persona [SEP] Mi cuñado es una persona de América, es de Boston. [SEP] a_______ [SEP] american"
+6619,es,-0.956661927,regiones [SEP] Las regiones del trópico son las más calurosas del mundo. [SEP] t______ [SEP] tropics
+6620,es,-2.404949708,originalidad [SEP] Me gusta la originalidad de sus ideas. [SEP] f________ [SEP] freshness
+6621,es,3.350071398,dama [SEP] Salió de la pobreza para convertirse en una dama rica y orgullosa. [SEP] l___ [SEP] lady
+6622,es,-2.748183444,compuesta [SEP] El agua es una sustancia compuesta formada por oxígeno e hidrógeno. [SEP] c________ [SEP] composite
+6623,es,3.97334094,manzana [SEP] Me encanta la tarta de manzana. [SEP] a____ [SEP] apple
+6624,es,-0.246772574,valoración [SEP] Tendremos que hacer una valoración seria del nuevo sistema. [SEP] e_________ [SEP] evaluation
+6625,es,-4.961855167,frenar [SEP] Estas políticas han conseguido frenar la pérdida de la población joven. [SEP] s___ [SEP] stem
+6626,es,-2.518352527,verter [SEP] Le acusaron a la empresa de verter sus residuos en el río. [SEP] d___ [SEP] dump
+6627,es,0.923457165,indoloro [SEP] El tratamiento es muy efectivo y completamente indoloro. [SEP] p_______ [SEP] painless
+6628,es,2.055237071,delegación [SEP] La delegación deportiva representó muy bien al país anfitrión [SEP] d_________ [SEP] delegation
+6629,es,1.059445565,designado [SEP] Está designado como candidato para el premio 'Globos' de mejor actor. [SEP] n________ [SEP] nominated
+6630,es,-0.394029462,temblar [SEP] Cada vez que pasaban un tren las paredes empezaban a temblar. [SEP] v______ [SEP] vibrate
+6631,es,0.650073823,enviada [SEP] Esa carta ya está enviada. [SEP] p_____ [SEP] posted
+6632,es,-1.17506976,tomar [SEP] Tomar la iniciativa en el trabajo a veces es difícil. [SEP] t_____ [SEP] taking
+6633,es,0.080139102,israelita [SEP] Está casada con un hombre israelita y viven en Tel Aviv. [SEP] i______ [SEP] israeli
+6634,es,-3.061056956,unión [SEP] Están intentando conseguir un poco más de unión en el partido. [SEP] u____ [SEP] unity
+6635,es,0.209690591,bombilla [SEP] Necesito una nueva bombilla para mi habitación. [SEP] b___ [SEP] bulb
+6636,es,0.05526361,comunicador [SEP] No pudimos contactarnos por varias horas porque el comunicador no funcionaba [SEP] c___________ [SEP] communicator
+6637,es,1.509565433,bajar [SEP] Tendrás que bajar el documento a tu ordenador. [SEP] d_______ [SEP] download
+6638,es,3.567384103,lento [SEP] Seguimos con el plan aunque el progreso es algo lento. [SEP] s___ [SEP] slow
+6639,es,-1.163955063,invención [SEP] Los músicos tocaron una invención espontánea de un clásico de jazz. [SEP] i____________ [SEP] improvisation
+6640,es,0.441550417,duplicar [SEP] El asesino duplicó la llave de la casa de la víctima antes de asesinarlo [SEP] d________ [SEP] duplicate
+6641,es,0.62201839,chisme [SEP] No me gusta el chisme y nunca hago caso cuando quieren venir a contarmelo. [SEP] g_____ [SEP] gossip
+6642,es,0.380677405,secuestro [SEP] El secuestro ocurrió  a primera hora de la mañana. [SEP] k_________ [SEP] kidnapping
+6643,es,-1.6171792,seguimiento [SEP] La doctora se encargó del seguimiento del paciente. [SEP] m_________ [SEP] monitoring
+6644,es,-1.653201947,artista [SEP] Monet fue un artista no realista muy famoso. [SEP] i____________ [SEP] impressionist
+6645,es,-2.920902202,intercambio [SEP] Es importante en una peluquería establecer un poco de intercambio con los clientes. [SEP] i__________ [SEP] interaction
+6646,es,3.330238118,mantequilla [SEP] Me encanta el pan con mantequilla. [SEP] b_____ [SEP] butter
+6647,es,2.982655523,profesor [SEP] Es profesor de música en el conservatorio. [SEP] t______ [SEP] teacher
+6648,es,-3.07353889,"bien [SEP] Cristóbal Colón fue un explorador que es bien sabido, descubrió América. [SEP] f_______ [SEP] famously"
+6649,es,1.554858067,viaje [SEP] Vamos de viaje a Bogotá en el mes de marzo. [SEP] t___ [SEP] trip
+6650,es,-1.018664648,al [SEP] Se estrenó la película al mismo tiempo en Europa que en Estados Unidos. [SEP] s_____________ [SEP] simultaneously
+6651,es,-1.513537484,"perecedera [SEP] Nuestra existencia es perecedera, todos vamos a morir al fin y al cabo. [SEP] m_____ [SEP] mortal"
+6652,es,0.144912434,perdido [SEP] Encontré el pendiente perdido debajo de la cama. [SEP] m______ [SEP] missing
+6653,es,1.492742963,oyente [SEP] Soy oyente de un programa fantástico de radio online. [SEP] l_______ [SEP] listener
+6654,es,3.753951881,flor [SEP] La rosa es mi flor favorita. [SEP] f_____ [SEP] flower
+6655,es,0.8331919,ecosistema [SEP] Colombia se considera un país con un ecosistema variado. [SEP] e________ [SEP] ecosystem
+6656,es,2.808226313,lejos [SEP] Me encanta ese restaurante pero está un poco lejos. [SEP] f__ [SEP] far
+6657,es,-1.82054849,utilizable [SEP] A veces nuestro concepto de la cultura no es utilizable en otras sociedades. [SEP] a_________ [SEP] applicable
+6658,es,-2.09006115,revelar [SEP] El banco no puede revelar información sobre sus clientes. [SEP] d_______ [SEP] disclose
+6659,es,0.491897305,"adelanto [SEP] A pesar de este último adelanto, tenemos mucho que aprender. [SEP] a______ [SEP] advance"
+6660,es,1.035710173,centro [SEP] Hay muchas tiendas diferentes en un centro comercial. [SEP] m___ [SEP] mall
+6661,es,-2.553559542,aplastar [SEP] Hay que aplastar las botellas de plástico antes de reciclarlas. [SEP] s_____ [SEP] squash
+6662,es,1.3690203,griego [SEP] El yogur griego es muy popular en España. [SEP] g____ [SEP] greek
+6663,es,-1.587399201,cometido [SEP] El cometido del grupo parlamentario en China es el de fomentar el comercio entre los dos países. [SEP] m______ [SEP] mission
+6664,es,-1.210006998,"tipo [SEP] Me gusta todo tipo de música, pero el jazz es el que más escucho. [SEP] g____ [SEP] genre"
+6665,es,-0.823491384,depender [SEP] No me gusta tener que depender de nadie. [SEP] r___ [SEP] rely
+6666,es,-2.023019008,ocio [SEP] Como ocio juego al golf muy a menudo y también al tenis. [SEP] r_________ [SEP] recreation
+6667,es,-1.484674848,pajarera [SEP] He puesto una pajarera cerca de mi ventana para ver los pájaros. [SEP] b________ [SEP] birdhouse
+6668,es,2.910231871,mejor [SEP] Es el mejor futbolista de la temporada. [SEP] b___ [SEP] best
+6669,es,2.349745797,adopción [SEP] El proceso de adopción de menores es riguroso [SEP] a_______ [SEP] adoption
+6670,es,3.103488186,sueño [SEP] Mi sueño es convertirme en estrella de cine. [SEP] d____ [SEP] dream
+6671,es,2.143006583,rayo [SEP] A las seis de la mañana entró un rayo de sol por la ventana. [SEP] r__ [SEP] ray
+6672,es,1.06656707,silenciosa [SEP] Una biblioteca silenciosa es un buen lugar para estudiar. [SEP] q____ [SEP] quiet
+6673,es,0.698840556,parcial [SEP] La colección es muy bonita pero parcial ya que faltan piezas. [SEP] i_________ [SEP] incomplete
+6674,es,0.558357308,inhabitual [SEP] Los padres le dieron un nombre inhabitual a su hija. [SEP] u______ [SEP] unusual
+6675,es,1.767556349,alumno [SEP] Me parece que tu padre fue alumno de esta universidad. [SEP] s______ [SEP] student
+6676,es,-0.453084998,"aburrido [SEP] No me gusta este juego, es muy aburrido. [SEP] d___ [SEP] dull"
+6677,es,-1.339120762,escombros [SEP] Había muchos escombros en la casa depués de la obra. [SEP] d_____ [SEP] debris
+6678,es,-2.54563907,partidario [SEP] Soy partidario de creerle y fiarme de lo que dice. [SEP] i_______ [SEP] inclined
+6679,es,0.605148847,cogido [SEP] Por desgracia un transeunte fue cogido entremedias del tiroteo. [SEP] c_____ [SEP] caught
+6680,es,0.512102259,culpabilidad [SEP] Muchos sobrevivientes se quedaron con un sentido de culpabilidad. [SEP] g____ [SEP] guilt
+6681,es,1.417587658,humo [SEP] Las chimeneas antiguas de Londres echaban mucho humo. [SEP] s____ [SEP] smoke
+6682,es,1.644312591,"soplar [SEP] Si el viento del norte decide soplar, te congelas ya que es muy frío. [SEP] b___ [SEP] blow"
+6683,es,-1.156688689,insociable [SEP] Hay personas que no pueden relacioonarse con los demás. Son insociables [SEP] a_________ [SEP] antisocial
+6684,es,-2.939064451,aplicación [SEP] Un experto evaluará la aplicación de las nuevas políticas. [SEP] e__________ [SEP] enforcement
+6685,es,-0.259705284,de [SEP] La mujer de Roberto es de Irán. [SEP] i______ [SEP] iranian
+6686,es,0.666725089,costumbre [SEP] Tiene la costumbre de darse un paseo diario. [SEP] h____ [SEP] habit
+6687,es,-1.523926374,emitir [SEP] La empresa va a emitir acciones para ampliar su capital. [SEP] i____ [SEP] issue
+6688,es,-0.461053492,"discrepar [SEP] No me gusta discrepar, pero estás muy equivocado. [SEP] d_______ [SEP] disagree"
+6689,es,1.157423175,cesta [SEP] Llevaba los huevos en una cesta. [SEP] b_____ [SEP] basket
+6690,es,-0.601311259,impedir [SEP] Esta nueva ley va a impedir la venta del alcohol a jóvenes menores de dieciocho años. [SEP] p_______ [SEP] prohibit
+6691,es,-0.887316618,desdentado [SEP] Un viejo desdentado nos dio la bienvenida. [SEP] t________ [SEP] toothless
+6692,es,-1.906503274,novato [SEP] Es un novato en el equipo pero ya muy popular con sus compañeros. [SEP] r_____ [SEP] rookie
+6693,es,1.354901841,circulación [SEP] Logré llegar al trabajo a tiempo a pesar de la circulación. [SEP] t______ [SEP] traffic
+6694,es,2.264707174,terror [SEP] La gente vió con terror cómo se caía el avión al suelo. [SEP] h_____ [SEP] horror
+6695,es,-3.578750281,excepto [SEP] El museo está abierto todos los días excepto los domingos. [SEP] e________ [SEP] excluding
+6696,es,-1.924645754,reutilización [SEP] La reutilización de los materiales es de suma importancia para el futuro del planeta. [SEP] r________ [SEP] recycling
+6697,es,1.003120068,recuperarse [SEP] Ha empezado a recuperarse de la gripe. [SEP] r______ [SEP] recover
+6698,es,-1.333661766,dirigir [SEP] El presidente se dirigirá a la audiencia en la tarde [SEP] a______ [SEP] address
+6699,es,-0.525974598,alrededores [SEP] Hay unos paseos muy bonitos en los alrededores de la ciudad. [SEP] s___________ [SEP] surroundings
+6700,es,3.665119339,hola [SEP] ¡Hola! ¿Qué tal estás? [SEP] h_ [SEP] hi
+6701,es,-3.853582551,restauración [SEP] La restauración de la finca empezó el año pasado. [SEP] r_____________ [SEP] reconstruction
+6702,es,2.975997846,bebida [SEP] La horchata es una bebida deliciosa sobre todo en verano. [SEP] d____ [SEP] drink
+6703,es,-1.634027783,tratamiento [SEP] Tienes que tomar las pastillas y ponerte las injecciones: todo el tratamiento. [SEP] m_________ [SEP] medication
+6704,es,1.147852072,comida [SEP] Nos invitó a una comida en su casa con su familia. [SEP] m___ [SEP] meal
+6705,es,0.808018204,"tirar [SEP] Si la palanca se atasca, simplemente hay que tirar más fuerte. [SEP] p___ [SEP] pull"
+6706,es,2.349049329,histórico [SEP] Esta ciudad es histórica. Acá se firmó la independencia del país en el siglo XVIII [SEP] h_______ [SEP] historic
+6707,es,-2.36904086,consideración [SEP] Emprendieron las obras sin ninguna consideración por los conductores. [SEP] r_____ [SEP] regard
+6708,es,0.699016782,roble [SEP] El roble es un árbol grande y de madera muy dura. [SEP] o__ [SEP] oak
+6709,es,4.493632607,uno [SEP] Sydney es uno de las ciudades más interesantes del mundo. [SEP] o__ [SEP] one
+6710,es,0.763613991,político [SEP] La situación política del país puede ser peor si no se toma una desición ahora [SEP] p________ [SEP] political
+6711,es,-0.230424683,descendente [SEP] El precio descendente de las acciones me preocupa mucho. [SEP] f______ [SEP] falling
+6712,es,2.07827095,red [SEP] Los pescadores echaron su red al mar. [SEP] n__ [SEP] net
+6713,es,0.475549991,no [SEP] Este ha sido un embarazo no planificado. [SEP] u________ [SEP] unplanned
+6714,es,-0.534519681,bomba [SEP] Compramos una bomba para sacar el agua del pozo. [SEP] p___ [SEP] pump
+6715,es,2.219273811,salsa [SEP] Había un bote de salsa de tomate en la mesa para tomar con la hamburguesa. [SEP] k______ [SEP] ketchup
+6716,es,0.014220294,palanca [SEP] Puedes mover el monstruo operando con los dedos la palanca de mando conectada al ordenador [SEP] j_______ [SEP] joystick
+6717,es,-1.091965671,enfrentamiento [SEP] La policía tuvo que intervenir en el estadio para parar los enfrentamientos de los hinchas. [SEP] f_______ [SEP] fighting
+6718,es,0.103976297,cantidad [SEP] Mi médico recomendó una pequeña cantidad del medicamento. [SEP] d___ [SEP] dose
+6719,es,-0.64153052,lesionar [SEP] Ten cuidado de no lesionar al tu contrincante con la pelota. [SEP] i_____ [SEP] injure
+6720,es,-0.862061174,vestido [SEP] La novia llevaba un vestido largo de seda blanca preciosa. [SEP] g___ [SEP] gown
+6721,es,-2.322871667,ocupar [SEP] Los franceses empezaron a ocupar la isla durante el siglo quince. [SEP] p_______ [SEP] populate
+6722,es,-0.176516136,cruce [SEP] Tenemos que girar a la derecha en el siguiente cruce de caminos. [SEP] i___________ [SEP] intersection
+6723,es,-0.714111618,repugnado [SEP] Se siente repugnado por el comportamiento horrible de sus compañeros. [SEP] d________ [SEP] disgusted
+6724,es,2.169983329,"cinturón [SEP] Ponte un cinturón, que se te caen los pantalones. [SEP] b___ [SEP] belt"
+6725,es,3.948763474,correo [SEP] Mándame un mensaje por correo electrónico. [SEP] e____ [SEP] email
+6726,es,-2.601126539,despreocupada [SEP] Tiene una vida muy despreocupada y sin responsabilidades. [SEP] c_______ [SEP] carefree
+6727,es,-2.391828769,erudita [SEP] El catedrático de griego es una persona muy erudita en su campo. [SEP] l______ [SEP] learned
+6728,es,0.183395844,entrante [SEP] La llamada entrante fue interceptada por la policía. [SEP] i_______ [SEP] incoming
+6729,es,3.083846588,líquido [SEP] Estoy usando un detergente líquido que me recomendó mi esposo [SEP] l_____ [SEP] liquid
+6730,es,1.86328358,pintalabios [SEP] Me he comprado un pintalabios de color rojo carmín. [SEP] l_______ [SEP] lipstick
+6731,es,-1.51018269,mezclar [SEP] Para hacer un buen bizcocho hay que mezclar la cantidad justa de todos los ingredientes. [SEP] c______ [SEP] combine
+6732,es,0.788053999,totalmente [SEP] Estoy totalmente de acuerdo contigo. [SEP] c_________ [SEP] completely
+6733,es,-3.603838381,impresionante [SEP] La boda fue un evento francamente impresionante con muchos invitados. [SEP] g____ [SEP] grand
+6734,es,-3.217680077,facultativo [SEP] El Doctor Marina es un facultativo muy conocido en el área de la oncología. [SEP] p___________ [SEP] practitioner
+6735,es,0.572336184,modo [SEP] La buena alimentación forma parte de un modo de vida sano. [SEP] l________ [SEP] lifestyle
+6736,es,-2.446509149,persuadir [SEP] Nada me va a persuadir a solicitar ese puesto. [SEP] i_____ [SEP] induce
+6737,es,2.048383479,rescate [SEP] Celebramos el rescate de los niños perdidos. [SEP] r_____ [SEP] rescue
+6738,es,1.679386118,perfil [SEP] Tu perfíl de tus redes sociales no te ayuda a tu imagen corporativa [SEP] p______ [SEP] profile
+6739,es,0.50353058,esfera [SEP] Puso una esfera  encima de la mesa y explicó a los niños dónde estaban los países. [SEP] s_____ [SEP] sphere
+6740,es,3.90063565,cerrar [SEP] ¿Cuántas veces te tengo que decir que te acuerdes de cerrar la puerta?  Hace frío. [SEP] c____ [SEP] close
+6741,es,-1.962932373,rencor [SEP] No pudo disimular el rencor que sentía por lo mal que le habían tratado. [SEP] r_________ [SEP] resentment
+6742,es,-3.591459385,insensible [SEP] Es un poco frío e incluso insensible.  Parece que no le afecta nada. [SEP] e__________ [SEP] emotionless
+6743,es,1.650159305,latido [SEP] El médico escuchó el latido de su corazón. [SEP] b___ [SEP] beat
+6744,es,0.974677599,fluido [SEP] Echó todo ese fluido horrible por el desagüe. [SEP] l_____ [SEP] liquid
+6745,es,-0.633855893,estudio [SEP] Le hicieron un estudio exhaustivo de la sangre. [SEP] a_______ [SEP] analysis
+6746,es,-0.096766335,acelerado [SEP] El carro iba muy acelerado y se volcó. [SEP] a__________ [SEP] accelerated
+6747,es,-0.788573817,refrigerante [SEP] El agua tiene un efecto refrigerante sobre la tierra. [SEP] c______ [SEP] cooling
+6748,es,-2.602913322,intuición [SEP] Mi intuición me hizo pensar que no era buena persona. [SEP] i_______ [SEP] instinct
+6749,es,-0.793451764,humeante [SEP] La madera estana todavía humeante al día siguiente después del incendio. [SEP] s______ [SEP] smoking
+6750,es,0.858115699,seda [SEP] Tengo una blusa muy bonita de seda pura. [SEP] s___ [SEP] silk
+6751,es,0.173254023,producto [SEP] El pescado blanco lleva unos impuestos bastante altos ya que es un producto de fuera. [SEP] i_____ [SEP] import
+6752,es,2.86827061,"primero [SEP] Primero, no me gusta el vestido y segundo, me parece caro. [SEP] f____ [SEP] first"
+6753,es,2.639887936,frío [SEP] Lo peor de la navidad en Nueva York es el frío que hace durante esta temporada. [SEP] c___ [SEP] cold
+6754,es,2.775375882,"tiempo [SEP] Hace muy mal tiempo hoy, y mucho frío. [SEP] w______ [SEP] weather"
+6755,es,-0.588552427,desgarrar [SEP] Este material sintético es difícil de desgarrar. [SEP] t___ [SEP] tear
+6756,es,1.089638283,minimalista [SEP] El estilo de vida minimalista te prohibe tener mas de lo necesario [SEP] m_________ [SEP] minimalist
+6757,es,-2.480381786,entender [SEP] No tardó mucho en entender que no todo iba bien entre ellos. [SEP] p_______ [SEP] perceive
+6758,es,3.289902,contar [SEP] ¡No me digas que tu niño ya sabe contar! [SEP] c____ [SEP] count
+6759,es,0.288172898,agotador [SEP] Correr la maratón es agotador. [SEP] e_________ [SEP] exhausting
+6760,es,-0.361840032,garantía [SEP] Para devolver el producto a la fabrica es necesario tener la garantía y la factura de compra [SEP] g________ [SEP] guarantee
+6761,es,-0.941065184,disminución [SEP] Los cambios en la empresa dieron lugar a la disminución de los gastos. [SEP] d_______ [SEP] decrease
+6762,es,0.729119549,"interminable [SEP] Es una historia interminable.  O sea, no tiene fin. [SEP] e______ [SEP] endless"
+6763,es,1.449800586,dejar [SEP] Sentí la imperiosa necesidad de dejar el trabajo y empezar de nuevo. [SEP] q___ [SEP] quit
+6764,es,-1.612650695,alejados [SEP] Los miembros de la banda de músicos estan alejados [SEP] a____ [SEP] apart
+6765,es,1.369623408,cuadro [SEP] Vamos a colgar el cuadro de mi abuela encima de la chimenea. [SEP] p______ [SEP] picture
+6766,es,-2.691764757,inclinar [SEP] Hay que inclinar la fuente para poder alcanzar el jugo. [SEP] t__ [SEP] tip
+6767,es,1.412559677,más [SEP] Fuímos al centro médico más cercano que encontramos. [SEP] n______ [SEP] nearest
+6768,es,2.786359051,televisión [SEP] Creo que ponen el partido en un canal de televisión por cable [SEP] t_________ [SEP] television
