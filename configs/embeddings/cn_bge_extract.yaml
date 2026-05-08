@@ -1,0 +1,31 @@
+experiment_name: cn_bge_extract
+
+inputs:
+  train_file: data/processed/cn_all_features/train_features.csv
+  dev_file: data/processed/cn_all_features/dev_features.csv
+
+schema:
+  id_column: item_id
+  target_column: GLMM_score
+  l1_column: L1
+
+text:
+  text_columns:
+    - L1_source_word
+    - L1_context
+    - en_target_clue
+    - en_target_word
+  text_join_mode: sep
+
+embeddings:
+  model_name: BAAI/bge-m3
+  batch_size: 32
+  normalize_embeddings: false
+
+pca:
+  save_global_pca: true
+  dimensions: [128, 256]
+
+outputs:
+  output_dir: data/processed/cn_bge_embeddings
+  prefix: bge
