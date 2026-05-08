@@ -48,19 +48,3 @@ python -m src.cli.run_neural_fusion_cli \
   --print-summary
 ```
 
-The resolved config saved in each `runs/<run_name>/` folder records the exact settings used for that run. This is better than committing every exploratory YAML file.
-
-### What not to commit
-
-Do not commit old or exploratory config files such as:
-
-```text
-*copy.yaml
-*_abilation.yaml
-*_top10_*.yaml
-*_saved_bge_*.yaml
-*_ridge_late_fusion.yaml
-*_xgb_late_fusion.yaml
-```
-
-Keep these only locally or move them to an untracked `configs/archive/` folder. The GitHub repository should contain the clean template and, if needed, only the final paper configs.
