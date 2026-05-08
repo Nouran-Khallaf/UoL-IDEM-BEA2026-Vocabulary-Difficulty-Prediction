@@ -126,7 +126,7 @@ data/external/
 └── CogNet-v2.0.tsv
 ```
 
-If the external resources are not redistributed, add a short note in `data/external/README.md` explaining where to obtain them and where to place them locally.
+
 
 ## Reproducing the pipeline
 
