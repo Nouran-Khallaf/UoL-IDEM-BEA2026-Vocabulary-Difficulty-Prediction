@@ -1,0 +1,100 @@
+# Main neural-fusion config template for the code release.
+# Copy this file and edit only the marked fields for each language/model run.
+
+experiment_name: es_bge_m3_neural_fusion        # CHANGE: use a unique run name
+experiment_type: neural_fusion
+model_name: neural_fusion
+random_seed: 42
+
+paths:
+  raw_data_dir: data/raw
+  interim_data_dir: data/interim
+  processed_data_dir: data/processed
+  external_data_dir: data/external
+  manifests_dir: data/manifests
+  runs_dir: runs
+
+fusion:
+  encoder_name: BAAI/bge-m3                    # CHANGE: e.g. BAAI/bge-m3, intfloat/multilingual-e5-large, sentence-transformers/LaBSE
+  text_columns:
+    - L1_context
+    - L1_source_word
+    - en_target_word
+  max_length: 128
+  text_join_mode: sep
+  add_special_tokens: true
+
+tabular_input:
+  feature_dir: data/processed/es_all_features  # CHANGE: es_all_features, de_all_features, or cn_all_features
+  train_file: train_features.csv
+  dev_file: dev_features.csv
+  train_diagnostics_file: train_feature_diagnostics.json
+  dev_diagnostics_file: dev_feature_diagnostics.json
+
+schema:
+  target_column: GLMM_score
+  id_column: item_id
+  l1_column: L1
+
+selection:
+  keep_columns_always:
+    - item_id
+    - GLMM_score
+
+  # Optional: uncomment selected_features for reduced-feature experiments.
+  # If this block is omitted/commented, the model uses all available engineered features.
+  # selected_features:
+  #   - baseline_pred_len
+  #   - cognate_sim
+  #   - clue_hidden_chars
+  #   - mlm_log_prob
+  #   - subtlex_lg10wf
+  #   - retrieval_target_prior
+  #   - semantic_usas_entropy_unweighted
+  #   - surprisal_subword_sum
+
+cv:
+  folds: 5
+  shuffle: true
+  random_state: 42
+  scheme: kfold
+
+evaluation:
+  metrics:
+    - rmse
+    - pearson
+    - spearman
+    - kendall_tau
+
+model:
+  parameters:
+    text_pooling: cls
+    tabular_hidden_dim: 256
+    fusion_hidden_dim: 256
+    tabular_num_layers: 2
+    fusion_num_layers: 2
+    dropout: 0.1
+    activation: gelu
+    use_layer_norm: true
+    freeze_encoder: false
+
+training:
+  epochs: 5
+  batch_size: 16
+  eval_batch_size: 16
+  learning_rate: 2.0e-5
+  encoder_learning_rate: 2.0e-5
+  head_learning_rate: 1.0e-3
+  weight_decay: 0.01
+  warmup_ratio: 0.1
+  max_grad_norm: 1.0
+  use_mixed_precision: false
+  num_workers: 0
+  pin_memory: false
+  early_stopping_patience: 2
+  monitor_metric: rmse
+  monitor_mode: min
+  device: cuda
+
+outputs:
+  output_subdir: es_bge_m3_neural_fusion        # CHANGE: normally same as experiment_name
