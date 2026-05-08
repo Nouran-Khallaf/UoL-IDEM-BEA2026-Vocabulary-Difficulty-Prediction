@@ -1,0 +1,93 @@
+project:
+  name: bea_kvl_pipeline
+  version: "0.1.0"
+  description: "Modular config-driven pipeline for BEA 2026 KVL lexical difficulty prediction"
+
+reproducibility:
+  random_seed: 42
+  python_hash_seed: 42
+  deterministic: true
+
+schema:
+  id_column: item_id
+  target_column: GLMM_score
+  l1_column: L1
+
+columns:
+  source_word: L1_source_word
+  en_word: en_target_word
+  clue: en_target_clue
+  context: L1_context
+  en_pos: en_target_pos
+
+paths:
+  raw_data_dir: data/raw
+  interim_data_dir: data/interim
+  processed_data_dir: data/processed
+  external_data_dir: data/external
+  manifests_dir: manifests
+  runs_dir: runs
+  logs_dir: runs/logs
+
+defaults:
+  language: de
+  cv_folds: 5
+  cv_splitter: kfold
+  cv_shuffle: true
+  metrics:
+    - rmse
+    - pearson
+    - spearman
+    - kendall_tau
+
+runtime:
+  device: cuda
+  num_workers: 4
+  precision: float32
+  debug: false
+  dry_run: false
+  debug_subset_n: null
+
+validation:
+  strict: true
+  fail_on_missing_file: true
+  fail_on_missing_required_column: true
+  fail_on_duplicate_ids: true
+  fail_on_invalid_l1: true
+  fail_on_empty_dataframe: true
+  fail_on_nan_in_target: true
+  fail_on_inf_in_features: true
+  fail_on_empty_feature_group: true
+  warn_on_constant_features: true
+  warn_on_high_missingness: true
+  high_missingness_threshold: 0.3
+
+preprocessing:
+  default_numeric_imputer: median
+  default_categorical_imputer: most_frequent
+  default_scaler: standard
+  drop_constant_features: false
+  correlation_filter:
+    enabled: false
+    threshold: 0.95
+    method: pearson
+
+outputs:
+  save_run_config: true
+  save_run_manifest: true
+  save_fold_metrics: true
+  save_oof_predictions: true
+  save_feature_importance: true
+  save_selected_features: true
+  save_diagnostics: true
+  save_preprocessed_folds: false
+
+logging:
+  level: INFO
+  log_to_file: true
+  log_filename: run.log
+
+closed_track:
+  enabled: true
+  allow_cross_l1_training: false
+  allow_external_labels: false
