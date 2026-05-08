@@ -277,7 +277,7 @@ If you use this repository, please cite the BEA 2026 shared-task paper and the U
 }
 ```
 
-Add the system-paper BibTeX entry here once the final proceedings metadata is available.
+
 
 ## Licence
 
