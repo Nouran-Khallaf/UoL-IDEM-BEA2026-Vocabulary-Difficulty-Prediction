@@ -40,8 +40,8 @@ The repository contains a config-driven pipeline for:
 │   ├── models/               # Regression and neural-fusion models
 │   └── pipelines/            # End-to-end experiment pipelines
 ├── tests/                    # Unit tests; to be completed
-├── requirements.txt
-└── pyproject.toml
+└──  requirements.txt
+ 
 ```
 
 ## Main system components
