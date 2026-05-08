@@ -1,6 +1,6 @@
 ## Configuration files
 
-To keep the repository clean, we do **not** include every exploratory YAML file. The public release keeps one main neural-fusion template:
+template:
 
 ```text
 configs/experiments/main_neural_fusion.yaml
