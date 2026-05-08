@@ -17,13 +17,27 @@ data/external/
 
 ### CogNet
 
-Used for cognate/link-based features.
+Used for cognate and cross-lingual form-overlap features.
 
-Place the file here:
+Source repository:
+
+```text
+https://github.com/kbatsuren/CogNet
+```
+
+Download CogNet v2.0:
+
+```text
+https://github.com/kbatsuren/CogNet/raw/master/CogNet-v2.0.zip
+```
+
+After downloading, unzip the archive and place/rename the TSV file as:
 
 ```text
 data/external/CogNet-v2.0.tsv
 ```
+
+CogNet is distributed by its authors under CC BY-NC-SA 4.0. Please check the original repository before redistribution or reuse.
 
 ### SUBTLEX-US
 
@@ -48,6 +62,3 @@ data/external/en_m3.xls
 ## Notes
 
 - Keep the filenames exactly as shown above, or update the corresponding paths in the configuration file.
-- Do not commit downloaded external resources to GitHub.
-- If a resource is unavailable, disable the corresponding feature group in the config or remove those features from the selected feature list.
-- The repository should contain this README only inside `data/external/`, not the external data files themselves.
