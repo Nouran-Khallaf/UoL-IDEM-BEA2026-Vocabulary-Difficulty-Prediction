@@ -233,30 +233,54 @@ python -m src.cli.run_feature_target_correlation \
   --score-column abs_kendall_tau
 ```
 
-## Development results
+## Results
 
-The following development-set results are from the saved run summaries in `runs/`.
+The values below follow the system paper. RMSE is the primary metric; lower RMSE is better, while higher Pearson, Spearman, and Kendall scores indicate stronger correlation or ranking performance.
 
-| Language | Saved run | RMSE | Pearson | Spearman | Kendall tau |
+### Main development-set results
+
+These are the best development-set neural-fusion results for each language from the main results table in the paper.
+
+| Language | Best development system | RMSE ↓ | ΔRMSE vs. closed baseline ↑ | Pearson ↑ | Spearman ↑ | Kendall τ ↑ |
+|---|---|---:|---:|---:|---:|---:|
+| Spanish (`es`) | BGE-M3 neural fusion | 1.0952 | 0.2618 | 0.8324 | 0.8373 | 0.6473 |
+| German (`de`) | multilingual-E5-large neural fusion | 1.0873 | 0.2407 | 0.8234 | 0.8414 | 0.6446 |
+| Chinese (`cn`) | BGE-M3 neural fusion | 0.9681 | 0.2069 | 0.8351 | 0.8428 | 0.6568 |
+
+### Official closed-track test results
+
+These are the best official UoL@IDEM submissions on the hidden test set.
+
+| Language | Best submitted run | Test RMSE ↓ | Pearson ↑ |
+|---|---|---:|---:|
+| Spanish (`es`) | All features | 1.132 | 0.813 |
+| German (`de`) | Frequency-oriented run | 1.037 | 0.834 |
+| Chinese (`cn`) | Frequency-oriented run | 0.891 | 0.860 |
+
+### Development error-analysis profile
+
+This table reports the development-set error-analysis profile used for the calibration and band-bias analysis.
+
+| Language | RMSE ↓ | MAE ↓ | Bias | Kendall τ ↑ | Band bias pattern |
 |---|---:|---:|---:|---:|---:|
-| German | `de_bge_m3_neural_fusion` | 1.117 | 0.814 | 0.826 | 0.629 |
-| Spanish | `es_bge_m3_neural_fusion` | 1.111 | 0.832 | 0.840 | 0.651 |
-| Chinese | `cn_BEG_neural_fusion_all` | 0.975 | 0.831 | 0.839 | 0.648 |
-
-Official submitted test RMSEs reported in the paper:
-
-| Language | Test RMSE |
-|---|---:|
-| Spanish | 1.132 |
-| German | 1.037 |
-| Chinese | 0.891 |
-
+| German (`de`) | 1.117 | 0.850 | +0.346 | 0.629 | +1.21 → −0.30 |
+| Spanish (`es`) | 1.111 | 0.834 | +0.331 | 0.651 | +1.28 → −0.32 |
+| Chinese (`cn`) | 0.975 | 0.724 | +0.258 | 0.648 | +1.03 → −0.27 |
 
 ## Citation
 
-If you use this repository, please cite the BEA 2026 shared-task paper and the UoL@IDEM system paper.
+If you use this repository, please cite the UoL@IDEM system paper and the BEA 2026 shared-task overview paper.
 
 ```bibtex
+@inproceedings{khallaf-sharoff-2026-uol-idem-bea-vdp,
+  title     = {{UOL@IDEM} at the {BEA} 2026 Shared Task: Neural Fusion and Feature-Rich Modeling for {L1}-Aware Vocabulary Difficulty Prediction (Closed-Track)},
+  author    = {Khallaf, Nouran and Sharoff, Serge},
+  booktitle = {Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2026)},
+  year      = {2026},
+  address   = {San Diego, California},
+  publisher = {Association for Computational Linguistics}
+}
+
 @inproceedings{felice-skidmore-2026-bea-vdp,
   title     = {Findings of the {BEA} 2026 Shared Task on Vocabulary Difficulty Prediction for English Learners},
   author    = {Felice, Mariano and Skidmore, Lucy},
@@ -268,7 +292,3 @@ If you use this repository, please cite the BEA 2026 shared-task paper and the U
 ```
 
 
-
-## Licence
-
-Add the project licence before release. Recommended options are MIT or Apache-2.0 for code, with a separate note that the BEA data and external lexical resources remain under their original licences.
