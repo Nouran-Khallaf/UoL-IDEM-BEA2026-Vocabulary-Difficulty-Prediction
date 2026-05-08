@@ -251,16 +251,6 @@ Official submitted test RMSEs reported in the paper:
 | German | 1.037 |
 | Chinese | 0.891 |
 
-## GitHub release notes
-
-Before making the repository public, remove generated artifacts, local paths, credentials and files whose licences do not allow redistribution. In particular:
-
-- remove hard-coded credentials from shell scripts;
-- remove `runs/*/final_model.pt` unless using Git LFS or a separate release asset;
-- remove `data/processed_old/`, `__pycache__/`, `.DS_Store`, `__MACOSX/`, and duplicated `copy` files;
-- do not commit full external resources such as CogNet or SUBTLEX unless redistribution is allowed;
-- replace local paths such as `/mnt/scratch/...` with relative paths;
-- add a `.gitignore` before committing.
 
 ## Citation
 
