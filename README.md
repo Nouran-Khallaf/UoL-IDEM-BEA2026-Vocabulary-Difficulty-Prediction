@@ -237,6 +237,9 @@ python -m src.cli.run_feature_target_correlation \
 
 The values below follow the system paper. RMSE is the primary metric; lower RMSE is better, while higher Pearson, Spearman, and Kendall scores indicate stronger correlation or ranking performance.
 
+In addition to the automatic metrics, we provide a supplementary manual error analysis examining model behaviour across languages and difficulty bands:  
+[UoL-BEA Error Analysis](https://tinyurl.com/UoL-BEA-Error-Analysis)
+
 ### Main development-set results
 
 These are the best development-set neural-fusion results for each language from the main results table in the paper.
